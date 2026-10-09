@@ -1,0 +1,21 @@
+# 核心运行依赖（Python >= 3.10）
+# 注意：训练需要 CUDA 版 torch；Apple Silicon 上只能跑数据工程与评测（见 README）
+pandas>=2.0
+openpyxl>=3.1          # 读取原始 Excel（仅私有模式需要）
+
+# ---- 训练 / 推理（必须装 CUDA 版 torch）----
+# 建议按官方源安装，避免 PyPI 上 nvidia-*-cu13 是空占位包导致解析卡死：
+#   uv pip install --index-url https://download.pytorch.org/whl/cu128 torch
+torch>=2.4
+transformers>=4.45     # MiMo-V2.6 的 qwen3_5 架构需 transformers>=5.12
+peft>=0.11
+trl>=0.9
+datasets>=2.19
+accelerate>=0.33
+
+# ---- 模型下载 ----
+huggingface_hub>=0.23
+modelscope>=1.15
+
+# ---- 演示界面（可选）----
+gradio>=4.44

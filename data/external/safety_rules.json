@@ -1,0 +1,1554 @@
+{
+ "eighteen_incompat": [
+  {
+   "a": "甘草",
+   "b": "甘遂"
+  },
+  {
+   "a": "甘草",
+   "b": "大戟"
+  },
+  {
+   "a": "甘草",
+   "b": "海藻"
+  },
+  {
+   "a": "甘草",
+   "b": "芫花"
+  },
+  {
+   "a": "乌头",
+   "b": "贝母"
+  },
+  {
+   "a": "乌头",
+   "b": "瓜蒌"
+  },
+  {
+   "a": "乌头",
+   "b": "半夏"
+  },
+  {
+   "a": "乌头",
+   "b": "白蔹"
+  },
+  {
+   "a": "乌头",
+   "b": "白及"
+  },
+  {
+   "a": "藜芦",
+   "b": "人参"
+  },
+  {
+   "a": "藜芦",
+   "b": "沙参"
+  },
+  {
+   "a": "藜芦",
+   "b": "丹参"
+  },
+  {
+   "a": "藜芦",
+   "b": "玄参"
+  },
+  {
+   "a": "藜芦",
+   "b": "细辛"
+  },
+  {
+   "a": "藜芦",
+   "b": "芍药"
+  }
+ ],
+ "nineteen_incompat": [
+  {
+   "a": "硫黄",
+   "b": "朴硝"
+  },
+  {
+   "a": "水银",
+   "b": "砒霜"
+  },
+  {
+   "a": "狼毒",
+   "b": "密陀僧"
+  },
+  {
+   "a": "巴豆",
+   "b": "牵牛子"
+  },
+  {
+   "a": "丁香",
+   "b": "郁金"
+  },
+  {
+   "a": "川乌",
+   "b": "草乌"
+  },
+  {
+   "a": "牙硝",
+   "b": "三棱"
+  },
+  {
+   "a": "官桂",
+   "b": "石脂"
+  },
+  {
+   "a": "人参",
+   "b": "五灵脂"
+  }
+ ],
+ "pregnancy_forbidden": [
+  "巴豆",
+  "牵牛子",
+  "大戟",
+  "甘遂",
+  "芫花",
+  "商陆",
+  "麝香",
+  "水蛭",
+  "虻虫",
+  "莪术",
+  "三棱",
+  "水银",
+  "砒霜",
+  "斑蝥"
+ ],
+ "pregnancy_caution": [
+  "桃仁",
+  "红花",
+  "川芎",
+  "牛膝",
+  "肉桂",
+  "附子",
+  "半夏",
+  "大黄",
+  "枳实",
+  "冬葵子",
+  "干姜"
+ ],
+ "herb_drug_interactions": [
+  {
+   "id": "dan-shen-anticoagulants",
+   "herb_keys": [
+    "dan_shen"
+   ],
+   "drug_class": "anticoagulants",
+   "drug_class_zh": "抗凝血药",
+   "drug_examples": [
+    "warfarin",
+    "rivaroxaban",
+    "apixaban",
+    "dabigatran"
+   ],
+   "severity": "major",
+   "mechanism_zh": "丹参所含丹参酮、丹酚酸等成分可抑制血小板聚集，并经报道增加华法林的抗凝作用，可致 INR 升高及出血。",
+   "mechanism_en": "Salvia miltiorrhiza contains tanshinones and salvianolic acids that inhibit platelet aggregation, and is reported to potentiate warfarin's anticoagulant effect, raising INR and increasing bleeding risk.",
+   "clinical_recommendation_zh": "服用华法林或新型口服抗凝药者忌用丹参。如必须合用，须在医师监测 INR 及出凝血指标下进行。",
+   "clinical_recommendation_en": "Avoid Dan Shen in patients on warfarin or DOACs. If combination is unavoidable, INR and coagulation must be closely monitored by the prescribing physician.",
+   "sources": [
+    "Brinker 4th ed., p. 196",
+    "Chen & Chen, p. 631"
+   ],
+   "source_keys": [
+    "brinker_4e",
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "dang-gui-anticoagulants",
+   "herb_keys": [
+    "dang_gui"
+   ],
+   "drug_class": "anticoagulants",
+   "drug_class_zh": "抗凝血药",
+   "drug_examples": [
+    "warfarin",
+    "heparin",
+    "rivaroxaban"
+   ],
+   "severity": "major",
+   "mechanism_zh": "当归含香豆素类成分，理论上可加强华法林之抗凝作用。已有当归与华法林合用致 INR 升高、出血之报道。",
+   "mechanism_en": "Angelica sinensis contains coumarin derivatives that may potentiate the anticoagulant effect of warfarin. Case reports document elevated INR and bleeding when Dang Gui is combined with warfarin.",
+   "clinical_recommendation_zh": "服用抗凝药者忌用当归及含当归之复方（四物汤、八珍汤、十全大补汤等）。",
+   "clinical_recommendation_en": "Avoid Dang Gui — and any formula containing it (Si Wu Tang, Ba Zhen Tang, Shi Quan Da Bu Tang) — in patients on anticoagulants.",
+   "sources": [
+    "Brinker 4th ed., p. 31",
+    "Chen & Chen, p. 909"
+   ],
+   "source_keys": [
+    "brinker_4e",
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "hong-hua-anticoagulants",
+   "herb_keys": [
+    "hong_hua"
+   ],
+   "drug_class": "anticoagulants",
+   "drug_class_zh": "抗凝血药",
+   "drug_examples": [
+    "warfarin",
+    "rivaroxaban",
+    "aspirin",
+    "clopidogrel"
+   ],
+   "severity": "major",
+   "mechanism_zh": "红花有抗血小板与抗凝血作用，与华法林、阿司匹林、氯吡格雷合用增加出血风险。",
+   "mechanism_en": "Carthamus tinctorius (safflower) has documented antiplatelet and anticoagulant activity; combination with warfarin, aspirin, or clopidogrel increases bleeding risk.",
+   "clinical_recommendation_zh": "服用抗凝药或抗血小板药者忌用红花及含红花之活血化瘀方剂（桃红四物汤等）。",
+   "clinical_recommendation_en": "Avoid Hong Hua — and any blood-invigorating formula containing it (Tao Hong Si Wu Tang, etc.) — in patients on anticoagulants or antiplatelet agents.",
+   "sources": [
+    "Brinker 4th ed., p. 89",
+    "Chen & Chen, p. 661"
+   ],
+   "source_keys": [
+    "brinker_4e",
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "tao-ren-anticoagulants",
+   "herb_keys": [
+    "tao_ren"
+   ],
+   "drug_class": "anticoagulants",
+   "drug_class_zh": "抗凝血药",
+   "drug_examples": [
+    "warfarin",
+    "aspirin",
+    "clopidogrel"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "桃仁含苦杏仁苷类成分，并具活血化瘀作用，理论上与抗凝药、抗血小板药合用增加出血风险。",
+   "mechanism_en": "Persicae semen contains amygdalin and exhibits blood-invigorating activity; theoretical interaction with anticoagulants and antiplatelet agents may increase bleeding risk.",
+   "clinical_recommendation_zh": "服用抗凝药或抗血小板药者慎用桃仁。",
+   "clinical_recommendation_en": "Use Tao Ren with caution in patients on anticoagulant or antiplatelet therapy.",
+   "sources": [
+    "Bensky et al. Materia Medica 3rd ed., safety appendix"
+   ],
+   "source_keys": [
+    "bensky_mm_3e"
+   ]
+  },
+  {
+   "id": "ma-huang-mao-inhibitors",
+   "herb_keys": [
+    "ma_huang"
+   ],
+   "drug_class": "MAO inhibitors",
+   "drug_class_zh": "单胺氧化酶抑制剂",
+   "drug_examples": [
+    "phenelzine",
+    "tranylcypromine",
+    "selegiline",
+    "moclobemide"
+   ],
+   "severity": "major",
+   "mechanism_zh": "麻黄含麻黄碱（ephedrine），为间接拟交感胺。与单胺氧化酶抑制剂合用可致严重高血压危象。",
+   "mechanism_en": "Ephedra sinica contains ephedrine, an indirect-acting sympathomimetic. Co-administration with MAO inhibitors can precipitate hypertensive crisis.",
+   "clinical_recommendation_zh": "服用 MAOI 者绝对禁用麻黄。即便停药后亦须等待至少 2 周方可使用。",
+   "clinical_recommendation_en": "Absolutely contraindicated in patients on MAO inhibitors. Wait at least 2 weeks after discontinuation of the MAOI before using Ma Huang.",
+   "sources": [
+    "Brinker 4th ed., p. 70",
+    "Chen & Chen, p. 39"
+   ],
+   "source_keys": [
+    "brinker_4e",
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "ma-huang-sympathomimetics",
+   "herb_keys": [
+    "ma_huang"
+   ],
+   "drug_class": "sympathomimetics & stimulants",
+   "drug_class_zh": "拟交感药及兴奋剂",
+   "drug_examples": [
+    "pseudoephedrine",
+    "phenylephrine",
+    "amphetamines",
+    "caffeine (high dose)"
+   ],
+   "severity": "major",
+   "mechanism_zh": "麻黄之拟交感作用与其他拟交感药合用，致心动过速、高血压、心律失常之风险显著增加。",
+   "mechanism_en": "Ma Huang's sympathomimetic activity adds to that of other adrenergic drugs, significantly increasing the risk of tachycardia, hypertension, and arrhythmia.",
+   "clinical_recommendation_zh": "服用拟交感药者禁用麻黄。",
+   "clinical_recommendation_en": "Avoid Ma Huang in patients taking sympathomimetic medications.",
+   "sources": [
+    "Brinker 4th ed., p. 71"
+   ],
+   "source_keys": [
+    "brinker_4e"
+   ]
+  },
+  {
+   "id": "ma-huang-cardiac-glycosides",
+   "herb_keys": [
+    "ma_huang"
+   ],
+   "drug_class": "cardiac glycosides",
+   "drug_class_zh": "强心苷",
+   "drug_examples": [
+    "digoxin"
+   ],
+   "severity": "major",
+   "mechanism_zh": "麻黄碱可增加心肌兴奋性，与地高辛合用可诱发室性心律失常。",
+   "mechanism_en": "Ephedrine increases myocardial excitability; combination with digoxin may precipitate ventricular arrhythmias.",
+   "clinical_recommendation_zh": "服用地高辛者禁用麻黄。",
+   "clinical_recommendation_en": "Avoid Ma Huang in patients taking digoxin.",
+   "sources": [
+    "Brinker 4th ed., p. 71"
+   ],
+   "source_keys": [
+    "brinker_4e"
+   ]
+  },
+  {
+   "id": "gan-cao-diuretics",
+   "herb_keys": [
+    "gan_cao"
+   ],
+   "drug_class": "potassium-wasting diuretics",
+   "drug_class_zh": "排钾利尿剂",
+   "drug_examples": [
+    "hydrochlorothiazide",
+    "furosemide",
+    "bumetanide"
+   ],
+   "severity": "major",
+   "mechanism_zh": "甘草所含甘草甜素可抑制 11-β-羟类固醇脱氢酶 2，致皮质醇蓄积，引起假性醛固酮增多症（钠水潴留、低钾、高血压）。与排钾利尿剂合用使低血钾风险显著加剧。",
+   "mechanism_en": "Glycyrrhizin in licorice inhibits 11-β-hydroxysteroid dehydrogenase type 2, leading to cortisol accumulation and pseudoaldosteronism (sodium retention, hypokalemia, hypertension). Combination with potassium-wasting diuretics dramatically increases the risk of severe hypokalemia.",
+   "clinical_recommendation_zh": "服用排钾利尿剂者长期或大量用甘草需慎，并监测血钾。短期、低剂量（如调和诸药 3g 以下）一般尚可。",
+   "clinical_recommendation_en": "Patients on potassium-wasting diuretics should avoid long-term or high-dose Gan Cao and have serum potassium monitored. Short-term, low-dose use (≤3 g for harmonization) is generally safer.",
+   "sources": [
+    "Brinker 4th ed., p. 144",
+    "Chen & Chen, p. 877"
+   ],
+   "source_keys": [
+    "brinker_4e",
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "gan-cao-digoxin",
+   "herb_keys": [
+    "gan_cao"
+   ],
+   "drug_class": "cardiac glycosides",
+   "drug_class_zh": "强心苷",
+   "drug_examples": [
+    "digoxin"
+   ],
+   "severity": "major",
+   "mechanism_zh": "甘草所致低血钾增强地高辛之毒性，可致地高辛中毒（恶心、心律失常、视觉异常）。",
+   "mechanism_en": "Hypokalemia induced by licorice potentiates digoxin toxicity, manifesting as nausea, arrhythmia, and visual disturbance.",
+   "clinical_recommendation_zh": "服用地高辛者长期用甘草需慎，并监测血钾与地高辛血药浓度。",
+   "clinical_recommendation_en": "Patients on digoxin should use Gan Cao cautiously, with monitoring of serum potassium and digoxin levels.",
+   "sources": [
+    "Brinker 4th ed., p. 144"
+   ],
+   "source_keys": [
+    "brinker_4e"
+   ]
+  },
+  {
+   "id": "gan-cao-corticosteroids",
+   "herb_keys": [
+    "gan_cao"
+   ],
+   "drug_class": "corticosteroids",
+   "drug_class_zh": "皮质类固醇",
+   "drug_examples": [
+    "prednisone",
+    "dexamethasone",
+    "hydrocortisone"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "甘草甜素可延缓皮质醇代谢，与外源性皮质类固醇合用使皮质醇负担及副作用增加。",
+   "mechanism_en": "Glycyrrhizin slows cortisol metabolism; combination with exogenous corticosteroids increases the cortisol burden and the risk of corticosteroid side effects.",
+   "clinical_recommendation_zh": "长期使用皮质类固醇者，长期合用甘草需谨慎。",
+   "clinical_recommendation_en": "Long-term combination of Gan Cao and systemic corticosteroids requires monitoring.",
+   "sources": [
+    "Brinker 4th ed., p. 145"
+   ],
+   "source_keys": [
+    "brinker_4e"
+   ]
+  },
+  {
+   "id": "huang-qi-immunosuppressants",
+   "herb_keys": [
+    "huang_qi"
+   ],
+   "drug_class": "immunosuppressants",
+   "drug_class_zh": "免疫抑制剂",
+   "drug_examples": [
+    "cyclosporine",
+    "tacrolimus",
+    "azathioprine"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "黄芪有显著之免疫增强作用，理论上与免疫抑制剂之作用相对抗，可削弱后者之疗效（尤其器官移植与自身免疫病）。",
+   "mechanism_en": "Astragalus has documented immunostimulant activity that may theoretically antagonize immunosuppressive therapy, particularly in organ transplant recipients and autoimmune disease.",
+   "clinical_recommendation_zh": "器官移植术后及自身免疫病服用免疫抑制剂者，慎用黄芪。",
+   "clinical_recommendation_en": "Use Huang Qi with caution in transplant recipients and patients on immunosuppressive therapy for autoimmune disease.",
+   "sources": [
+    "Chen & Chen, p. 854",
+    "Brinker 4th ed., p. 11"
+   ],
+   "source_keys": [
+    "chen_chen_cmm",
+    "brinker_4e"
+   ]
+  },
+  {
+   "id": "ren-shen-anticoagulants",
+   "herb_keys": [
+    "ren_shen"
+   ],
+   "drug_class": "anticoagulants",
+   "drug_class_zh": "抗凝血药",
+   "drug_examples": [
+    "warfarin"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "人参与华法林之相互作用文献存争议：有报道显示人参可降低华法林之 INR（即拮抗其作用）。机制可能涉及肝酶诱导。",
+   "mechanism_en": "Reports on Panax ginseng × warfarin are mixed; some studies show ginseng reduces warfarin's INR (antagonism), possibly via hepatic enzyme induction.",
+   "clinical_recommendation_zh": "服用华法林者使用人参须监测 INR。",
+   "clinical_recommendation_en": "Patients on warfarin who use Ren Shen should have INR monitored.",
+   "sources": [
+    "Brinker 4th ed., p. 110",
+    "Chen & Chen, p. 845"
+   ],
+   "source_keys": [
+    "brinker_4e",
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "ren-shen-hypoglycemics",
+   "herb_keys": [
+    "ren_shen"
+   ],
+   "drug_class": "antidiabetic agents",
+   "drug_class_zh": "降糖药",
+   "drug_examples": [
+    "insulin",
+    "metformin",
+    "glipizide",
+    "glyburide"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "人参有降低血糖之作用，与降糖药合用可致低血糖。",
+   "mechanism_en": "Ginseng has hypoglycemic activity; combination with antidiabetic drugs may cause hypoglycemia.",
+   "clinical_recommendation_zh": "糖尿病患者服降糖药同时使用人参须监测血糖。",
+   "clinical_recommendation_en": "Diabetic patients on antidiabetic medication who use Ren Shen should monitor blood glucose closely.",
+   "sources": [
+    "Brinker 4th ed., p. 110"
+   ],
+   "source_keys": [
+    "brinker_4e"
+   ]
+  },
+  {
+   "id": "huang-qin-cyp450",
+   "herb_keys": [
+    "huang_qin"
+   ],
+   "drug_class": "CYP3A4 substrates",
+   "drug_class_zh": "CYP3A4 代谢底物",
+   "drug_examples": [
+    "statins",
+    "calcium channel blockers",
+    "many oral anticancer agents"
+   ],
+   "severity": "theoretical",
+   "mechanism_zh": "黄芩中黄酮类成分（黄芩苷等）于体外可调节 CYP450 同工酶活性，理论上影响经此通路代谢之药物之血药浓度。",
+   "mechanism_en": "Scutellaria flavonoids (notably baicalin) modulate CYP450 isoforms in vitro, theoretically altering serum levels of drugs metabolized via these pathways.",
+   "clinical_recommendation_zh": "长期合用窄治疗指数药物（如他汀类、抗癌药）时需考量。",
+   "clinical_recommendation_en": "Consider this interaction in long-term combination with narrow-therapeutic-index drugs (statins, oral oncologics).",
+   "sources": [
+    "Chen & Chen, p. 192"
+   ],
+   "source_keys": [
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "chai-hu-cyp450",
+   "herb_keys": [
+    "chai_hu"
+   ],
+   "drug_class": "CYP3A4 substrates",
+   "drug_class_zh": "CYP3A4 代谢底物",
+   "drug_examples": [
+    "statins",
+    "midazolam",
+    "cyclosporine"
+   ],
+   "severity": "theoretical",
+   "mechanism_zh": "柴胡所含柴胡皂苷于动物模型中可调节 CYP3A 酶活性，理论上影响共服药物之血药浓度。",
+   "mechanism_en": "Saikosaponins in Bupleurum modulate CYP3A activity in animal models, theoretically affecting serum levels of co-administered substrate drugs.",
+   "clinical_recommendation_zh": "长期合用经 CYP3A4 代谢之窄治疗指数药物时需考量。",
+   "clinical_recommendation_en": "Consider when co-administering long-term with narrow-therapeutic-index CYP3A4 substrates.",
+   "sources": [
+    "Chen & Chen, p. 71"
+   ],
+   "source_keys": [
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "fu-zi-cardiac",
+   "herb_keys": [
+    "fu_zi"
+   ],
+   "drug_class": "cardiac & antiarrhythmic drugs",
+   "drug_class_zh": "心脏药及抗心律失常药",
+   "drug_examples": [
+    "digoxin",
+    "beta-blockers",
+    "antiarrhythmics"
+   ],
+   "severity": "major",
+   "mechanism_zh": "附子（生品）含乌头碱类生物碱，具显著心毒性，可致心律失常、心力衰竭。即便经炮制后毒性大减，仍须避免与心脏药同用。",
+   "mechanism_en": "Aconitum carmichaelii contains aconitine alkaloids with marked cardiotoxicity; even prepared (paozhi) preparations should not be combined with cardiac or antiarrhythmic medications.",
+   "clinical_recommendation_zh": "心脏病患者及服用心脏药物者禁用附子。仅可由有经验之中医师严格炮制并控制剂量后使用。",
+   "clinical_recommendation_en": "Contraindicated in patients with cardiac disease or on cardiac medication. Use only when properly prepared (paozhi), at controlled dosage, by an experienced TCM practitioner.",
+   "sources": [
+    "Brinker 4th ed., p. 5",
+    "Chen & Chen, p. 481"
+   ],
+   "source_keys": [
+    "brinker_4e",
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "wu-wei-zi-cyp450",
+   "herb_keys": [
+    "wu_wei_zi"
+   ],
+   "drug_class": "CYP3A4 substrates",
+   "drug_class_zh": "CYP3A4 代谢底物",
+   "drug_examples": [
+    "tacrolimus",
+    "midazolam",
+    "warfarin"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "五味子之木脂素类成分可显著抑制 CYP3A4，使经此酶代谢之药物血药浓度升高。已有五味子提高他克莫司血药浓度之报告。",
+   "mechanism_en": "Schisandra lignans are documented CYP3A4 inhibitors; co-administration significantly raises blood levels of CYP3A4 substrates. Case reports document increased tacrolimus levels with Wu Wei Zi.",
+   "clinical_recommendation_zh": "服用他克莫司、咪达唑仑、华法林之窄治疗指数药者使用五味子须监测血药浓度。",
+   "clinical_recommendation_en": "Patients on tacrolimus, midazolam, warfarin, or other narrow-therapeutic-index CYP3A4 substrates require monitoring when combined with Wu Wei Zi.",
+   "sources": [
+    "Chen & Chen, p. 882",
+    "Brinker 4th ed., p. 188"
+   ],
+   "source_keys": [
+    "chen_chen_cmm",
+    "brinker_4e"
+   ]
+  },
+  {
+   "id": "da-huang-diuretics-laxatives",
+   "herb_keys": [
+    "da_huang"
+   ],
+   "drug_class": "potassium-affecting drugs",
+   "drug_class_zh": "影响钾离子之药物",
+   "drug_examples": [
+    "digoxin",
+    "thiazide diuretics",
+    "loop diuretics",
+    "corticosteroids"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "大黄所含蒽醌类泻下成分长期使用可致低钾血症，与排钾药物及强心苷合用风险叠加。",
+   "mechanism_en": "Anthraquinone laxatives in Da Huang can cause hypokalemia with prolonged use; combination with potassium-wasting drugs and cardiac glycosides is additive.",
+   "clinical_recommendation_zh": "长期服用大黄者监测血钾。短期攻下用药一般无虞。",
+   "clinical_recommendation_en": "Monitor serum potassium with prolonged Da Huang use. Short-term purgative use is generally safe.",
+   "sources": [
+    "Brinker 4th ed., p. 134",
+    "Chen & Chen, p. 119"
+   ],
+   "source_keys": [
+    "brinker_4e",
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "ban-xia-sedatives",
+   "herb_keys": [
+    "ban_xia"
+   ],
+   "drug_class": "sedatives & hypnotics",
+   "drug_class_zh": "镇静催眠药",
+   "drug_examples": [
+    "benzodiazepines",
+    "zolpidem",
+    "eszopiclone",
+    "barbiturates"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "半夏具中枢抑制作用，与苯二氮卓类、巴比妥类等镇静催眠药合用可致过度镇静、嗜睡。",
+   "mechanism_en": "Pinellia ternata has CNS-depressant activity; combination with benzodiazepines, barbiturates, or other sedative-hypnotics may cause excessive sedation and somnolence.",
+   "clinical_recommendation_zh": "服用镇静催眠药者使用半夏须谨慎，注意嗜睡及呼吸抑制。",
+   "clinical_recommendation_en": "Use Ban Xia cautiously in patients on sedative-hypnotics; monitor for excessive drowsiness and respiratory depression.",
+   "sources": [
+    "Chen & Chen, p. 400",
+    "Bensky et al. Materia Medica 3rd ed., safety appendix"
+   ],
+   "source_keys": [
+    "chen_chen_cmm",
+    "bensky_mm_3e"
+   ]
+  },
+  {
+   "id": "sheng-di-huang-anticoagulants",
+   "herb_keys": [
+    "sheng_di_huang"
+   ],
+   "drug_class": "anticoagulants",
+   "drug_class_zh": "抗凝血药",
+   "drug_examples": [
+    "warfarin",
+    "rivaroxaban",
+    "apixaban"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "生地黄有凉血活血之效，可影响血小板功能，理论上与抗凝药合用增加出血风险。",
+   "mechanism_en": "Rehmannia glutinosa (raw) cools and invigorates blood, may affect platelet function, and theoretically increases bleeding risk when combined with anticoagulants.",
+   "clinical_recommendation_zh": "服用抗凝药者使用生地黄须监测凝血功能。",
+   "clinical_recommendation_en": "Monitor coagulation parameters when Sheng Di Huang is used in patients on anticoagulant therapy.",
+   "sources": [
+    "Chen & Chen, p. 700",
+    "Bensky et al. Materia Medica 3rd ed., safety appendix"
+   ],
+   "source_keys": [
+    "chen_chen_cmm",
+    "bensky_mm_3e"
+   ]
+  },
+  {
+   "id": "huang-lian-antidiabetics",
+   "herb_keys": [
+    "huang_lian"
+   ],
+   "drug_class": "antidiabetic agents",
+   "drug_class_zh": "降糖药",
+   "drug_examples": [
+    "metformin",
+    "glipizide",
+    "glyburide",
+    "insulin"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "黄连所含小檗碱（berberine）具显著降血糖作用，与降糖药合用可致低血糖。",
+   "mechanism_en": "Coptis chinensis contains berberine, which has well-documented hypoglycemic activity; combination with antidiabetic agents increases the risk of hypoglycemia.",
+   "clinical_recommendation_zh": "糖尿病患者服用降糖药期间使用黄连须密切监测血糖，必要时调整降糖药剂量。",
+   "clinical_recommendation_en": "Monitor blood glucose closely when Huang Lian is combined with antidiabetic medications; dose adjustment of the antidiabetic may be required.",
+   "sources": [
+    "Chen & Chen, p. 177",
+    "Brinker 4th ed., p. 53"
+   ],
+   "source_keys": [
+    "chen_chen_cmm",
+    "brinker_4e"
+   ]
+  },
+  {
+   "id": "shan-zha-antihypertensives",
+   "herb_keys": [
+    "shan_zha"
+   ],
+   "drug_class": "antihypertensives",
+   "drug_class_zh": "降压药",
+   "drug_examples": [
+    "ACE inhibitors",
+    "ARBs",
+    "amlodipine",
+    "metoprolol"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "山楂含黄酮类及原花青素，有扩张血管、降低血压之作用，与降压药合用可致血压过低。",
+   "mechanism_en": "Crataegus pinnatifida contains flavonoids and proanthocyanidins with vasodilatory and hypotensive effects; combination with antihypertensives may cause excessive blood pressure reduction.",
+   "clinical_recommendation_zh": "服用降压药者使用山楂须注意血压变化，防止低血压。",
+   "clinical_recommendation_en": "Monitor blood pressure when Shan Zha is used alongside antihypertensive medications to avoid excessive hypotension.",
+   "sources": [
+    "Chen & Chen, p. 469",
+    "Brinker 4th ed., p. 55"
+   ],
+   "source_keys": [
+    "chen_chen_cmm",
+    "brinker_4e"
+   ]
+  },
+  {
+   "id": "gou-qi-zi-anticoagulants",
+   "herb_keys": [
+    "gou_qi_zi"
+   ],
+   "drug_class": "anticoagulants",
+   "drug_class_zh": "抗凝血药",
+   "drug_examples": [
+    "warfarin",
+    "rivaroxaban"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "枸杞子有报道可增强华法林之抗凝作用，致 INR 升高及出血。机制可能涉及 CYP2C9 抑制。",
+   "mechanism_en": "Lycium barbarum has been reported to potentiate warfarin's anticoagulant effect, raising INR and increasing bleeding risk, possibly via CYP2C9 inhibition.",
+   "clinical_recommendation_zh": "服用华法林者使用枸杞子须监测 INR。",
+   "clinical_recommendation_en": "Patients on warfarin should have INR monitored when taking Gou Qi Zi.",
+   "sources": [
+    "Brinker 4th ed., p. 151"
+   ],
+   "source_keys": [
+    "brinker_4e"
+   ]
+  },
+  {
+   "id": "he-shou-wu-hepatotoxic-drugs",
+   "herb_keys": [
+    "he_shou_wu"
+   ],
+   "drug_class": "hepatotoxic drugs",
+   "drug_class_zh": "肝毒性药物",
+   "drug_examples": [
+    "acetaminophen (high dose)",
+    "methotrexate",
+    "statins",
+    "isoniazid"
+   ],
+   "severity": "major",
+   "mechanism_zh": "何首乌含蒽醌类成分，已有大量肝毒性报告（包括致死病例）。与其他肝毒性药物合用使肝损伤风险叠加。",
+   "mechanism_en": "Polygonum multiflorum contains anthraquinones and has extensive documentation of hepatotoxicity, including fatal cases. Combination with other hepatotoxic drugs compounds the risk of liver injury.",
+   "clinical_recommendation_zh": "服用肝毒性药物者禁用何首乌。即便单独使用亦须监测肝功能。",
+   "clinical_recommendation_en": "Avoid He Shou Wu in patients taking hepatotoxic medications. Even when used alone, liver function monitoring is advised.",
+   "sources": [
+    "Brinker 4th ed., p. 133",
+    "Bensky et al. Materia Medica 3rd ed., safety appendix"
+   ],
+   "source_keys": [
+    "brinker_4e",
+    "bensky_mm_3e"
+   ]
+  },
+  {
+   "id": "ge-gen-antidiabetics",
+   "herb_keys": [
+    "ge_gen"
+   ],
+   "drug_class": "antidiabetic agents",
+   "drug_class_zh": "降糖药",
+   "drug_examples": [
+    "metformin",
+    "glipizide",
+    "insulin"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "葛根所含葛根素（puerarin）等异黄酮类成分有降血糖作用，与降糖药合用可增加低血糖风险。",
+   "mechanism_en": "Pueraria lobata contains puerarin and other isoflavones with hypoglycemic activity; combination with antidiabetic agents may increase the risk of hypoglycemia.",
+   "clinical_recommendation_zh": "糖尿病患者服用降糖药期间使用葛根须监测血糖。",
+   "clinical_recommendation_en": "Monitor blood glucose when Ge Gen is combined with antidiabetic medications.",
+   "sources": [
+    "Chen & Chen, p. 58",
+    "Brinker 4th ed., p. 132"
+   ],
+   "source_keys": [
+    "chen_chen_cmm",
+    "brinker_4e"
+   ]
+  },
+  {
+   "id": "san-qi-anticoagulants",
+   "herb_keys": [
+    "san_qi"
+   ],
+   "drug_class": "anticoagulants & antiplatelet agents",
+   "drug_class_zh": "抗凝血药及抗血小板药",
+   "drug_examples": [
+    "warfarin",
+    "aspirin",
+    "clopidogrel",
+    "rivaroxaban"
+   ],
+   "severity": "major",
+   "mechanism_zh": "三七含三七皂苷，具显著抗血小板及抗凝血活性。与华法林、阿司匹林等合用显著增加出血风险。",
+   "mechanism_en": "Panax notoginseng contains notoginsenosides with significant antiplatelet and anticoagulant activity; combination with warfarin, aspirin, or clopidogrel significantly increases bleeding risk.",
+   "clinical_recommendation_zh": "服用抗凝药或抗血小板药者禁用三七。术前至少 2 周停用。",
+   "clinical_recommendation_en": "Avoid San Qi in patients on anticoagulants or antiplatelet agents. Discontinue at least 2 weeks before surgery.",
+   "sources": [
+    "Brinker 4th ed., p. 107",
+    "Chen & Chen, p. 651"
+   ],
+   "source_keys": [
+    "brinker_4e",
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "rou-gui-anticoagulants",
+   "herb_keys": [
+    "rou_gui"
+   ],
+   "drug_class": "anticoagulants",
+   "drug_class_zh": "抗凝血药",
+   "drug_examples": [
+    "warfarin",
+    "rivaroxaban",
+    "aspirin"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "肉桂含香豆素类成分，有报道可增强华法林之抗凝效果。大剂量肉桂可抑制血小板聚集。",
+   "mechanism_en": "Cinnamomum cassia contains coumarins that may potentiate warfarin's anticoagulant effect. High-dose cinnamon bark has been reported to inhibit platelet aggregation.",
+   "clinical_recommendation_zh": "服用华法林者大剂量使用肉桂须监测 INR。常规调味量一般无虞。",
+   "clinical_recommendation_en": "Monitor INR when high-dose Rou Gui is combined with warfarin. Culinary doses are generally safe.",
+   "sources": [
+    "Brinker 4th ed., p. 46",
+    "Chen & Chen, p. 489"
+   ],
+   "source_keys": [
+    "brinker_4e",
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "du-zhong-antihypertensives",
+   "herb_keys": [
+    "du_zhong"
+   ],
+   "drug_class": "antihypertensives",
+   "drug_class_zh": "降压药",
+   "drug_examples": [
+    "ACE inhibitors",
+    "ARBs",
+    "calcium channel blockers",
+    "beta-blockers"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "杜仲含杜仲胶及环烯醚萜苷类成分，有降压作用。与降压药合用可致血压过低。",
+   "mechanism_en": "Eucommia ulmoides bark has documented hypotensive activity via its iridoid glycosides; combination with antihypertensives may cause excessive blood pressure lowering.",
+   "clinical_recommendation_zh": "服用降压药者使用杜仲须注意血压变化。",
+   "clinical_recommendation_en": "Monitor blood pressure when Du Zhong is used alongside antihypertensive therapy.",
+   "sources": [
+    "Chen & Chen, p. 795",
+    "Bensky et al. Materia Medica 3rd ed., safety appendix"
+   ],
+   "source_keys": [
+    "chen_chen_cmm",
+    "bensky_mm_3e"
+   ]
+  },
+  {
+   "id": "yi-mu-cao-anticoagulants",
+   "herb_keys": [
+    "yi_mu_cao"
+   ],
+   "drug_class": "anticoagulants & antiplatelet agents",
+   "drug_class_zh": "抗凝血药及抗血小板药",
+   "drug_examples": [
+    "warfarin",
+    "aspirin",
+    "clopidogrel"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "益母草有活血化瘀作用，含益母草碱等生物碱，可抑制血小板聚集。与抗凝药合用增加出血风险。",
+   "mechanism_en": "Leonurus japonicus has blood-invigorating activity and contains leonurine, which inhibits platelet aggregation; combination with anticoagulants increases bleeding risk.",
+   "clinical_recommendation_zh": "服用抗凝药或抗血小板药者慎用益母草。",
+   "clinical_recommendation_en": "Use Yi Mu Cao cautiously in patients on anticoagulant or antiplatelet therapy.",
+   "sources": [
+    "Chen & Chen, p. 669",
+    "Bensky et al. Materia Medica 3rd ed., safety appendix"
+   ],
+   "source_keys": [
+    "chen_chen_cmm",
+    "bensky_mm_3e"
+   ]
+  },
+  {
+   "id": "chuan-xiong-anticoagulants",
+   "herb_keys": [
+    "chuan_xiong"
+   ],
+   "drug_class": "anticoagulants & antiplatelet agents",
+   "drug_class_zh": "抗凝血药及抗血小板药",
+   "drug_examples": [
+    "warfarin",
+    "aspirin",
+    "clopidogrel",
+    "heparin"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "川芎含川芎嗪（tetramethylpyrazine）等活血成分，可抑制血小板聚集、扩张血管。与抗凝药合用增加出血风险。",
+   "mechanism_en": "Ligusticum chuanxiong contains tetramethylpyrazine (ligustrazine) with documented antiplatelet and vasodilatory activity; combination with anticoagulants increases bleeding risk.",
+   "clinical_recommendation_zh": "服用抗凝药或抗血小板药者慎用川芎及含川芎之复方。",
+   "clinical_recommendation_en": "Use Chuan Xiong and formulas containing it cautiously in patients on anticoagulant or antiplatelet therapy.",
+   "sources": [
+    "Brinker 4th ed., p. 84",
+    "Chen & Chen, p. 645"
+   ],
+   "source_keys": [
+    "brinker_4e",
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "tian-ma-antihypertensives",
+   "herb_keys": [
+    "tian_ma"
+   ],
+   "drug_class": "antihypertensives",
+   "drug_class_zh": "降压药",
+   "drug_examples": [
+    "ACE inhibitors",
+    "ARBs",
+    "amlodipine",
+    "nifedipine"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "天麻含天麻素（gastrodin），有降血压及扩张血管作用。与降压药合用可致血压过低。",
+   "mechanism_en": "Gastrodia elata contains gastrodin with documented hypotensive and vasodilatory effects; combination with antihypertensives may cause excessive blood pressure reduction.",
+   "clinical_recommendation_zh": "服用降压药者使用天麻须密切监测血压。",
+   "clinical_recommendation_en": "Monitor blood pressure closely when Tian Ma is combined with antihypertensive medications.",
+   "sources": [
+    "Chen & Chen, p. 748",
+    "Bensky et al. Materia Medica 3rd ed., safety appendix"
+   ],
+   "source_keys": [
+    "chen_chen_cmm",
+    "bensky_mm_3e"
+   ]
+  },
+  {
+   "id": "suan-zao-ren-sedatives",
+   "herb_keys": [
+    "suan_zao_ren"
+   ],
+   "drug_class": "sedatives & hypnotics",
+   "drug_class_zh": "镇静催眠药",
+   "drug_examples": [
+    "benzodiazepines",
+    "zolpidem",
+    "eszopiclone",
+    "barbiturates"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "酸枣仁含酸枣仁皂苷及黄酮类，具显著镇静催眠作用。与苯二氮卓类等镇静催眠药合用可致过度镇静。",
+   "mechanism_en": "Ziziphus jujuba var. spinosa contains jujubosides and flavonoids with significant sedative-hypnotic activity; combination with benzodiazepines or other sedatives may cause excessive sedation.",
+   "clinical_recommendation_zh": "服用镇静催眠药者使用酸枣仁须注意过度嗜睡。",
+   "clinical_recommendation_en": "Use Suan Zao Ren cautiously in patients on sedative-hypnotic medications; monitor for excessive drowsiness.",
+   "sources": [
+    "Chen & Chen, p. 739",
+    "Bensky et al. Materia Medica 3rd ed., safety appendix"
+   ],
+   "source_keys": [
+    "chen_chen_cmm",
+    "bensky_mm_3e"
+   ]
+  },
+  {
+   "id": "bo-he-cyp-substrates",
+   "herb_keys": [
+    "bo_he"
+   ],
+   "drug_class": "CYP1A2 & CYP2A6 substrates",
+   "drug_class_zh": "CYP1A2 及 CYP2A6 代谢底物",
+   "drug_examples": [
+    "theophylline",
+    "clozapine",
+    "duloxetine",
+    "cyclosporine"
+   ],
+   "severity": "theoretical",
+   "mechanism_zh": "薄荷含薄荷醇（menthol），体外研究显示可抑制 CYP1A2 及 CYP2A6 酶活性，理论上影响经此通路代谢之药物之血药浓度。",
+   "mechanism_en": "Mentha haplocalyx contains menthol, which inhibits CYP1A2 and CYP2A6 in vitro, theoretically altering serum levels of drugs metabolized by these pathways.",
+   "clinical_recommendation_zh": "长期大量使用薄荷并同服窄治疗指数之 CYP1A2 底物（茶碱、氯氮平等）时需考量。",
+   "clinical_recommendation_en": "Consider this interaction when long-term, high-dose Bo He is combined with narrow-therapeutic-index CYP1A2 substrates (theophylline, clozapine).",
+   "sources": [
+    "Bensky et al. Materia Medica 3rd ed., safety appendix"
+   ],
+   "source_keys": [
+    "bensky_mm_3e"
+   ]
+  },
+  {
+   "id": "gan-cao-antihypertensives",
+   "herb_keys": [
+    "gan_cao"
+   ],
+   "drug_class": "antihypertensives",
+   "drug_class_zh": "降压药",
+   "drug_examples": [
+    "ACE inhibitors",
+    "ARBs",
+    "amlodipine",
+    "hydrochlorothiazide"
+   ],
+   "severity": "major",
+   "mechanism_zh": "甘草所致假性醛固酮增多症可致钠水潴留、高血压，直接对抗降压药之效果。长期用量超过 3g/日时此风险显著。",
+   "mechanism_en": "Glycyrrhizin-induced pseudoaldosteronism causes sodium and water retention with resultant hypertension, directly antagonizing the effect of antihypertensive drugs. Risk is significant with chronic intake exceeding 3 g/day.",
+   "clinical_recommendation_zh": "高血压患者服用降压药者避免长期、大量使用甘草。须监测血压和血钾。",
+   "clinical_recommendation_en": "Avoid long-term or high-dose Gan Cao in patients on antihypertensives. Monitor blood pressure and serum potassium.",
+   "sources": [
+    "Brinker 4th ed., p. 144",
+    "Chen & Chen, p. 877"
+   ],
+   "source_keys": [
+    "brinker_4e",
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "ren-shen-immunosuppressants",
+   "herb_keys": [
+    "ren_shen"
+   ],
+   "drug_class": "immunosuppressants",
+   "drug_class_zh": "免疫抑制剂",
+   "drug_examples": [
+    "cyclosporine",
+    "tacrolimus",
+    "azathioprine",
+    "mycophenolate"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "人参具免疫调节作用，含多种人参皂苷可增强免疫功能，理论上可对抗免疫抑制剂之效果。",
+   "mechanism_en": "Panax ginseng has immunomodulatory activity via ginsenosides; its immune-enhancing effects may theoretically antagonize immunosuppressive therapy.",
+   "clinical_recommendation_zh": "器官移植及自身免疫病服用免疫抑制剂者慎用人参。",
+   "clinical_recommendation_en": "Use Ren Shen cautiously in organ transplant recipients and patients on immunosuppressive therapy for autoimmune conditions.",
+   "sources": [
+    "Brinker 4th ed., p. 110",
+    "Chen & Chen, p. 845"
+   ],
+   "source_keys": [
+    "brinker_4e",
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "ma-huang-antihypertensives",
+   "herb_keys": [
+    "ma_huang"
+   ],
+   "drug_class": "antihypertensives",
+   "drug_class_zh": "降压药",
+   "drug_examples": [
+    "ACE inhibitors",
+    "ARBs",
+    "beta-blockers",
+    "calcium channel blockers"
+   ],
+   "severity": "major",
+   "mechanism_zh": "麻黄含麻黄碱，具升压及增加心率之作用，直接对抗降压药之效果。可致血压控制不良及高血压危象。",
+   "mechanism_en": "Ephedrine in Ma Huang raises blood pressure and heart rate, directly antagonizing antihypertensive therapy and potentially causing hypertensive crisis.",
+   "clinical_recommendation_zh": "高血压患者及服用降压药者禁用麻黄。",
+   "clinical_recommendation_en": "Avoid Ma Huang in hypertensive patients and those on antihypertensive medications.",
+   "sources": [
+    "Brinker 4th ed., p. 70",
+    "Chen & Chen, p. 39"
+   ],
+   "source_keys": [
+    "brinker_4e",
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "fu-zi-anesthetics",
+   "herb_keys": [
+    "fu_zi"
+   ],
+   "drug_class": "anesthetic agents",
+   "drug_class_zh": "麻醉药",
+   "drug_examples": [
+    "sevoflurane",
+    "isoflurane",
+    "propofol",
+    "ketamine"
+   ],
+   "severity": "major",
+   "mechanism_zh": "附子含乌头碱类生物碱，具心毒性及心律失常风险。全身麻醉亦可诱发心律失常，两者合用风险叠加。术前至少 2 周须停用。",
+   "mechanism_en": "Aconitine alkaloids in Fu Zi carry arrhythmogenic risk; general anesthetics also sensitize the myocardium to arrhythmias, creating additive risk. Discontinue at least 2 weeks before surgery.",
+   "clinical_recommendation_zh": "拟行全身麻醉者术前至少 2 周停用附子。",
+   "clinical_recommendation_en": "Discontinue Fu Zi at least 2 weeks prior to general anesthesia.",
+   "sources": [
+    "Brinker 4th ed., p. 5",
+    "Chen & Chen, p. 481"
+   ],
+   "source_keys": [
+    "brinker_4e",
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "da-huang-anticoagulants",
+   "herb_keys": [
+    "da_huang"
+   ],
+   "drug_class": "anticoagulants",
+   "drug_class_zh": "抗凝血药",
+   "drug_examples": [
+    "warfarin",
+    "rivaroxaban",
+    "apixaban"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "大黄含蒽醌类成分，长期使用致低钾血症可间接影响凝血功能。此外大黄有轻度活血化瘀作用，与抗凝药合用理论上增加出血风险。",
+   "mechanism_en": "Anthraquinones in Da Huang may indirectly affect coagulation via chronic hypokalemia. Additionally, rhubarb has mild blood-invigorating properties that theoretically increase bleeding risk with anticoagulants.",
+   "clinical_recommendation_zh": "服用抗凝药者长期使用大黄须慎。短期攻下用药一般影响不大。",
+   "clinical_recommendation_en": "Caution with prolonged Da Huang use in patients on anticoagulants. Short-term purgative use is generally acceptable.",
+   "sources": [
+    "Brinker 4th ed., p. 134",
+    "Chen & Chen, p. 119"
+   ],
+   "source_keys": [
+    "brinker_4e",
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "huang-qi-antidiabetics",
+   "herb_keys": [
+    "huang_qi"
+   ],
+   "drug_class": "antidiabetic agents",
+   "drug_class_zh": "降糖药",
+   "drug_examples": [
+    "metformin",
+    "insulin",
+    "glipizide",
+    "glyburide"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "黄芪含黄芪多糖等成分，有降低血糖作用。与降糖药合用可增加低血糖风险。",
+   "mechanism_en": "Astragalus membranaceus contains polysaccharides with hypoglycemic activity; combination with antidiabetic agents may increase the risk of hypoglycemia.",
+   "clinical_recommendation_zh": "糖尿病患者服用降糖药期间使用黄芪须监测血糖。",
+   "clinical_recommendation_en": "Monitor blood glucose when Huang Qi is combined with antidiabetic medications.",
+   "sources": [
+    "Chen & Chen, p. 854",
+    "Brinker 4th ed., p. 11"
+   ],
+   "source_keys": [
+    "chen_chen_cmm",
+    "brinker_4e"
+   ]
+  },
+  {
+   "id": "ban-xia-antiarrhythmics",
+   "herb_keys": [
+    "ban_xia"
+   ],
+   "drug_class": "antiarrhythmic drugs",
+   "drug_class_zh": "抗心律失常药",
+   "drug_examples": [
+    "amiodarone",
+    "sotalol",
+    "flecainide"
+   ],
+   "severity": "theoretical",
+   "mechanism_zh": "半夏含生物碱类成分，体外研究显示可影响心肌细胞离子通道。理论上与抗心律失常药合用须考量。",
+   "mechanism_en": "Pinellia alkaloids affect cardiac ion channels in vitro; theoretical interaction with antiarrhythmics warrants consideration.",
+   "clinical_recommendation_zh": "服用抗心律失常药者使用半夏须谨慎。",
+   "clinical_recommendation_en": "Use Ban Xia cautiously in patients on antiarrhythmic medications.",
+   "sources": [
+    "Chen & Chen, p. 400"
+   ],
+   "source_keys": [
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "huang-lian-cyp-substrates",
+   "herb_keys": [
+    "huang_lian"
+   ],
+   "drug_class": "CYP3A4 & CYP2D6 substrates",
+   "drug_class_zh": "CYP3A4 及 CYP2D6 代谢底物",
+   "drug_examples": [
+    "cyclosporine",
+    "statins",
+    "codeine",
+    "dextromethorphan"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "黄连所含小檗碱可抑制 CYP3A4 及 CYP2D6 酶活性，使经此通路代谢之药物血药浓度升高。",
+   "mechanism_en": "Berberine in Coptis chinensis inhibits CYP3A4 and CYP2D6, potentially raising serum levels of drugs metabolized via these pathways.",
+   "clinical_recommendation_zh": "合用经 CYP3A4 或 CYP2D6 代谢之窄治疗指数药物时须考量，必要时监测血药浓度。",
+   "clinical_recommendation_en": "Monitor serum levels of narrow-therapeutic-index CYP3A4 and CYP2D6 substrates when combined with Huang Lian.",
+   "sources": [
+    "Chen & Chen, p. 177"
+   ],
+   "source_keys": [
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "gou-qi-zi-antidiabetics",
+   "herb_keys": [
+    "gou_qi_zi"
+   ],
+   "drug_class": "antidiabetic agents",
+   "drug_class_zh": "降糖药",
+   "drug_examples": [
+    "metformin",
+    "insulin",
+    "glipizide"
+   ],
+   "severity": "theoretical",
+   "mechanism_zh": "枸杞子含枸杞多糖，有轻度降血糖作用。与降糖药合用理论上增加低血糖风险。",
+   "mechanism_en": "Lycium barbarum polysaccharides have mild hypoglycemic activity; theoretical additive effect with antidiabetic agents.",
+   "clinical_recommendation_zh": "糖尿病患者服用降糖药期间大量使用枸杞子须注意血糖。",
+   "clinical_recommendation_en": "Monitor blood glucose when large doses of Gou Qi Zi are combined with antidiabetic medications.",
+   "sources": [
+    "Chen & Chen, p. 817",
+    "Bensky et al. Materia Medica 3rd ed., safety appendix"
+   ],
+   "source_keys": [
+    "chen_chen_cmm",
+    "bensky_mm_3e"
+   ]
+  },
+  {
+   "id": "he-shou-wu-anticoagulants",
+   "herb_keys": [
+    "he_shou_wu"
+   ],
+   "drug_class": "anticoagulants",
+   "drug_class_zh": "抗凝血药",
+   "drug_examples": [
+    "warfarin",
+    "rivaroxaban"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "何首乌之肝毒性可影响肝脏合成凝血因子之功能，理论上改变抗凝药之效果。此外肝损伤本身即增加出血风险。",
+   "mechanism_en": "He Shou Wu hepatotoxicity may impair hepatic synthesis of clotting factors, theoretically altering anticoagulant drug efficacy. Liver injury itself also increases bleeding risk.",
+   "clinical_recommendation_zh": "服用抗凝药者避免使用何首乌。",
+   "clinical_recommendation_en": "Avoid He Shou Wu in patients on anticoagulant therapy.",
+   "sources": [
+    "Brinker 4th ed., p. 133"
+   ],
+   "source_keys": [
+    "brinker_4e"
+   ]
+  },
+  {
+   "id": "ge-gen-antihypertensives",
+   "herb_keys": [
+    "ge_gen"
+   ],
+   "drug_class": "antihypertensives",
+   "drug_class_zh": "降压药",
+   "drug_examples": [
+    "ACE inhibitors",
+    "ARBs",
+    "calcium channel blockers"
+   ],
+   "severity": "theoretical",
+   "mechanism_zh": "葛根所含葛根素有扩张冠状动脉及外周血管之作用，理论上与降压药合用可致血压过低。",
+   "mechanism_en": "Puerarin in Ge Gen has coronary and peripheral vasodilatory effects; theoretical additive hypotension when combined with antihypertensives.",
+   "clinical_recommendation_zh": "服用降压药者使用葛根须注意血压变化。",
+   "clinical_recommendation_en": "Monitor blood pressure when Ge Gen is used in patients on antihypertensive therapy.",
+   "sources": [
+    "Chen & Chen, p. 58"
+   ],
+   "source_keys": [
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "san-qi-antidiabetics",
+   "herb_keys": [
+    "san_qi"
+   ],
+   "drug_class": "antidiabetic agents",
+   "drug_class_zh": "降糖药",
+   "drug_examples": [
+    "metformin",
+    "insulin",
+    "glipizide"
+   ],
+   "severity": "theoretical",
+   "mechanism_zh": "三七皂苷有轻度降血糖作用，理论上与降糖药合用增加低血糖风险。",
+   "mechanism_en": "Notoginsenosides in San Qi have mild hypoglycemic activity; theoretical additive effect with antidiabetic agents.",
+   "clinical_recommendation_zh": "糖尿病患者服用降糖药期间使用三七须注意血糖变化。",
+   "clinical_recommendation_en": "Monitor blood glucose when San Qi is combined with antidiabetic medications.",
+   "sources": [
+    "Chen & Chen, p. 651"
+   ],
+   "source_keys": [
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "rou-gui-antidiabetics",
+   "herb_keys": [
+    "rou_gui"
+   ],
+   "drug_class": "antidiabetic agents",
+   "drug_class_zh": "降糖药",
+   "drug_examples": [
+    "metformin",
+    "insulin",
+    "glipizide"
+   ],
+   "severity": "theoretical",
+   "mechanism_zh": "肉桂有改善胰岛素敏感性及降血糖之作用。与降糖药合用理论上增加低血糖风险。",
+   "mechanism_en": "Cinnamomum cassia improves insulin sensitivity and has hypoglycemic properties; theoretical additive effect with antidiabetic agents.",
+   "clinical_recommendation_zh": "糖尿病患者服用降糖药期间大量使用肉桂须注意血糖。",
+   "clinical_recommendation_en": "Monitor blood glucose when high-dose Rou Gui is combined with antidiabetic medications.",
+   "sources": [
+    "Brinker 4th ed., p. 46"
+   ],
+   "source_keys": [
+    "brinker_4e"
+   ]
+  },
+  {
+   "id": "du-zhong-antidiabetics",
+   "herb_keys": [
+    "du_zhong"
+   ],
+   "drug_class": "antidiabetic agents",
+   "drug_class_zh": "降糖药",
+   "drug_examples": [
+    "metformin",
+    "insulin",
+    "glipizide"
+   ],
+   "severity": "theoretical",
+   "mechanism_zh": "杜仲有轻度降血糖作用，理论上与降糖药合用增加低血糖风险。",
+   "mechanism_en": "Eucommia ulmoides has mild hypoglycemic activity; theoretical additive effect with antidiabetic agents.",
+   "clinical_recommendation_zh": "糖尿病患者服用降糖药期间使用杜仲须注意血糖。",
+   "clinical_recommendation_en": "Monitor blood glucose when Du Zhong is combined with antidiabetic medications.",
+   "sources": [
+    "Chen & Chen, p. 795"
+   ],
+   "source_keys": [
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "chuan-xiong-antihypertensives",
+   "herb_keys": [
+    "chuan_xiong"
+   ],
+   "drug_class": "antihypertensives",
+   "drug_class_zh": "降压药",
+   "drug_examples": [
+    "ACE inhibitors",
+    "ARBs",
+    "calcium channel blockers"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "川芎含川芎嗪，有扩张血管、降低血压之作用。与降压药合用可致血压过低。",
+   "mechanism_en": "Tetramethylpyrazine (ligustrazine) in Chuan Xiong has vasodilatory and hypotensive effects; combination with antihypertensives may cause excessive blood pressure reduction.",
+   "clinical_recommendation_zh": "服用降压药者使用川芎须注意血压变化。",
+   "clinical_recommendation_en": "Monitor blood pressure when Chuan Xiong is used alongside antihypertensive therapy.",
+   "sources": [
+    "Brinker 4th ed., p. 84",
+    "Chen & Chen, p. 645"
+   ],
+   "source_keys": [
+    "brinker_4e",
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "tian-ma-sedatives",
+   "herb_keys": [
+    "tian_ma"
+   ],
+   "drug_class": "sedatives & hypnotics",
+   "drug_class_zh": "镇静催眠药",
+   "drug_examples": [
+    "benzodiazepines",
+    "zolpidem",
+    "barbiturates"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "天麻含天麻素，有镇静、抗惊厥作用。与镇静催眠药合用可致过度镇静。",
+   "mechanism_en": "Gastrodin in Tian Ma has sedative and anticonvulsant properties; combination with sedative-hypnotics may cause excessive sedation.",
+   "clinical_recommendation_zh": "服用镇静催眠药者使用天麻须注意过度嗜睡。",
+   "clinical_recommendation_en": "Use Tian Ma cautiously in patients on sedative-hypnotic medications; monitor for excessive drowsiness.",
+   "sources": [
+    "Chen & Chen, p. 748"
+   ],
+   "source_keys": [
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "suan-zao-ren-antiepileptics",
+   "herb_keys": [
+    "suan_zao_ren"
+   ],
+   "drug_class": "antiepileptic drugs",
+   "drug_class_zh": "抗癫痫药",
+   "drug_examples": [
+    "phenobarbital",
+    "carbamazepine",
+    "valproic acid",
+    "gabapentin"
+   ],
+   "severity": "theoretical",
+   "mechanism_zh": "酸枣仁有镇静及抗惊厥作用，理论上与抗癫痫药合用可产生协同镇静效应。",
+   "mechanism_en": "Ziziphus spinosa has sedative and anticonvulsant activity; theoretical synergistic sedation with antiepileptic drugs.",
+   "clinical_recommendation_zh": "服用抗癫痫药者使用酸枣仁须注意过度镇静。",
+   "clinical_recommendation_en": "Monitor for excessive sedation when Suan Zao Ren is combined with antiepileptic medications.",
+   "sources": [
+    "Chen & Chen, p. 739"
+   ],
+   "source_keys": [
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "bo-he-cyclosporine",
+   "herb_keys": [
+    "bo_he"
+   ],
+   "drug_class": "immunosuppressants (cyclosporine)",
+   "drug_class_zh": "免疫抑制剂（环孢素）",
+   "drug_examples": [
+    "cyclosporine"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "薄荷含薄荷醇，可抑制 CYP3A4，影响环孢素之代谢，致血药浓度升高。",
+   "mechanism_en": "Menthol in Bo He inhibits CYP3A4, potentially reducing cyclosporine metabolism and raising its serum levels.",
+   "clinical_recommendation_zh": "使用环孢素之移植患者避免大量使用薄荷。",
+   "clinical_recommendation_en": "Avoid high-dose Bo He in transplant patients on cyclosporine; monitor cyclosporine levels if combination is necessary.",
+   "sources": [
+    "Bensky et al. Materia Medica 3rd ed., safety appendix"
+   ],
+   "source_keys": [
+    "bensky_mm_3e"
+   ]
+  },
+  {
+   "id": "yi-mu-cao-antihypertensives",
+   "herb_keys": [
+    "yi_mu_cao"
+   ],
+   "drug_class": "antihypertensives",
+   "drug_class_zh": "降压药",
+   "drug_examples": [
+    "ACE inhibitors",
+    "ARBs",
+    "calcium channel blockers"
+   ],
+   "severity": "theoretical",
+   "mechanism_zh": "益母草含益母草碱，有扩张血管、利尿、降压作用。与降压药合用理论上可致血压过低。",
+   "mechanism_en": "Leonurine in Yi Mu Cao has vasodilatory, diuretic, and hypotensive effects; theoretical additive hypotension with antihypertensives.",
+   "clinical_recommendation_zh": "服用降压药者使用益母草须注意血压变化。",
+   "clinical_recommendation_en": "Monitor blood pressure when Yi Mu Cao is used alongside antihypertensive therapy.",
+   "sources": [
+    "Chen & Chen, p. 669"
+   ],
+   "source_keys": [
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "sheng-di-huang-antidiabetics",
+   "herb_keys": [
+    "sheng_di_huang"
+   ],
+   "drug_class": "antidiabetic agents",
+   "drug_class_zh": "降糖药",
+   "drug_examples": [
+    "metformin",
+    "insulin",
+    "glipizide"
+   ],
+   "severity": "theoretical",
+   "mechanism_zh": "生地黄含梓醇等环烯醚萜苷，有轻度降血糖作用。理论上与降糖药合用增加低血糖风险。",
+   "mechanism_en": "Rehmannia glutinosa contains catalpol and other iridoid glycosides with mild hypoglycemic activity; theoretical additive effect with antidiabetic agents.",
+   "clinical_recommendation_zh": "糖尿病患者服用降糖药期间使用生地黄须注意血糖变化。",
+   "clinical_recommendation_en": "Monitor blood glucose when Sheng Di Huang is combined with antidiabetic medications.",
+   "sources": [
+    "Chen & Chen, p. 700"
+   ],
+   "source_keys": [
+    "chen_chen_cmm"
+   ]
+  },
+  {
+   "id": "shan-zha-cardiac-glycosides",
+   "herb_keys": [
+    "shan_zha"
+   ],
+   "drug_class": "cardiac glycosides",
+   "drug_class_zh": "强心苷",
+   "drug_examples": [
+    "digoxin"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "山楂含黄酮类成分，有正性肌力作用，与地高辛合用可增强强心效果，致地高辛毒性风险增加。",
+   "mechanism_en": "Crataegus flavonoids have positive inotropic activity; combination with digoxin may potentiate its effects and increase toxicity risk.",
+   "clinical_recommendation_zh": "服用地高辛者使用山楂须监测地高辛血药浓度。",
+   "clinical_recommendation_en": "Monitor digoxin levels when Shan Zha is combined with cardiac glycoside therapy.",
+   "sources": [
+    "Brinker 4th ed., p. 55"
+   ],
+   "source_keys": [
+    "brinker_4e"
+   ]
+  },
+  {
+   "id": "gan-cao-oral-contraceptives",
+   "herb_keys": [
+    "gan_cao"
+   ],
+   "drug_class": "oral contraceptives & hormone therapy",
+   "drug_class_zh": "口服避孕药及激素治疗",
+   "drug_examples": [
+    "ethinyl estradiol",
+    "norethindrone",
+    "conjugated estrogens"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "甘草甜素可抑制类固醇代谢，与外源性雌激素合用可加剧雌激素之副作用（水肿、高血压、血栓风险）。",
+   "mechanism_en": "Glycyrrhizin inhibits steroid metabolism; combination with exogenous estrogens may potentiate estrogen-related side effects (edema, hypertension, thrombotic risk).",
+   "clinical_recommendation_zh": "服用口服避孕药或激素替代治疗者避免长期大量使用甘草。",
+   "clinical_recommendation_en": "Avoid long-term, high-dose Gan Cao in patients on oral contraceptives or hormone replacement therapy.",
+   "sources": [
+    "Brinker 4th ed., p. 145"
+   ],
+   "source_keys": [
+    "brinker_4e"
+   ]
+  },
+  {
+   "id": "ren-shen-anticoagulants-nsaids",
+   "herb_keys": [
+    "ren_shen"
+   ],
+   "drug_class": "NSAIDs",
+   "drug_class_zh": "非甾体抗炎药",
+   "drug_examples": [
+    "ibuprofen",
+    "naproxen",
+    "diclofenac",
+    "aspirin"
+   ],
+   "severity": "moderate",
+   "mechanism_zh": "人参具抗血小板活性，与非甾体抗炎药（尤其阿司匹林）合用可增加出血风险。已有合用致出血之个案报道。",
+   "mechanism_en": "Panax ginseng has antiplatelet activity; combination with NSAIDs (especially aspirin) may increase bleeding risk. Case reports of bleeding with concurrent use exist.",
+   "clinical_recommendation_zh": "长期服用 NSAIDs 者使用人参须注意出血征象。",
+   "clinical_recommendation_en": "Monitor for signs of bleeding when Ren Shen is used in patients on long-term NSAID therapy.",
+   "sources": [
+    "Brinker 4th ed., p. 110",
+    "Chen & Chen, p. 845"
+   ],
+   "source_keys": [
+    "brinker_4e",
+    "chen_chen_cmm"
+   ]
+  }
+ ],
+ "note": "十八反十九畏为《中药学》经典固定条目，bencaoDian 的 herb_incompatible_with 边为 0，故硬编码"
+}

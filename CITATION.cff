@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: "中医男科病历 · 辨证论治模型"
+abstract: >-
+  用真实中医男科门诊病历训练「四诊信息 → 中医诊断 + 中药处方」的辅助模型。
+  包含完整的数据工程、评测协议、规则基线、约束校验器，以及
+  MiMo-V2.6-Distill-Qwen-9B 的 LoRA 微调。
+  模型在初诊上超过「使用真实诊断检索」的 Oracle 上界（0.301 vs 0.254），
+  但复诊不如直接照抄上次处方（0.501 vs 0.542）。
+message: "如果本项目的代码、数据或模型对你的研究有帮助，请引用："
+version: 1.0.0
+date-released: "2026-10-09"
+license: Apache-2.0
+license-url: "https://github.com/your-org/man_medical/blob/main/LICENSE"
+repository-code: "https://github.com/your-org/man_medical"
+keywords:
+  - 中医
+  - 男科
+  - 辨证论治
+  - 处方推荐
+  - 医疗NLP
+  - LoRA
+  - TCM
+  - Traditional Chinese Medicine
+  - prescription recommendation
+authors:
+  - name: "TODO: 填写作者/机构"
+type: software
+preferred-citation:
+  type: dataset
+  title: "中医男科病历 · 辨证论治数据集"
+  year: 2026
+  license: "CC-BY-NC-4.0"
+  note: >-
+    67,073 条门诊记录 / 25,103 名患者；金标准 26,923 条。
+    原始病历已做患者标识哈希与机构名归一化；未经伦理审查，仅供研究使用。

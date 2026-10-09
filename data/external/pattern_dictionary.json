@@ -1,0 +1,3705 @@
+[
+ {
+  "name": "脾气虚证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "食少纳呆",
+   "腹胀，食后尤甚",
+   "便溏",
+   "面色萎黄",
+   "肢体倦怠，少气懒言"
+  ],
+  "secondary_symptoms": [
+   "形体消瘦",
+   "肢体困重"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "白"
+  },
+  "pulse": {
+   "type": "缓弱",
+   "zh": "脉缓弱",
+   "en": "Slow and weak pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "脾气下陷证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "脘腹重坠胀满，食后尤甚",
+   "便意频数，肛门坠重",
+   "或久泻不止，甚则脱肛",
+   "或子宫脱垂"
+  ],
+  "secondary_symptoms": [
+   "气短乏力",
+   "面色无华",
+   "头晕目眩"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "白"
+  },
+  "pulse": {
+   "type": "弱",
+   "zh": "脉弱",
+   "en": "Weak pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "血虚证",
+  "category": "气血津液辨证",
+  "cardinal_symptoms": [
+   "面色淡白或萎黄",
+   "唇甲色淡",
+   "头晕眼花",
+   "心悸失眠",
+   "妇女月经量少色淡，甚则经闭"
+  ],
+  "secondary_symptoms": [
+   "手足麻木"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "白"
+  },
+  "pulse": {
+   "type": "细",
+   "zh": "脉细无力",
+   "en": "Thin and forceless pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "外感风寒表实证",
+  "category": "六经辨证",
+  "cardinal_symptoms": [
+   "恶寒发热",
+   "无汗",
+   "头身疼痛",
+   "气喘"
+  ],
+  "secondary_symptoms": [],
+  "tongue": {
+   "body": null,
+   "coating": "薄白"
+  },
+  "pulse": {
+   "type": "浮紧",
+   "zh": "脉浮紧",
+   "en": "Floating and tight pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "外感风寒表虚证",
+  "category": "六经辨证",
+  "cardinal_symptoms": [
+   "发热恶风",
+   "汗出",
+   "头痛",
+   "鼻鸣干呕"
+  ],
+  "secondary_symptoms": [],
+  "tongue": {
+   "body": null,
+   "coating": "薄白"
+  },
+  "pulse": {
+   "type": "浮缓",
+   "zh": "脉浮缓",
+   "en": "Floating and moderate pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "少阳证",
+  "category": "六经辨证",
+  "cardinal_symptoms": [
+   "往来寒热",
+   "胸胁苦满",
+   "默默不欲饮食",
+   "心烦喜呕",
+   "口苦咽干，目眩"
+  ],
+  "secondary_symptoms": [],
+  "tongue": {
+   "body": null,
+   "coating": "白"
+  },
+  "pulse": {
+   "type": "弦",
+   "zh": "脉弦",
+   "en": "Wiry pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "肝气郁结证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "情志抑郁",
+   "胸胁或少腹胀痛走窜",
+   "善太息",
+   "妇女月经不调，经前乳房胀痛"
+  ],
+  "secondary_symptoms": [
+   "梅核气",
+   "瘿瘤"
+  ],
+  "tongue": {
+   "body": null,
+   "coating": "薄白"
+  },
+  "pulse": {
+   "type": "弦",
+   "zh": "脉弦",
+   "en": "Wiry pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "肾阳虚证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "腰膝酸软冷痛",
+   "畏寒肢冷，下肢尤甚",
+   "精神萎靡",
+   "阳痿不育，宫寒不孕",
+   "小便清长，夜尿频多"
+  ],
+  "secondary_symptoms": [
+   "面色㿠白或黧黑",
+   "五更泄泻",
+   "下肢浮肿"
+  ],
+  "tongue": {
+   "body": "淡胖",
+   "coating": "白滑"
+  },
+  "pulse": {
+   "type": "沉迟无力",
+   "zh": "脉沉迟无力，尺脉尤甚",
+   "en": "Deep, slow, and forceless pulse, especially at the chi position"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "痰湿证",
+  "category": "气血津液辨证",
+  "cardinal_symptoms": [
+   "咳嗽痰多色白质稀",
+   "胸脘痞闷",
+   "恶心呕吐",
+   "头晕心悸"
+  ],
+  "secondary_symptoms": [
+   "肢体困重",
+   "食少纳呆"
+  ],
+  "tongue": {
+   "body": "胖大",
+   "coating": "白腻"
+  },
+  "pulse": {
+   "type": "滑",
+   "zh": "脉滑",
+   "en": "Slippery pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "阴虚证",
+  "category": "气血津液辨证",
+  "cardinal_symptoms": [
+   "形体消瘦",
+   "口燥咽干",
+   "五心烦热",
+   "潮热盗汗",
+   "颧红"
+  ],
+  "secondary_symptoms": [
+   "小便短赤",
+   "大便干结"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "少苔或无苔"
+  },
+  "pulse": {
+   "type": "细数",
+   "zh": "脉细数",
+   "en": "Thin and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "肝阳上亢证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "眩晕耳鸣",
+   "头目胀痛",
+   "面红目赤",
+   "急躁易怒"
+  ],
+  "secondary_symptoms": [
+   "失眠多梦",
+   "腰膝酸软",
+   "口苦"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "黄"
+  },
+  "pulse": {
+   "type": "弦数有力",
+   "zh": "脉弦数有力",
+   "en": "Wiry, rapid, and forceful pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "阳明腑实证",
+  "category": "六经辨证",
+  "cardinal_symptoms": [
+   "日晡潮热",
+   "腹满硬痛拒按",
+   "大便秘结",
+   "甚则神昏谵语"
+  ],
+  "secondary_symptoms": [
+   "手足濈然汗出",
+   "小便短赤"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "黄燥起芒刺甚则焦黑"
+  },
+  "pulse": {
+   "type": "沉实有力",
+   "zh": "脉沉实有力",
+   "en": "Deep, replete, and forceful pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "气血两虚证",
+  "category": "气血津液辨证",
+  "cardinal_symptoms": [
+   "面色淡白或萎黄",
+   "头晕眼花",
+   "心悸失眠",
+   "气短懒言",
+   "肢体倦怠"
+  ],
+  "secondary_symptoms": [
+   "形体消瘦",
+   "纳少便溏",
+   "月经量少色淡"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "白"
+  },
+  "pulse": {
+   "type": "细弱",
+   "zh": "脉细弱",
+   "en": "Thin and weak pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "梅核气",
+  "category": "气血津液辨证",
+  "cardinal_symptoms": [
+   "咽中如有梅核梗阻",
+   "咯之不出",
+   "咽之不下",
+   "胸胁满闷"
+  ],
+  "secondary_symptoms": [
+   "情志抑郁，善太息",
+   "或咳嗽痰多"
+  ],
+  "tongue": {
+   "body": "淡红",
+   "coating": "白润或白腻"
+  },
+  "pulse": {
+   "type": "弦缓或弦滑",
+   "zh": "脉弦缓或弦滑",
+   "en": "Wiry and moderate, or wiry and slippery pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "湿阻中焦证",
+  "category": "六经辨证",
+  "cardinal_symptoms": [
+   "脘腹痞闷胀满",
+   "纳呆食少",
+   "口淡无味或口甜口黏",
+   "肢体困重",
+   "大便溏薄"
+  ],
+  "secondary_symptoms": [
+   "恶心欲吐",
+   "头重如裹"
+  ],
+  "tongue": {
+   "body": "淡胖有齿痕",
+   "coating": "白腻"
+  },
+  "pulse": {
+   "type": "濡缓",
+   "zh": "脉濡缓",
+   "en": "Soggy and moderate pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "心气虚证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "心悸怔忡",
+   "气短，活动后加剧",
+   "神疲乏力",
+   "自汗",
+   "面色淡白"
+  ],
+  "secondary_symptoms": [
+   "胸闷不舒",
+   "少气懒言"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "白"
+  },
+  "pulse": {
+   "type": "虚",
+   "zh": "脉虚或结代",
+   "en": "Vacuous pulse, sometimes knotted or intermittent"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "心血虚证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "心悸",
+   "失眠多梦",
+   "头晕目眩",
+   "面色无华",
+   "唇舌色淡"
+  ],
+  "secondary_symptoms": [
+   "健忘",
+   "手足麻木"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "白"
+  },
+  "pulse": {
+   "type": "细弱",
+   "zh": "脉细弱",
+   "en": "Thin and weak pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "心阳虚证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "心悸怔忡",
+   "胸闷胸痛",
+   "畏寒肢冷",
+   "面色㿠白",
+   "气短自汗"
+  ],
+  "secondary_symptoms": [
+   "神疲乏力",
+   "唇甲青紫"
+  ],
+  "tongue": {
+   "body": "淡胖",
+   "coating": "白滑"
+  },
+  "pulse": {
+   "type": "沉迟微细",
+   "zh": "脉沉迟微细，或结代",
+   "en": "Deep, slow, faint and thin pulse, sometimes knotted or intermittent"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "心阴虚证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "心悸心烦",
+   "失眠多梦",
+   "五心烦热",
+   "潮热盗汗",
+   "两颧发红"
+  ],
+  "secondary_symptoms": [
+   "口燥咽干",
+   "健忘多梦"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "少"
+  },
+  "pulse": {
+   "type": "细数",
+   "zh": "脉细数",
+   "en": "Thin and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "肺气虚证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "咳喘无力，气短声低",
+   "痰液清稀",
+   "神疲乏力，自汗畏风",
+   "易感冒",
+   "面色淡白"
+  ],
+  "secondary_symptoms": [
+   "少气懒言",
+   "语声低微"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "白"
+  },
+  "pulse": {
+   "type": "弱",
+   "zh": "脉弱",
+   "en": "Weak pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "肺阴虚证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "干咳无痰，或痰少而粘",
+   "痰中带血",
+   "口燥咽干，声音嘶哑",
+   "午后潮热，五心烦热",
+   "颧红盗汗"
+  ],
+  "secondary_symptoms": [
+   "形体消瘦",
+   "咽喉干痛"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "少"
+  },
+  "pulse": {
+   "type": "细数",
+   "zh": "脉细数",
+   "en": "Thin and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "肝血虚证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "头晕目眩",
+   "视物模糊或夜盲",
+   "肢体麻木，筋脉拘急",
+   "爪甲不荣",
+   "妇女月经量少色淡，甚则闭经"
+  ],
+  "secondary_symptoms": [
+   "面色萎黄无华",
+   "耳鸣"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "白"
+  },
+  "pulse": {
+   "type": "细",
+   "zh": "脉细",
+   "en": "Thin pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "肝阴虚证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "头晕目眩",
+   "两目干涩，视物模糊",
+   "胁肋隐痛，绵绵不休",
+   "五心烦热，潮热盗汗",
+   "口咽干燥"
+  ],
+  "secondary_symptoms": [
+   "面部烘热或颧红",
+   "手足蠕动",
+   "急躁易怒"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "少苔"
+  },
+  "pulse": {
+   "type": "弦细数",
+   "zh": "脉弦细数",
+   "en": "Wiry, thin, and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "肾阴虚证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "腰膝酸软而痛",
+   "头晕耳鸣",
+   "五心烦热，潮热盗汗",
+   "颧红",
+   "失眠多梦",
+   "男子遗精早泄，女子经少经闭或崩漏"
+  ],
+  "secondary_symptoms": [
+   "形体消瘦",
+   "口燥咽干",
+   "大便干结"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "少苔"
+  },
+  "pulse": {
+   "type": "细数",
+   "zh": "脉细数",
+   "en": "Thin and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "胃阴虚证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "胃脘嘈杂，隐隐灼痛",
+   "饥不欲食",
+   "口干咽燥",
+   "大便干结",
+   "干呕呃逆"
+  ],
+  "secondary_symptoms": [
+   "脘痞不舒",
+   "五心烦热",
+   "小便短少"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "少苔或花剥"
+  },
+  "pulse": {
+   "type": "细数",
+   "zh": "脉细数",
+   "en": "Thin and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "胃寒证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "胃脘冷痛，轻则绵绵不已，重则拘急剧痛",
+   "得温痛减，遇寒加重",
+   "呕吐清水痰涎",
+   "食后腹胀",
+   "口淡不渴"
+  ],
+  "secondary_symptoms": [
+   "畏寒肢冷",
+   "面色㿠白",
+   "肠鸣漉漉"
+  ],
+  "tongue": {
+   "body": "淡胖",
+   "coating": "白滑"
+  },
+  "pulse": {
+   "type": "迟或弦紧",
+   "zh": "脉迟，或弦紧",
+   "en": "Slow pulse, or wiry and tight"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "胃热证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "胃脘灼痛，嘈杂泛酸",
+   "消谷善饥",
+   "口臭",
+   "牙龈肿痛出血",
+   "大便秘结",
+   "口渴喜冷饮"
+  ],
+  "secondary_symptoms": [
+   "小便短黄",
+   "面赤身热",
+   "或呕吐酸苦"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "黄"
+  },
+  "pulse": {
+   "type": "滑数",
+   "zh": "脉滑数",
+   "en": "Slippery and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "大肠湿热证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "腹痛",
+   "下痢脓血，赤白相兼，或暴注下迫",
+   "里急后重",
+   "肛门灼热",
+   "小便短赤"
+  ],
+  "secondary_symptoms": [
+   "发热口渴",
+   "恶心呕吐",
+   "胸脘痞闷"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "黄腻"
+  },
+  "pulse": {
+   "type": "滑数",
+   "zh": "脉滑数",
+   "en": "Slippery and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "膀胱湿热证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "小便频急，短赤灼痛",
+   "淋沥不畅",
+   "尿血或排尿困难，或尿有砂石",
+   "少腹胀痛",
+   "发热，或腰部胀痛"
+  ],
+  "secondary_symptoms": [
+   "口苦口黏",
+   "口渴不欲多饮"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "黄腻"
+  },
+  "pulse": {
+   "type": "滑数",
+   "zh": "脉滑数",
+   "en": "Slippery and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "太阴病证",
+  "category": "六经辨证",
+  "cardinal_symptoms": [
+   "腹满而吐",
+   "食不下",
+   "自利不渴",
+   "时腹自痛"
+  ],
+  "secondary_symptoms": [
+   "四肢不温",
+   "神疲乏力"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "白"
+  },
+  "pulse": {
+   "type": "沉缓",
+   "zh": "脉沉缓或迟",
+   "en": "Deep and moderate or slow pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "少阴寒化证",
+  "category": "六经辨证",
+  "cardinal_symptoms": [
+   "但欲寐",
+   "恶寒踡卧",
+   "四肢厥逆",
+   "下利清谷"
+  ],
+  "secondary_symptoms": [
+   "呕吐不渴",
+   "小便清长"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "白滑"
+  },
+  "pulse": {
+   "type": "微细",
+   "zh": "脉微细",
+   "en": "Faint and thin pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "厥阴病证",
+  "category": "六经辨证",
+  "cardinal_symptoms": [
+   "消渴",
+   "气上撞心，心中疼热",
+   "饥而不欲食，食则吐蛔",
+   "手足厥冷与发热往来"
+  ],
+  "secondary_symptoms": [
+   "下之利不止",
+   "烦躁不安"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "或白或黄"
+  },
+  "pulse": {
+   "type": "微弱或弦",
+   "zh": "脉微弱或弦",
+   "en": "Faint or wiry pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "阳明经证",
+  "category": "六经辨证",
+  "cardinal_symptoms": [
+   "身大热",
+   "大汗出",
+   "大渴引饮",
+   "脉洪大"
+  ],
+  "secondary_symptoms": [
+   "面赤心烦",
+   "气粗息促"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "黄燥"
+  },
+  "pulse": {
+   "type": "洪大",
+   "zh": "脉洪大有力",
+   "en": "Surging and large forceful pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "卫分证",
+  "category": "卫气营血辨证",
+  "cardinal_symptoms": [
+   "发热微恶风寒",
+   "头痛",
+   "咳嗽",
+   "口微渴"
+  ],
+  "secondary_symptoms": [
+   "咽红或痛",
+   "无汗或少汗"
+  ],
+  "tongue": {
+   "body": "边尖红",
+   "coating": "薄白"
+  },
+  "pulse": {
+   "type": "浮数",
+   "zh": "脉浮数",
+   "en": "Floating and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "气分证",
+  "category": "卫气营血辨证",
+  "cardinal_symptoms": [
+   "壮热不恶寒反恶热",
+   "汗多口渴",
+   "面赤心烦",
+   "小便短赤"
+  ],
+  "secondary_symptoms": [
+   "气粗息促",
+   "大便秘结"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "黄"
+  },
+  "pulse": {
+   "type": "洪大或滑数",
+   "zh": "脉洪大或滑数",
+   "en": "Surging large or slippery rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "营分证",
+  "category": "卫气营血辨证",
+  "cardinal_symptoms": [
+   "身热夜甚",
+   "心烦不寐",
+   "时有谵语",
+   "斑疹隐隐"
+  ],
+  "secondary_symptoms": [
+   "口反不甚渴",
+   "神昏"
+  ],
+  "tongue": {
+   "body": "红绛",
+   "coating": "少苔"
+  },
+  "pulse": {
+   "type": "细数",
+   "zh": "脉细数",
+   "en": "Thin and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "血分证",
+  "category": "卫气营血辨证",
+  "cardinal_symptoms": [
+   "身灼热",
+   "躁扰昏狂",
+   "斑疹紫黑",
+   "吐血衄血便血"
+  ],
+  "secondary_symptoms": [
+   "四肢抽搐",
+   "尿血"
+  ],
+  "tongue": {
+   "body": "深绛",
+   "coating": "少苔或无苔"
+  },
+  "pulse": {
+   "type": "细数",
+   "zh": "脉细数",
+   "en": "Thin and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "上焦湿热证",
+  "category": "三焦辨证",
+  "cardinal_symptoms": [
+   "头重身困",
+   "午后发热",
+   "胸闷脘痞",
+   "咳嗽"
+  ],
+  "secondary_symptoms": [
+   "面色淡黄",
+   "口不渴或渴不欲饮"
+  ],
+  "tongue": {
+   "body": "淡红",
+   "coating": "白腻"
+  },
+  "pulse": {
+   "type": "濡数",
+   "zh": "脉濡数",
+   "en": "Soggy and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "中焦湿热证",
+  "category": "三焦辨证",
+  "cardinal_symptoms": [
+   "身热不扬",
+   "脘腹胀满",
+   "恶心呕吐",
+   "大便溏薄或黏滞不爽"
+  ],
+  "secondary_symptoms": [
+   "肢体困重",
+   "小便短黄"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "黄腻"
+  },
+  "pulse": {
+   "type": "濡数",
+   "zh": "脉濡数",
+   "en": "Soggy and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "下焦湿热证",
+  "category": "三焦辨证",
+  "cardinal_symptoms": [
+   "小便短赤涩痛",
+   "大便赤白黏液或肛门灼热",
+   "少腹胀痛",
+   "下肢浮肿"
+  ],
+  "secondary_symptoms": [
+   "身热口渴",
+   "带下黄稠"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "黄腻"
+  },
+  "pulse": {
+   "type": "滑数或濡数",
+   "zh": "脉滑数或濡数",
+   "en": "Slippery rapid or soggy rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "风寒犯肺证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "咳嗽声重",
+   "痰白清稀",
+   "鼻塞流清涕",
+   "恶寒发热"
+  ],
+  "secondary_symptoms": [
+   "头身疼痛",
+   "无汗"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "薄白"
+  },
+  "pulse": {
+   "type": "浮紧",
+   "zh": "脉浮紧",
+   "en": "Floating and tight pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "痰热壅肺证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "咳嗽气喘",
+   "痰多黄稠",
+   "胸闷胸痛",
+   "发热面赤"
+  ],
+  "secondary_symptoms": [
+   "口渴喜饮",
+   "大便秘结",
+   "小便短赤"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "黄腻"
+  },
+  "pulse": {
+   "type": "滑数",
+   "zh": "脉滑数",
+   "en": "Slippery and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "燥邪犯肺证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "干咳无痰或痰少而黏",
+   "咽喉干燥",
+   "口鼻干燥"
+  ],
+  "secondary_symptoms": [
+   "胸痛",
+   "发热恶寒",
+   "痰中带血"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "薄白干"
+  },
+  "pulse": {
+   "type": "浮数",
+   "zh": "脉浮数",
+   "en": "Floating and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "风热犯肺证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "咳嗽频剧",
+   "痰黄黏稠",
+   "发热微恶风",
+   "咽喉肿痛"
+  ],
+  "secondary_symptoms": [
+   "口渴",
+   "鼻塞流黄涕",
+   "头痛"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "薄黄"
+  },
+  "pulse": {
+   "type": "浮数",
+   "zh": "脉浮数",
+   "en": "Floating and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "心血瘀阻证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "心胸刺痛，痛有定处",
+   "心悸怔忡",
+   "胸闷气短"
+  ],
+  "secondary_symptoms": [
+   "面色晦暗",
+   "唇甲青紫",
+   "痛引肩背"
+  ],
+  "tongue": {
+   "body": "暗紫",
+   "coating": "薄白"
+  },
+  "pulse": {
+   "type": "涩或结代",
+   "zh": "脉涩或结代",
+   "en": "Rough pulse, or bound and intermittent pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "痰蒙心窍证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "神志模糊",
+   "面色晦暗",
+   "喉中痰鸣",
+   "或突然昏倒，不省人事"
+  ],
+  "secondary_symptoms": [
+   "言语不清",
+   "举止异常",
+   "胸闷呕恶"
+  ],
+  "tongue": {
+   "body": "暗",
+   "coating": "白腻"
+  },
+  "pulse": {
+   "type": "滑",
+   "zh": "脉滑",
+   "en": "Slippery pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "心火亢盛证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "心烦失眠",
+   "口舌生疮",
+   "面赤口渴",
+   "小便短赤灼热"
+  ],
+  "secondary_symptoms": [
+   "舌尖碎痛",
+   "吐血衄血"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "黄"
+  },
+  "pulse": {
+   "type": "数有力",
+   "zh": "脉数有力",
+   "en": "Rapid and forceful pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "肝火上炎证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "头痛眩晕",
+   "面红目赤",
+   "急躁易怒",
+   "口苦口干"
+  ],
+  "secondary_symptoms": [
+   "胁肋灼痛",
+   "耳鸣如潮",
+   "吐血衄血",
+   "大便秘结"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "黄"
+  },
+  "pulse": {
+   "type": "弦数",
+   "zh": "脉弦数",
+   "en": "Wiry and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "肝胆湿热证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "胁肋胀痛",
+   "口苦",
+   "目黄身黄",
+   "小便短赤"
+  ],
+  "secondary_symptoms": [
+   "恶心呕吐",
+   "腹胀纳呆",
+   "阴部湿疹瘙痒",
+   "发热"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "黄腻"
+  },
+  "pulse": {
+   "type": "弦滑数",
+   "zh": "脉弦滑数",
+   "en": "Wiry, slippery, and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "肝风内动证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "眩晕欲仆",
+   "头痛如掣",
+   "肢体震颤抽搐",
+   "口眼歪斜"
+  ],
+  "secondary_symptoms": [
+   "舌强语謇",
+   "半身不遂",
+   "猝然昏倒"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "白或黄"
+  },
+  "pulse": {
+   "type": "弦",
+   "zh": "脉弦有力",
+   "en": "Wiry and forceful pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "肾气不固证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "腰膝酸软",
+   "小便频数清长，或余沥不尽",
+   "或遗尿，尿后余沥",
+   "男子遗精早泄"
+  ],
+  "secondary_symptoms": [
+   "面色淡白",
+   "听力减退",
+   "女子带下清稀量多"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "白"
+  },
+  "pulse": {
+   "type": "沉弱",
+   "zh": "脉沉弱",
+   "en": "Deep and weak pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "肾不纳气证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "喘促日久，呼多吸少",
+   "动则喘甚",
+   "气短不足以息",
+   "腰膝酸软"
+  ],
+  "secondary_symptoms": [
+   "自汗",
+   "面色青暗",
+   "肢冷"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "白"
+  },
+  "pulse": {
+   "type": "沉弱",
+   "zh": "脉沉弱",
+   "en": "Deep and weak pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "肾精不足证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "发育迟缓或早衰",
+   "腰膝酸软",
+   "耳鸣耳聋",
+   "健忘"
+  ],
+  "secondary_symptoms": [
+   "发脱齿摇",
+   "性功能减退",
+   "小儿五迟五软"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "少"
+  },
+  "pulse": {
+   "type": "细弱",
+   "zh": "脉细弱",
+   "en": "Thin and weak pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "脾肾阳虚证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "久泻不止，或五更泻",
+   "腰膝酸冷",
+   "腹部冷痛",
+   "面色㿠白"
+  ],
+  "secondary_symptoms": [
+   "形寒肢冷",
+   "面浮肢肿",
+   "小便不利"
+  ],
+  "tongue": {
+   "body": "淡胖",
+   "coating": "白滑"
+  },
+  "pulse": {
+   "type": "沉迟无力",
+   "zh": "脉沉迟无力",
+   "en": "Deep, slow, and forceless pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "脾虚湿困证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "脘腹痞闷",
+   "纳呆",
+   "口黏不渴",
+   "身重困倦",
+   "便溏"
+  ],
+  "secondary_symptoms": [
+   "面色萎黄",
+   "肢体浮肿"
+  ],
+  "tongue": {
+   "body": "淡胖",
+   "coating": "白腻"
+  },
+  "pulse": {
+   "type": "濡缓",
+   "zh": "脉濡缓",
+   "en": "Soggy and moderate pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "脾阳虚证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "腹痛绵绵，喜温喜按",
+   "大便溏薄清稀",
+   "畏寒肢冷",
+   "面色㿠白或虚浮"
+  ],
+  "secondary_symptoms": [
+   "口淡不渴",
+   "肢体困重或浮肿",
+   "带下清稀量多"
+  ],
+  "tongue": {
+   "body": "淡胖",
+   "coating": "白滑"
+  },
+  "pulse": {
+   "type": "沉迟无力",
+   "zh": "脉沉迟无力",
+   "en": "Deep, slow, and forceless pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "大肠津亏证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "大便干结难下",
+   "数日一行",
+   "口干咽燥"
+  ],
+  "secondary_symptoms": [
+   "腹胀",
+   "口臭"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "少津"
+  },
+  "pulse": {
+   "type": "细涩",
+   "zh": "脉细涩",
+   "en": "Thin and rough pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "小肠湿热证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "小便赤涩灼痛",
+   "尿频尿急",
+   "口渴"
+  ],
+  "secondary_symptoms": [
+   "心烦",
+   "口舌生疮",
+   "腹痛"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "黄腻"
+  },
+  "pulse": {
+   "type": "滑数",
+   "zh": "脉滑数",
+   "en": "Slippery and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "小肠气痛证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "少腹胀痛，牵引睾丸",
+   "偏坠疼痛",
+   "得温则减"
+  ],
+  "secondary_symptoms": [
+   "面色苍白",
+   "畏寒肢冷"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "白"
+  },
+  "pulse": {
+   "type": "沉弦",
+   "zh": "脉沉弦",
+   "en": "Deep and wiry pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "气滞证",
+  "category": "气血津液辨证",
+  "cardinal_symptoms": [
+   "胀满疼痛，时轻时重",
+   "疼痛走窜不定",
+   "情志不畅"
+  ],
+  "secondary_symptoms": [
+   "嗳气",
+   "矢气后胀痛减轻",
+   "善太息"
+  ],
+  "tongue": {
+   "body": "淡红",
+   "coating": "薄白"
+  },
+  "pulse": {
+   "type": "弦",
+   "zh": "脉弦",
+   "en": "Wiry pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "血瘀证",
+  "category": "气血津液辨证",
+  "cardinal_symptoms": [
+   "疼痛如刺，痛有定处",
+   "拒按",
+   "肿块",
+   "出血色暗有块"
+  ],
+  "secondary_symptoms": [
+   "面色晦暗",
+   "肌肤甲错",
+   "口唇爪甲青紫"
+  ],
+  "tongue": {
+   "body": "紫暗",
+   "coating": "薄白"
+  },
+  "pulse": {
+   "type": "涩",
+   "zh": "脉涩或沉涩",
+   "en": "Rough pulse, or deep and rough pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "气滞血瘀证",
+  "category": "气血津液辨证",
+  "cardinal_symptoms": [
+   "胸胁脘腹胀痛或刺痛",
+   "痛有定处，拒按",
+   "情志抑郁或急躁"
+  ],
+  "secondary_symptoms": [
+   "面色晦暗",
+   "妇女经行不畅，夹有血块",
+   "胸闷"
+  ],
+  "tongue": {
+   "body": "紫暗",
+   "coating": "薄白"
+  },
+  "pulse": {
+   "type": "弦涩",
+   "zh": "脉弦涩",
+   "en": "Wiry and rough pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "气虚血瘀证",
+  "category": "气血津液辨证",
+  "cardinal_symptoms": [
+   "气短乏力",
+   "面色淡暗",
+   "胸腹刺痛或隐痛，痛有定处"
+  ],
+  "secondary_symptoms": [
+   "自汗",
+   "肢体麻木",
+   "倦怠懒言"
+  ],
+  "tongue": {
+   "body": "淡暗",
+   "coating": "白"
+  },
+  "pulse": {
+   "type": "细涩",
+   "zh": "脉细涩或沉弱",
+   "en": "Thin and rough pulse, or deep and weak pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "津液亏损证",
+  "category": "气血津液辨证",
+  "cardinal_symptoms": [
+   "口燥咽干",
+   "皮肤干燥",
+   "大便干结",
+   "小便短少"
+  ],
+  "secondary_symptoms": [
+   "唇裂舌燥",
+   "目陷",
+   "形体消瘦"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "少苔或无苔"
+  },
+  "pulse": {
+   "type": "细数",
+   "zh": "脉细数",
+   "en": "Thin and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "气阴两虚证",
+  "category": "气血津液辨证",
+  "cardinal_symptoms": [
+   "气短懒言",
+   "神疲乏力",
+   "口干咽燥",
+   "五心烦热或低热"
+  ],
+  "secondary_symptoms": [
+   "自汗盗汗",
+   "面色无华",
+   "心悸"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "少苔"
+  },
+  "pulse": {
+   "type": "细数无力",
+   "zh": "脉细数无力",
+   "en": "Thin, rapid, and forceless pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "阴阳两虚证",
+  "category": "气血津液辨证",
+  "cardinal_symptoms": [
+   "畏寒肢冷，又见五心烦热",
+   "腰膝酸软",
+   "神疲乏力",
+   "面色㿠白"
+  ],
+  "secondary_symptoms": [
+   "自汗盗汗",
+   "遗精滑泄",
+   "口干不欲饮"
+  ],
+  "tongue": {
+   "body": "淡嫩",
+   "coating": "少或无"
+  },
+  "pulse": {
+   "type": "沉细微弱",
+   "zh": "脉沉细微弱",
+   "en": "Deep, thin, faint, and weak pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "痰饮内停证",
+  "category": "气血津液辨证",
+  "cardinal_symptoms": [
+   "胸脘痞闷",
+   "呕恶",
+   "头晕目眩",
+   "心悸"
+  ],
+  "secondary_symptoms": [
+   "形体肥胖",
+   "肠鸣辘辘",
+   "咳痰清稀"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "白滑"
+  },
+  "pulse": {
+   "type": "弦滑",
+   "zh": "脉弦滑",
+   "en": "Wiry and slippery pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "气虚证",
+  "category": "气血津液辨证",
+  "cardinal_symptoms": [
+   "气短懒言",
+   "神疲乏力",
+   "自汗",
+   "活动后诸症加重"
+  ],
+  "secondary_symptoms": [
+   "面色淡白",
+   "头晕",
+   "食少"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "白"
+  },
+  "pulse": {
+   "type": "虚弱",
+   "zh": "脉虚弱",
+   "en": "Vacuous and weak pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "太阳蓄水证",
+  "category": "六经辨证",
+  "cardinal_symptoms": [
+   "小便不利",
+   "少腹满",
+   "口渴欲饮，饮水即吐"
+  ],
+  "secondary_symptoms": [
+   "发热",
+   "脉浮或浮数",
+   "头痛"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "白滑"
+  },
+  "pulse": {
+   "type": "浮",
+   "zh": "脉浮或浮数",
+   "en": "Floating pulse, or floating and rapid"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "太阳蓄血证",
+  "category": "六经辨证",
+  "cardinal_symptoms": [
+   "少腹急结或硬满",
+   "小便自利",
+   "神志如狂或发狂"
+  ],
+  "secondary_symptoms": [
+   "大便色黑",
+   "口渴但不欲饮"
+  ],
+  "tongue": {
+   "body": "紫暗",
+   "coating": "薄白"
+  },
+  "pulse": {
+   "type": "沉涩或沉结",
+   "zh": "脉沉涩或沉结",
+   "en": "Deep and rough pulse, or deep and bound pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "少阴热化证",
+  "category": "六经辨证",
+  "cardinal_symptoms": [
+   "心烦不眠",
+   "口燥咽干",
+   "舌红少苔"
+  ],
+  "secondary_symptoms": [
+   "小便短赤",
+   "脉细数"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "少苔"
+  },
+  "pulse": {
+   "type": "细数",
+   "zh": "脉细数",
+   "en": "Thin and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "肝肾阴虚证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "头晕目眩",
+   "耳鸣",
+   "腰膝酸软",
+   "胁肋隐痛"
+  ],
+  "secondary_symptoms": [
+   "五心烦热",
+   "盗汗",
+   "口干咽燥",
+   "目干视昏"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "少苔"
+  },
+  "pulse": {
+   "type": "细数",
+   "zh": "脉细数",
+   "en": "Thin and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "心肾不交证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "心烦失眠",
+   "心悸多梦",
+   "头晕耳鸣",
+   "腰膝酸软"
+  ],
+  "secondary_symptoms": [
+   "五心烦热",
+   "盗汗",
+   "潮热",
+   "遗精"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "少苔"
+  },
+  "pulse": {
+   "type": "细数",
+   "zh": "脉细数",
+   "en": "Thin and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "脾不统血证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "便血",
+   "尿血",
+   "肌衄",
+   "妇女月经过多或崩漏"
+  ],
+  "secondary_symptoms": [
+   "面色萎黄",
+   "气短乏力",
+   "食少便溏"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "白"
+  },
+  "pulse": {
+   "type": "细弱",
+   "zh": "脉细弱",
+   "en": "Thin and weak pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "肺肾阴虚证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "干咳少痰",
+   "潮热盗汗",
+   "腰膝酸软",
+   "声音嘶哑"
+  ],
+  "secondary_symptoms": [
+   "痰中带血",
+   "颧红",
+   "形体消瘦",
+   "遗精"
+  ],
+  "tongue": {
+   "body": "红",
+   "coating": "少苔或剥苔"
+  },
+  "pulse": {
+   "type": "细数",
+   "zh": "脉细数",
+   "en": "Thin and rapid pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "心脾两虚证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "心悸怔忡",
+   "失眠多梦",
+   "食少纳呆",
+   "腹胀便溏"
+  ],
+  "secondary_symptoms": [
+   "面色萎黄",
+   "神疲乏力",
+   "健忘",
+   "妇女月经量少色淡或崩漏"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "薄白"
+  },
+  "pulse": {
+   "type": "细弱",
+   "zh": "脉细弱",
+   "en": "Thin and weak pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "肝脾不和证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "胸胁胀满窜痛",
+   "善太息",
+   "食少纳呆",
+   "腹胀便溏"
+  ],
+  "secondary_symptoms": [
+   "情志抑郁或急躁易怒",
+   "肠鸣矢气",
+   "腹痛欲泻，泻后痛减"
+  ],
+  "tongue": {
+   "body": "淡红",
+   "coating": "薄白"
+  },
+  "pulse": {
+   "type": "弦缓",
+   "zh": "脉弦缓",
+   "en": "Wiry and moderate pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "肝胃不和证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "胃脘胀满疼痛",
+   "嗳气吞酸",
+   "胁肋胀痛",
+   "情志不畅"
+  ],
+  "secondary_symptoms": [
+   "呃逆",
+   "恶心呕吐",
+   "嘈杂"
+  ],
+  "tongue": {
+   "body": "淡红",
+   "coating": "薄黄"
+  },
+  "pulse": {
+   "type": "弦",
+   "zh": "脉弦或弦数",
+   "en": "Wiry pulse, or wiry and rapid"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "肺脾气虚证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "咳嗽气短",
+   "痰白量多",
+   "食少纳呆",
+   "腹胀便溏"
+  ],
+  "secondary_symptoms": [
+   "面色萎黄",
+   "神疲乏力",
+   "声低懒言",
+   "面浮肢肿"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "白"
+  },
+  "pulse": {
+   "type": "细弱",
+   "zh": "脉细弱",
+   "en": "Thin and weak pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "阳虚证",
+  "category": "气血津液辨证",
+  "cardinal_symptoms": [
+   "畏寒肢冷",
+   "面色㿠白",
+   "神疲蜷卧",
+   "小便清长或尿少浮肿"
+  ],
+  "secondary_symptoms": [
+   "口淡不渴",
+   "大便溏薄",
+   "自汗"
+  ],
+  "tongue": {
+   "body": "淡胖",
+   "coating": "白滑"
+  },
+  "pulse": {
+   "type": "沉迟无力",
+   "zh": "脉沉迟无力",
+   "en": "Deep, slow, and forceless pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "血热妄行证",
+  "category": "气血津液辨证",
+  "cardinal_symptoms": [
+   "各种出血，血色鲜红",
+   "心烦",
+   "口渴",
+   "发热或潮热"
+  ],
+  "secondary_symptoms": [
+   "便血、尿血、吐血、衄血",
+   "妇女月经过多或崩漏",
+   "皮肤斑疹"
+  ],
+  "tongue": {
+   "body": "红绛",
+   "coating": "黄"
+  },
+  "pulse": {
+   "type": "数",
+   "zh": "脉数有力",
+   "en": "Rapid and forceful pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "痰湿阻肺证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "咳嗽痰多色白易咯",
+   "胸闷",
+   "气喘痰鸣"
+  ],
+  "secondary_symptoms": [
+   "身体困重",
+   "食少",
+   "恶心"
+  ],
+  "tongue": {
+   "body": "淡",
+   "coating": "白腻"
+  },
+  "pulse": {
+   "type": "滑",
+   "zh": "脉滑或濡滑",
+   "en": "Slippery pulse, or soggy and slippery"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "寒湿困脾证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "脘腹胀闷",
+   "口腻不渴",
+   "泛恶欲呕",
+   "大便溏泄"
+  ],
+  "secondary_symptoms": [
+   "头身困重",
+   "面色晦暗",
+   "肢体浮肿"
+  ],
+  "tongue": {
+   "body": "淡胖",
+   "coating": "白腻"
+  },
+  "pulse": {
+   "type": "濡缓",
+   "zh": "脉濡缓",
+   "en": "Soggy and moderate pulse"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "心肾阳虚证",
+  "category": "脏腑辨证",
+  "cardinal_symptoms": [
+   "心悸怔忡",
+   "形寒肢冷",
+   "尿少浮肿",
+   "面色㿠白或晦暗"
+  ],
+  "secondary_symptoms": [
+   "唇甲青紫",
+   "大汗淋漓",
+   "气短喘促"
+  ],
+  "tongue": {
+   "body": "淡紫",
+   "coating": "白滑"
+  },
+  "pulse": {
+   "type": "沉微欲绝",
+   "zh": "脉沉微欲绝或结代",
+   "en": "Deep, faint, and nearly imperceptible pulse; or bound and intermittent"
+  },
+  "source": "bencaodian"
+ },
+ {
+  "name": "下元虚冷",
+  "category": "SymMap",
+  "definition": "肾阳虚证是指肾阳亏虚，机体失其温煦，以腰膝酸冷、性欲减退、夜尿多及阳虚症状为主要表现的证。",
+  "name_en": "deficiency-cold of kidney",
+  "source": "symmap"
+ },
+ {
+  "name": "下脘虚冷",
+  "category": "SymMap",
+  "definition": "肾阳虚证是指肾阳亏虚，机体失其温煦，以腰膝酸冷、性欲减退、夜尿多及阳虚症状为主要表现的证。",
+  "name_en": "deficiency-cold of abdomen",
+  "source": "symmap"
+ },
+ {
+  "name": "中气下陷",
+  "category": "SymMap",
+  "definition": "脾虚气陷证是指脾气虚弱，升举无力而反下陷，以眩晕、泄泻、脘腹重坠、内脏下垂及气虚症状为主要表现的证。脾虚气陷证又名中气下陷证。",
+  "name_en": "sinking of the middle qi",
+  "source": "symmap"
+ },
+ {
+  "name": "久病虚羸",
+  "category": "SymMap",
+  "definition": null,
+  "name_en": "the debility from chronic illness",
+  "source": "symmap"
+ },
+ {
+  "name": "乳食停滞",
+  "category": "SymMap",
+  "definition": "是脾胃虚弱，乳食停滞不化而出现的证候。",
+  "name_en": "milk stagnation",
+  "source": "symmap"
+ },
+ {
+  "name": "亡阳",
+  "category": "SymMap",
+  "definition": "机体的阳气短时间内大量亡失，使属于阳的功能突然严重衰竭，因而导致生命垂危的一种病理变化。",
+  "name_en": "yang exhaustion",
+  "source": "symmap"
+ },
+ {
+  "name": "产后瘀血",
+  "category": "SymMap",
+  "definition": "血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。",
+  "name_en": "postpartum  blood stasis",
+  "source": "symmap"
+ },
+ {
+  "name": "产后血虚",
+  "category": "SymMap",
+  "definition": "血虚证是指血液亏虚，不能濡养脏腑、经络、组织，以面、睑、唇、舌色淡白，脉细为主要表现的证。",
+  "name_en": "postpartum blood deficiency",
+  "source": "symmap"
+ },
+ {
+  "name": "内热",
+  "category": "SymMap",
+  "definition": "指体内脏腑阴阳偏胜之热。",
+  "name_en": "intrinsic heat",
+  "source": "symmap"
+ },
+ {
+  "name": "冷哮",
+  "category": "SymMap",
+  "definition": null,
+  "name_en": "asthma of cold type",
+  "source": "symmap"
+ },
+ {
+  "name": "冷喘",
+  "category": "SymMap",
+  "definition": null,
+  "name_en": "Cold-type Dyspnea",
+  "source": "symmap"
+ },
+ {
+  "name": "冷泻",
+  "category": "SymMap",
+  "definition": null,
+  "name_en": "cold diarrhea",
+  "source": "symmap"
+ },
+ {
+  "name": "劳伤",
+  "category": "SymMap",
+  "definition": "中医指因过度劳累而引起的内伤",
+  "name_en": "injury caused by strain and sprain",
+  "source": "symmap"
+ },
+ {
+  "name": "外感",
+  "category": "SymMap",
+  "definition": null,
+  "name_en": "externally infected disease",
+  "source": "symmap"
+ },
+ {
+  "name": "外感风寒",
+  "category": "SymMap",
+  "definition": "风寒犯肺证是指由于风寒侵袭，肺卫失宣，以咳嗽及风寒表证症状为主要表现的证。",
+  "name_en": "affection by exopathic wind-cold",
+  "source": "symmap"
+ },
+ {
+  "name": "实热",
+  "category": "SymMap",
+  "definition": "热证是指感受热邪，或脏腑阳气亢盛，或阴虚阳亢，导致机体功能活动亢进而表现出具有“温、热”等症状特点的证。",
+  "name_en": "strong fever",
+  "source": "symmap"
+ },
+ {
+  "name": "实热积滞",
+  "category": "SymMap",
+  "definition": null,
+  "name_en": "stagnation due to excessive heat",
+  "source": "symmap"
+ },
+ {
+  "name": "宫冷",
+  "category": "SymMap",
+  "definition": "指妇女肾阳不足，胞子宫失于温煦所出现的下腹坠胀，疼痛，得热则缓和，白带多，痛经，月经失调，脉沉紧，舌苔薄白多津为主要症状者",
+  "name_en": "cold sensation in uterus",
+  "source": "symmap"
+ },
+ {
+  "name": "寒凝气滞",
+  "category": "SymMap",
+  "definition": "是阴寒之邪侵入人体，损伤阳气，寒邪留滞不去，外现寒证的证候。",
+  "name_en": "accumulation of cold and stasis of qi",
+  "source": "symmap"
+ },
+ {
+  "name": "寒湿",
+  "category": "SymMap",
+  "definition": "是指寒湿之邪阻滞经络，以肢体或患处沉重冷痛、麻木，或肿胀，畏冷肢凉，苔白滑等为常见症的证候。",
+  "name_en": "cold and damp",
+  "source": "symmap"
+ },
+ {
+  "name": "寒湿内阻",
+  "category": "SymMap",
+  "definition": "是指寒湿之邪阻滞经络，以肢体或患处沉重冷痛、麻木，或肿胀，畏冷肢凉，苔白滑等为常见症的证候。",
+  "name_en": "retention of cold and wind within the body",
+  "source": "symmap"
+ },
+ {
+  "name": "寒湿郁滞",
+  "category": "SymMap",
+  "definition": "是指寒湿之邪阻滞经络，以肢体或患处沉重冷痛、麻木，或肿胀，畏冷肢凉，苔白滑等为常见症的证候。",
+  "name_en": "stagnation of cold-dampness",
+  "source": "symmap"
+ },
+ {
+  "name": "寒湿闭暑",
+  "category": "SymMap",
+  "definition": "是指寒湿之邪阻滞经络，以肢体或患处沉重冷痛、麻木，或肿胀，畏冷肢凉，苔白滑等为常见症的证候。",
+  "name_en": "Cold-dampness and incubated summer heat",
+  "source": "symmap"
+ },
+ {
+  "name": "寒滞",
+  "category": "SymMap",
+  "definition": "是阴寒之邪侵入人体，损伤阳气，寒邪留滞不去，外现寒证的证候。",
+  "name_en": "retention of cold and fluid",
+  "source": "symmap"
+ },
+ {
+  "name": "寒热互结",
+  "category": "SymMap",
+  "definition": "寒热错杂是指在同一患者身上，既有寒证，又有热证的情况。",
+  "name_en": "combination of cold and heat ",
+  "source": "symmap"
+ },
+ {
+  "name": "寒疝",
+  "category": "SymMap",
+  "definition": "由脾胃虚寒，或产后血虚，复感风寒外邪，结聚於腹中而致。",
+  "name_en": "periumbilical colic due to invasion of cold",
+  "source": "symmap"
+ },
+ {
+  "name": "寒痰",
+  "category": "SymMap",
+  "definition": "寒痰阻肺证是指寒痰交阻于肺，肺失宣降，以咳嗽气喘、痰多色白及寒证症状为主要表现的证。寒痰阻肺证又名寒饮停肺证、痰浊阻肺证。",
+  "name_en": "cold phlegm",
+  "source": "symmap"
+ },
+ {
+  "name": "寒积",
+  "category": "SymMap",
+  "definition": "感受阴寒之邪所致的证候。",
+  "name_en": "accumulation of cold evil",
+  "source": "symmap"
+ },
+ {
+  "name": "寒饮",
+  "category": "SymMap",
+  "definition": "寒痰阻肺证是指寒痰交阻于肺，肺失宣降，以咳嗽气喘、痰多色白及寒证症状为主要表现的证。寒痰阻肺证又名寒饮停肺证、痰浊阻肺证。",
+  "name_en": "fluid retention",
+  "source": "symmap"
+ },
+ {
+  "name": "小儿痰热",
+  "category": "SymMap",
+  "definition": "由痰热互结，阻于气道，肺道失利，肺胃气逆，痰火伤及血络所致。",
+  "name_en": "Phlegm fever in children",
+  "source": "symmap"
+ },
+ {
+  "name": "少阴伏风",
+  "category": "SymMap",
+  "definition": null,
+  "name_en": "wind in shaoyin",
+  "source": "symmap"
+ },
+ {
+  "name": "心火亢盛",
+  "category": "SymMap",
+  "definition": "心火亢盛证是指心火内炽，扰神迫血，火热上炎下移，以心烦失眠、舌赤生疮、吐衄、尿赤及火热症状为主要表现的证。",
+  "name_en": "exuberance of the heart fire",
+  "source": "symmap"
+ },
+ {
+  "name": "心肾不交",
+  "category": "SymMap",
+  "definition": "心肾不交证是指心肾水火既济失调，以心烦、失眠、梦遗、耳鸣、腰膝酸软等为主要表现的证。",
+  "name_en": "breakdowm of the normal physilolgical coordination between the heart and the kidney",
+  "source": "symmap"
+ },
+ {
+  "name": "心脾不足",
+  "category": "SymMap",
+  "definition": "心脾两虚证是指脾气亏虚，心血不足，以心悸怔忡、失眠多梦、食少、腹胀、便溏及气血两虚症状为主要表现的证。",
+  "name_en": "insufficiency of both the heart and the spleen",
+  "source": "symmap"
+ },
+ {
+  "name": "心腹瘀血",
+  "category": "SymMap",
+  "definition": "血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。",
+  "name_en": "Heart stasis",
+  "source": "symmap"
+ },
+ {
+  "name": "心虚",
+  "category": "SymMap",
+  "definition": "心气虚证是指心气不足，鼓动无力，以心悸怔忡及气虚症状为主要表现的证。",
+  "name_en": "cardiac asthenia",
+  "source": "symmap"
+ },
+ {
+  "name": "心阳不足",
+  "category": "SymMap",
+  "definition": "心阳虚证是指心阳虚衰，温运失司，虚寒内生，以心悸怔忡，或心胸疼痛及阳虚症状为主要表现的证。",
+  "name_en": "insufficiency of cardiac yang",
+  "source": "symmap"
+ },
+ {
+  "name": "暑湿",
+  "category": "SymMap",
+  "definition": "即暑热挟湿。以胸脘痞闷、心烦、身热、舌苔黄腻为主证。",
+  "name_en": "be affected by summer-head-dampness",
+  "source": "symmap"
+ },
+ {
+  "name": "暑湿表证",
+  "category": "SymMap",
+  "definition": "暑湿伤表，卫气失调，以发热，微恶风寒，头重身困，口渴，烦躁，小便短赤，舌红苔黄腻，脉濡数等为常见症的证候。",
+  "name_en": "cold in meridian",
+  "source": "symmap"
+ },
+ {
+  "name": "暑热",
+  "category": "SymMap",
+  "definition": "外感暑邪的热证。",
+  "name_en": "summer heat",
+  "source": "symmap"
+ },
+ {
+  "name": "暑邪",
+  "category": "SymMap",
+  "definition": "凡夏至之后，立秋以前，致病具有炎热、升散、兼湿特性的外邪，称为暑邪。",
+  "name_en": "summer-heat evil",
+  "source": "symmap"
+ },
+ {
+  "name": "气不摄",
+  "category": "SymMap",
+  "definition": "脾不统血证是指脾气虚弱，统血失常，血溢脉外，以各种出血及脾气虚症状为主要表现的证。",
+  "name_en": "Qi fails to keep",
+  "source": "symmap"
+ },
+ {
+  "name": "气不摄血",
+  "category": "SymMap",
+  "definition": "脾不统血证是指脾气虚弱，统血失常，血溢脉外，以各种出血及脾气虚症状为主要表现的证。",
+  "name_en": "failure of qi to govern blood;qi failing to failure of qi to contain blood",
+  "source": "symmap"
+ },
+ {
+  "name": "气滞",
+  "category": "SymMap",
+  "definition": "气滞证是指人体某一部位，或某一脏腑、经络的气机阻滞，运行不畅，以胀闷、疼痛、脉弦为主要表现的证。气滞证又称气郁证、气结证。",
+  "name_en": "sluggish flow of qi",
+  "source": "symmap"
+ },
+ {
+  "name": "气潜",
+  "category": "SymMap",
+  "definition": "气陷证是指气虚升举无力而反下陷，以自觉气坠，或内脏下垂为主要表现的证。",
+  "name_en": "Qi becomes dormant or concealed",
+  "source": "symmap"
+ },
+ {
+  "name": "气虚",
+  "category": "SymMap",
+  "definition": "气虚证是指机体元气不足，脏腑组织机能减退，以神疲乏力、少气懒言、脉虚等为主要表现的证。",
+  "name_en": "air weakness",
+  "source": "symmap"
+ },
+ {
+  "name": "气血不足",
+  "category": "SymMap",
+  "definition": "气血两虚证是指气血不能互相化生，以气虚和血虚症状相兼为主要表现的证。",
+  "name_en": "insufficiency of the vital energy and blood",
+  "source": "symmap"
+ },
+ {
+  "name": "气血亏虚",
+  "category": "SymMap",
+  "definition": "气血两虚证是指气血不能互相化生，以气虚和血虚症状相兼为主要表现的证。",
+  "name_en": "deficiency of qi and the blood",
+  "source": "symmap"
+ },
+ {
+  "name": "气血虚弱",
+  "category": "SymMap",
+  "definition": "气血两虚证是指气血不能互相化生，以气虚和血虚症状相兼为主要表现的证。",
+  "name_en": "the debility of qi and the blood",
+  "source": "symmap"
+ },
+ {
+  "name": "气逆",
+  "category": "SymMap",
+  "definition": "气逆证是指气机升降失常，逆而向上，以咳喘、呕恶、头痛眩晕等为主要表现的证。",
+  "name_en": "abnormal rising of qi ",
+  "source": "symmap"
+ },
+ {
+  "name": "气郁",
+  "category": "SymMap",
+  "definition": "气滞证是指人体某一部位，或某一脏腑、经络的气机阻滞，运行不畅，以胀闷、疼痛、脉弦为主要表现的证。气滞证又称气郁证、气结证。",
+  "name_en": "stagnation of qi",
+  "source": "symmap"
+ },
+ {
+  "name": "气阴不足",
+  "category": "SymMap",
+  "definition": "本证指由于阴虚日久，阴不化气而气失化源，或因邪热疫毒伤损，伤阴耗气，导致机体气阴不足，功能减退所表现的证候。",
+  "name_en": "insufficiency of  qi and yin; deficiency of qi and yin",
+  "source": "symmap"
+ },
+ {
+  "name": "气阴两虚",
+  "category": "SymMap",
+  "definition": "本证指由于阴虚日久，阴不化气而气失化源，或因邪热疫毒伤损，伤阴耗气，导致机体气阴不足，功能减退所表现的证候。",
+  "name_en": "insufficiency of qi and yin",
+  "source": "symmap"
+ },
+ {
+  "name": "气阴亏虚",
+  "category": "SymMap",
+  "definition": "本证指由于阴虚日久，阴不化气而气失化源，或因邪热疫毒伤损，伤阴耗气，导致机体气阴不足，功能减退所表现的证候。",
+  "name_en": "deficiency of qi and yin",
+  "source": "symmap"
+ },
+ {
+  "name": "水血不",
+  "category": "SymMap",
+  "definition": null,
+  "name_en": null,
+  "source": "symmap"
+ },
+ {
+  "name": "水血不足",
+  "category": "SymMap",
+  "definition": null,
+  "name_en": "anhydremia",
+  "source": "symmap"
+ },
+ {
+  "name": "津亏",
+  "category": "SymMap",
+  "definition": "津液亏虚证是指机体津液亏少，形体、脏腑、官窍失却滋润濡养和充盈，以口渴欲饮、尿少便干、官窍及皮肤干燥等为主要表现的证。",
+  "name_en": "deficiency of fluid ",
+  "source": "symmap"
+ },
+ {
+  "name": "津伤",
+  "category": "SymMap",
+  "definition": "津液亏虚证是指机体津液亏少，形体、脏腑、官窍失却滋润濡养和充盈，以口渴欲饮、尿少便干、官窍及皮肤干燥等为主要表现的证。",
+  "name_en": "deficiency of the body fluid",
+  "source": "symmap"
+ },
+ {
+  "name": "津枯肠燥",
+  "category": "SymMap",
+  "definition": "肠燥津亏证是指津液亏损，肠失濡润，传导失职，以大便燥结难下及津亏症状为主要表现的证。",
+  "name_en": "deficiency of body fluid with dryness in the intestines",
+  "source": "symmap"
+ },
+ {
+  "name": "淤滞",
+  "category": "SymMap",
+  "definition": "血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。",
+  "name_en": "stasis",
+  "source": "symmap"
+ },
+ {
+  "name": "淤血肿痛",
+  "category": "SymMap",
+  "definition": "血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。",
+  "name_en": "swelling and pain due to blood stasis",
+  "source": "symmap"
+ },
+ {
+  "name": "淤血阻络",
+  "category": "SymMap",
+  "definition": "血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。",
+  "name_en": "blood stasis in collaterals",
+  "source": "symmap"
+ },
+ {
+  "name": "温毒",
+  "category": "SymMap",
+  "definition": "温毒是指感受温毒病邪所引起的具有肿毒特征的一类温病。",
+  "name_en": "heat toxins",
+  "source": "symmap"
+ },
+ {
+  "name": "温毒发斑",
+  "category": "SymMap",
+  "definition": "由於温热之毒内蕴肺胃，充斥三焦，波及营血，透发於肌肤而为斑。",
+  "name_en": "maculae caused by violent heat pathogen",
+  "source": "symmap"
+ },
+ {
+  "name": "温热入营",
+  "category": "SymMap",
+  "definition": "热毒深传，侵入营血，以发热不退，抽搐频繁，牙关紧闭，两目上视，面色灰暗，甚或突然呼吸停止，肢厥脉绝，舌紫暗而干，或舌卷僵硬，脉细数为常见症的小儿暑温证候",
+  "name_en": "Warm into the camp",
+  "source": "symmap"
+ },
+ {
+  "name": "温病初起",
+  "category": "SymMap",
+  "definition": "感受温邪所引起的一类外感急性热病的总称。",
+  "name_en": "Febrile disease early",
+  "source": "symmap"
+ },
+ {
+  "name": "温邪伤营",
+  "category": "SymMap",
+  "definition": "热毒深传，侵入营血，以发热不退，抽搐频繁，牙关紧闭，两目上视，面色灰暗，甚或突然呼吸停止，肢厥脉绝，舌紫暗而干，或舌卷僵硬，脉细数为常见症的小儿暑温证候",
+  "name_en": "Heat Evil camp injury",
+  "source": "symmap"
+ },
+ {
+  "name": "温邪伤阴",
+  "category": "SymMap",
+  "definition": "风温余邪未净，肺胃阴伤，以低热或不发热，干咳或痰少而黏，口舌干燥而渴，舌干红，少苔，脉细等为常见症的风温证候。",
+  "name_en": "Warm evil and hurt yin",
+  "source": "symmap"
+ },
+ {
+  "name": "湿浊中阻",
+  "category": "SymMap",
+  "definition": "寒湿困脾证是指寒湿内盛，困阻脾阳，运化失职，以脘腹痞闷、纳呆、便溏、身重与寒湿症状为主要表现的证。",
+  "name_en": "Retention of Dampness and turbidity in Mtddle-energizer",
+  "source": "symmap"
+ },
+ {
+  "name": "湿温",
+  "category": "SymMap",
+  "definition": null,
+  "name_en": "damp fever",
+  "source": "symmap"
+ },
+ {
+  "name": "湿温初起",
+  "category": "SymMap",
+  "definition": null,
+  "name_en": "Humidity at the beginning",
+  "source": "symmap"
+ },
+ {
+  "name": "湿滞伤中",
+  "category": "SymMap",
+  "definition": "寒湿困脾证是指寒湿内盛，困阻脾阳，运化失职，以脘腹痞闷、纳呆、便溏、身重与寒湿症状为主要表现的证。",
+  "name_en": "retention of dampness impair mtddle-energizer",
+  "source": "symmap"
+ },
+ {
+  "name": "湿热",
+  "category": "SymMap",
+  "definition": "指湿热蕴结体内，脏腑经络运行受阻，可见全身湿热症状的病理变化。",
+  "name_en": "wet fever",
+  "source": "symmap"
+ },
+ {
+  "name": "湿热中阻",
+  "category": "SymMap",
+  "definition": "指湿热蕴结体内，脏腑经络运行受阻，可见全身湿热症状的病理变化。",
+  "name_en": "Retention of Dampness and heat in Mtddle-energizer",
+  "source": "symmap"
+ },
+ {
+  "name": "湿热壅遏",
+  "category": "SymMap",
+  "definition": "指湿热蕴结体内，脏腑经络运行受阻，可见全身湿热症状的病理变化。",
+  "name_en": "Humidity and heat suppression",
+  "source": "symmap"
+ },
+ {
+  "name": "湿热痞满",
+  "category": "SymMap",
+  "definition": "指湿热蕴结体内，脏腑经络运行受阻，可见全身湿热症状的病理变化。",
+  "name_en": "sensation of fullness due to dampness and heat",
+  "source": "symmap"
+ },
+ {
+  "name": "湿痰",
+  "category": "SymMap",
+  "definition": "痰湿内阻，以咳吐多量黏稠痰，痰滑易咯，肢体困重，胸脘痞闷，食少口腻，苔白腻，脉濡缓或滑等为常见症的证候。",
+  "name_en": "Damp Phlegm",
+  "source": "symmap"
+ },
+ {
+  "name": "湿阻中焦",
+  "category": "SymMap",
+  "definition": "即湿邪阻滞脾胃，影响其运化功能。症见头重、怠倦、脘闷、腹胀、纳呆、口粘渴、喜热饮、小便短赤，舌苔厚白或腻，脉缓等。",
+  "name_en": "Retention of Dampness in Mtddle-energizer",
+  "source": "symmap"
+ },
+ {
+  "name": "湿阻气滞",
+  "category": "SymMap",
+  "definition": "气机郁滞，湿浊内阻，以胸胁脘腹胀闷窜痛，恶心欲吐，肢体困重，头晕嗜睡，或有浮肿，苔白腻，脉弦滑或濡缓等为常见症的证候。",
+  "name_en": "damp obstruction leading to qi stagnation",
+  "source": "symmap"
+ },
+ {
+  "name": "火毒",
+  "category": "SymMap",
+  "definition": "是指以局部肿痛严重，伴有恶寒发热，烦躁为主要临床特征的一类病证。",
+  "name_en": "fire toxic",
+  "source": "symmap"
+ },
+ {
+  "name": "火毒蕴结",
+  "category": "SymMap",
+  "definition": "是指以局部肿痛严重，伴有恶寒发热，烦躁为主要临床特征的一类病证。",
+  "name_en": "accumulation of fire toxins",
+  "source": "symmap"
+ },
+ {
+  "name": "热入心包",
+  "category": "SymMap",
+  "definition": "温热病内陷营血阶段的证型之一。主要证候有高热、神昏、谵语、甚则昏迷不醒、四肢厥逆、或见抽搐等。",
+  "name_en": "the heat attacts the pericardium",
+  "source": "symmap"
+ },
+ {
+  "name": "热入营血",
+  "category": "SymMap",
+  "definition": "是指由于感受火热毒邪，或恣食膏粱厚味，脏腑蕴热，亦或是皮肤破损染毒致火毒炽盛，内燔营血所表现出来的局部肿胀，身热夜甚，烦渴，舌红降，脉数一类病证。",
+  "name_en": "heat attacking xuefen;heat invading blood ",
+  "source": "symmap"
+ },
+ {
+  "name": "热毒",
+  "category": "SymMap",
+  "definition": "热毒证是以发热为主症，具有流行性和传染性的一类疾病，属温病中瘟疫范畴",
+  "name_en": "heat toxic",
+  "source": "symmap"
+ },
+ {
+  "name": "热毒内盛",
+  "category": "SymMap",
+  "definition": "热毒证是以发热为主症，具有流行性和传染性的一类疾病，属温病中瘟疫范畴",
+  "name_en": "domination of toxin-heat in the body",
+  "source": "symmap"
+ },
+ {
+  "name": "热毒痰火郁结",
+  "category": "SymMap",
+  "definition": "指无形之火与有形之痰煎熬胶结贮积于体内的病证。",
+  "name_en": "accumulation of heat toxic and phlegm ",
+  "source": "symmap"
+ },
+ {
+  "name": "热泻",
+  "category": "SymMap",
+  "definition": "因热迫大肠所引起",
+  "name_en": "diarrhea due to evil heat",
+  "source": "symmap"
+ },
+ {
+  "name": "热病",
+  "category": "SymMap",
+  "definition": null,
+  "name_en": "heat disease",
+  "source": "symmap"
+ },
+ {
+  "name": "热病伤阴",
+  "category": "SymMap",
+  "definition": "津液亏虚证是指机体津液亏少，形体、脏腑、官窍失却滋润濡养和充盈，以口渴欲饮、尿少便干、官窍及皮肤干燥等为主要表现的证。",
+  "name_en": "consumption of yin caused by febrile diseases",
+  "source": "symmap"
+ },
+ {
+  "name": "热病气虚",
+  "category": "SymMap",
+  "definition": "气虚证是指机体元气不足，脏腑组织机能减退，以神疲乏力、少气懒言、脉虚等为主要表现的证。",
+  "name_en": "Fever and Qi Deficiency",
+  "source": "symmap"
+ },
+ {
+  "name": "热病津伤",
+  "category": "SymMap",
+  "definition": "津液亏虚证是指机体津液亏少，形体、脏腑、官窍失却滋润濡养和充盈，以口渴欲饮、尿少便干、官窍及皮肤干燥等为主要表现的证。",
+  "name_en": "impairment of the body fluid ",
+  "source": "symmap"
+ },
+ {
+  "name": "热病神昏",
+  "category": "SymMap",
+  "definition": "痰火扰神证是指火热痰浊交结，扰乱心神，以狂躁、神昏及痰热症状为主要表现的证。痰火扰神证又称痰火扰心 （闭窍）证。",
+  "name_en": "an unconscious patient with febrile diseases",
+  "source": "symmap"
+ },
+ {
+  "name": "热痰",
+  "category": "SymMap",
+  "definition": null,
+  "name_en": "heat-phlegm",
+  "source": "symmap"
+ },
+ {
+  "name": "热盛伤津",
+  "category": "SymMap",
+  "definition": "津液亏虚证是指机体津液亏少，形体、脏腑、官窍失却滋润濡养和充盈，以口渴欲饮、尿少便干、官窍及皮肤干燥等为主要表现的证。",
+  "name_en": "consumption of the body fluid due to excessive heat",
+  "source": "symmap"
+ },
+ {
+  "name": "热结",
+  "category": "SymMap",
+  "definition": "指热邪聚结而出现的病变。",
+  "name_en": "accumulation of heat",
+  "source": "symmap"
+ },
+ {
+  "name": "热证",
+  "category": "SymMap",
+  "definition": "是指感受热邪、或阳盛阴虚，人体的机能活动亢进所表现的证候。",
+  "name_en": "febrile symptoms",
+  "source": "symmap"
+ },
+ {
+  "name": "燥咳",
+  "category": "SymMap",
+  "definition": "因肺虚液少或燥邪伤肺所致的咳嗽。",
+  "name_en": "cough caused by dryness",
+  "source": "symmap"
+ },
+ {
+  "name": "痰厥",
+  "category": "SymMap",
+  "definition": "指因痰盛气闭而引起四肢厥冷，甚至昏厥的病症。",
+  "name_en": "adverse rising of phlegm",
+  "source": "symmap"
+ },
+ {
+  "name": "痰壅",
+  "category": "SymMap",
+  "definition": "痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。",
+  "name_en": "accumulation of phlegm",
+  "source": "symmap"
+ },
+ {
+  "name": "痰多",
+  "category": "SymMap",
+  "definition": null,
+  "name_en": "abundant sputum",
+  "source": "symmap"
+ },
+ {
+  "name": "痰涎凝聚",
+  "category": "SymMap",
+  "definition": "痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。",
+  "name_en": "phlegmatic saliva accumulated in the interior",
+  "source": "symmap"
+ },
+ {
+  "name": "痰涎壅肺",
+  "category": "SymMap",
+  "definition": "痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。",
+  "name_en": "phlegm-damoness obstructing lung",
+  "source": "symmap"
+ },
+ {
+  "name": "痰涎积滞",
+  "category": "SymMap",
+  "definition": "痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。",
+  "name_en": "stagnation of phlegm and drool",
+  "source": "symmap"
+ },
+ {
+  "name": "痰滞气阻",
+  "category": "SymMap",
+  "definition": "是指气郁痰凝，阻滞胸咽所表现出来的咽中如有物梗赛，胸胁胀痛，苔白腻，脉弦滑的一类病证。",
+  "name_en": "phlegm and qi obstructing each other",
+  "source": "symmap"
+ },
+ {
+  "name": "痰滞经络",
+  "category": "SymMap",
+  "definition": "痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。",
+  "name_en": "retention of phlegm in Meridians and Collaterals",
+  "source": "symmap"
+ },
+ {
+  "name": "痰火",
+  "category": "SymMap",
+  "definition": "痰火是指无形之火与有形之痰煎熬胶结贮积于肺的病证。",
+  "name_en": "phlegm fire",
+  "source": "symmap"
+ },
+ {
+  "name": "痰热",
+  "category": "SymMap",
+  "definition": "痰热壅肺证是指痰热交结，壅滞于肺，肺失清肃，以咳喘、痰黄稠及痰热症状为主要表现的证。",
+  "name_en": "phlegm heat",
+  "source": "symmap"
+ },
+ {
+  "name": "痰盛",
+  "category": "SymMap",
+  "definition": "痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。",
+  "name_en": "abundant phlegm",
+  "source": "symmap"
+ },
+ {
+  "name": "痰迷",
+  "category": "SymMap",
+  "definition": "痰蒙心神证是指痰浊内盛，蒙蔽心神，以神志抑郁、错乱、痴呆、昏迷及痰浊症状为主要表现的证。痰蒙心神证又称痰迷心窍证。",
+  "name_en": "phlegm covering",
+  "source": "symmap"
+ },
+ {
+  "name": "痰阻",
+  "category": "SymMap",
+  "definition": "是指因嗜酒无度，过食肥甘厚味，损伤脾胃，以致健运失司，水湿内停，积聚生痰，痰阻中焦，清阳不升，头窍失养所表现出来的眩晕，头重昏蒙，舌苔白腻，脉濡滑的一类病证。",
+  "name_en": "retention of phlegm",
+  "source": "symmap"
+ },
+ {
+  "name": "痰饮",
+  "category": "SymMap",
+  "definition": "痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。",
+  "name_en": "sputum drink",
+  "source": "symmap"
+ },
+ {
+  "name": "痰饮停滞",
+  "category": "SymMap",
+  "definition": "痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。",
+  "name_en": "stagnation of phlegm retention",
+  "source": "symmap"
+ },
+ {
+  "name": "痰饮停聚",
+  "category": "SymMap",
+  "definition": "痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。",
+  "name_en": "retention of phlegm in the interior",
+  "source": "symmap"
+ },
+ {
+  "name": "痰饮内停",
+  "category": "SymMap",
+  "definition": "痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。",
+  "name_en": "retention of phlegm in the interior",
+  "source": "symmap"
+ },
+ {
+  "name": "痰饮积聚",
+  "category": "SymMap",
+  "definition": "痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。",
+  "name_en": "abdominal mass and gethering of phlegm retention",
+  "source": "symmap"
+ },
+ {
+  "name": "痰饮蓄结",
+  "category": "SymMap",
+  "definition": "痰证是指痰浊停聚或流窜于脏腑、组织之间，临床以痰多、胸闷、呕恶、眩晕、体胖、包块等为主要表现的证。",
+  "name_en": "Phlegm build knot",
+  "source": "symmap"
+ },
+ {
+  "name": "瘀滞",
+  "category": "SymMap",
+  "definition": "血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。",
+  "name_en": "stasis stagnancy ",
+  "source": "symmap"
+ },
+ {
+  "name": "瘀滞肿痛",
+  "category": "SymMap",
+  "definition": "血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。",
+  "name_en": "Stasis, swelling and pain",
+  "source": "symmap"
+ },
+ {
+  "name": "瘀肿疼痛",
+  "category": "SymMap",
+  "definition": "血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。",
+  "name_en": "pain caused by ecchymoma",
+  "source": "symmap"
+ },
+ {
+  "name": "瘀血",
+  "category": "SymMap",
+  "definition": "血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。",
+  "name_en": "stagnant blood",
+  "source": "symmap"
+ },
+ {
+  "name": "瘀血阻络",
+  "category": "SymMap",
+  "definition": "血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。",
+  "name_en": "blood stasis in collaterals",
+  "source": "symmap"
+ },
+ {
+  "name": "瘀阻",
+  "category": "SymMap",
+  "definition": "血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。",
+  "name_en": "Stagnation",
+  "source": "symmap"
+ },
+ {
+  "name": "瘀阻经闭",
+  "category": "SymMap",
+  "definition": "多因气滞、寒凝，瘀血阻滞冲任胞脉，积之而成经闭。",
+  "name_en": "amenorrhea due to congestion",
+  "source": "symmap"
+ },
+ {
+  "name": "积滞不消",
+  "category": "SymMap",
+  "definition": "是指由于饮食不节，损伤脾胃而出现的证候。",
+  "name_en": "indigestion due to accumulation",
+  "source": "symmap"
+ },
+ {
+  "name": "积滞内停",
+  "category": "SymMap",
+  "definition": "是指由于饮食不节，损伤脾胃而出现的证候。",
+  "name_en": "accumulation within the body",
+  "source": "symmap"
+ },
+ {
+  "name": "积滞泻痢",
+  "category": "SymMap",
+  "definition": "是指由于饮食不节，损伤脾胃而出现的证候。",
+  "name_en": "indigestion accompanied with diarrhea and dysentery",
+  "source": "symmap"
+ },
+ {
+  "name": "积滞胀满",
+  "category": "SymMap",
+  "definition": "是指由于饮食不节，损伤脾胃而出现的证候。",
+  "name_en": "dyspeptic abdonimal distention",
+  "source": "symmap"
+ },
+ {
+  "name": "精亏",
+  "category": "SymMap",
+  "definition": "是指肾精亏损、髓海空虚所致的发育迟缓、未老先衰、肢体痿弱不用的一类证候。",
+  "name_en": "deficiency of spermatozoa",
+  "source": "symmap"
+ },
+ {
+  "name": "精冷",
+  "category": "SymMap",
+  "definition": "是指男子因真阳不足而引起精气清冷，无生育能力者。",
+  "name_en": "cold sperm",
+  "source": "symmap"
+ },
+ {
+  "name": "精血不足",
+  "category": "SymMap",
+  "definition": "是指肾精亏损、髓海空虚所致的发育迟缓、未老先衰、肢体痿弱不用的一类证候。",
+  "name_en": "deficiency of the essence and blood ",
+  "source": "symmap"
+ },
+ {
+  "name": "精血亏虚",
+  "category": "SymMap",
+  "definition": "是指肾精亏损、髓海空虚所致的发育迟缓、未老先衰、肢体痿弱不用的一类证候。",
+  "name_en": "deficiency of the essence and blood ",
+  "source": "symmap"
+ },
+ {
+  "name": "经寒",
+  "category": "SymMap",
+  "definition": "寒湿之邪侵袭经脉。",
+  "name_en": null,
+  "source": "symmap"
+ },
+ {
+  "name": "肉食积滞",
+  "category": "SymMap",
+  "definition": "是指由于饮食不节，损伤脾胃而出现的证候。",
+  "name_en": "retention of meat and food in the stomach",
+  "source": "symmap"
+ },
+ {
+  "name": "肝气郁结",
+  "category": "SymMap",
+  "definition": "指肝失疏泄，气机郁滞，情志抑郁，气血不畅的病理变化。",
+  "name_en": "stagnation of liver-qi",
+  "source": "symmap"
+ },
+ {
+  "name": "肝火",
+  "category": "SymMap",
+  "definition": "指肝经火胜，内扰于肝的一种病理现象。",
+  "name_en": "the hepatic fire",
+  "source": "symmap"
+ },
+ {
+  "name": "肝热",
+  "category": "SymMap",
+  "definition": null,
+  "name_en": "heat in liver",
+  "source": "symmap"
+ },
+ {
+  "name": "肝肾不足",
+  "category": "SymMap",
+  "definition": "是指肝肾精亏血少所表现出来的一类病证。",
+  "name_en": "deficiency of the liver and kidney",
+  "source": "symmap"
+ },
+ {
+  "name": "肝肾亏虚",
+  "category": "SymMap",
+  "definition": "是指肝肾精亏血少所表现出来的一类病证。",
+  "name_en": "deficiency of the liver and kidney",
+  "source": "symmap"
+ },
+ {
+  "name": "肝肾虚",
+  "category": "SymMap",
+  "definition": "是指肝肾精亏血少所表现出来的一类病证。",
+  "name_en": "asthenia of both liver and kidney; deficiency of both liver and kidney",
+  "source": "symmap"
+ },
+ {
+  "name": "肝肾阴虚",
+  "category": "SymMap",
+  "definition": "指肝肾阴液亏虚，虚热内扰，以腰酸胁痛、眩晕、耳鸣、遗精等为主要表现的虚热证候。",
+  "name_en": "deficiency of the liver-yin and kidney-yin",
+  "source": "symmap"
+ },
+ {
+  "name": "肝胃不和",
+  "category": "SymMap",
+  "definition": "肝气瘀滞，横逆犯胃，胃失和降，以胃脘、胁肋胀满疼痛，嗳气、呃逆、吞酸，情绪抑郁，不欲食，苔薄黄，脉弦等为常见症的证候。",
+  "name_en": "disharmony between the liver and stomach",
+  "source": "symmap"
+ },
+ {
+  "name": "肝胃气滞",
+  "category": "SymMap",
+  "definition": "是指情志不畅，郁怒伤肝，横逆犯胃，导致胃失和降而出现的证候。",
+  "name_en": "stagnation of qi of the liver and stomach",
+  "source": "symmap"
+ },
+ {
+  "name": "肝胆湿热",
+  "category": "SymMap",
+  "definition": "指湿热之邪蕴结肝胆的病证。多由外感湿热之邪，或嗜酒，过食肥甘辛辣，湿邪内生，郁久化热所致，或脾胃运化失常，湿浊内生，蕴而化热，阻遏肝胆而成。",
+  "name_en": "Dampness and Heat in Liver and Gallbladder",
+  "source": "symmap"
+ },
+ {
+  "name": "肝虚",
+  "category": "SymMap",
+  "definition": null,
+  "name_en": "liver weakness",
+  "source": "symmap"
+ },
+ {
+  "name": "肝郁",
+  "category": "SymMap",
+  "definition": "是指肝失疏泄，气机郁滞，以情志抑郁、胸胁或少腹胀痛等为主要表现的证候。",
+  "name_en": "liver depression",
+  "source": "symmap"
+ },
+ {
+  "name": "肝郁化火",
+  "category": "SymMap",
+  "definition": "是指因情志不遂，或突然遭受精神刺激，或病邪侵扰，导致肝失疏泄，气机郁滞，日久化火，出现胸胁或少腹胀闷窜疼，急躁易怒，头晕胀疼，面红目赤，口苦，咽干，不寐，妇女乳房胀痛，月经不调，痛经，甚则闭经等症状的一种中医证型。",
+  "name_en": "the Depression of the liver generates pathogenic fire",
+  "source": "symmap"
+ },
+ {
+  "name": "肝郁气滞",
+  "category": "SymMap",
+  "definition": "是指肝失疏泄，气机郁滞，以情志抑郁、胸胁或少腹胀痛等为主要表现的证候。",
+  "name_en": "liver depression and qi stagnation",
+  "source": "symmap"
+ },
+ {
+  "name": "肝阳",
+  "category": "SymMap",
+  "definition": null,
+  "name_en": "liver yang",
+  "source": "symmap"
+ },
+ {
+  "name": "肝风内动",
+  "category": "SymMap",
+  "definition": "肝风内动证是指临床出现眩晕欲仆，震颤，抽搐等症状的病证。",
+  "name_en": "internal movement of the liver-wind ",
+  "source": "symmap"
+ },
+ {
+  "name": "肝风夹痰",
+  "category": "SymMap",
+  "definition": "指肝风夹痰，横窜经络所表现出来的以肢体麻木不仁，甚或瘫痪不遂，或肌肤麻木瘙痒，眩晕，口角流涎等为常见症的一类病症。",
+  "name_en": "Liver wind and phlegm",
+  "source": "symmap"
+ },
+ {
+  "name": "肠热",
+  "category": "SymMap",
+  "definition": "小肠实热证是指心火下移小肠，热迫膀胱，气化失司，以小便赤涩疼痛、心烦、舌疮及实热症状为主要表现的证。",
+  "name_en": "constipation due to heat in the large intestine",
+  "source": "symmap"
+ },
+ {
+  "name": "肠燥",
+  "category": "SymMap",
+  "definition": "肠燥津亏证是指津液亏损，肠失濡润，传导失职，以大便燥结难下及津亏症状为主要表现的证。",
+  "name_en": "dryness in the intestines",
+  "source": "symmap"
+ },
+ {
+  "name": "肺寒",
+  "category": "SymMap",
+  "definition": "寒邪客肺，肺失宣降，故见咳嗽，气喘，咯稀白痰等症",
+  "name_en": "cold on the lungs",
+  "source": "symmap"
+ },
+ {
+  "name": "肺气壅实",
+  "category": "SymMap",
+  "definition": "是指邪实气壅，肺气不能宣降导致的证候",
+  "name_en": "stasis of lung-energy",
+  "source": "symmap"
+ },
+ {
+  "name": "肺热",
+  "category": "SymMap",
+  "definition": "指火热炽盛，壅积于肺，肺失清肃，以咳喘气粗、鼻翼煽动等为主要表现的实热证候。",
+  "name_en": "heat in lung",
+  "source": "symmap"
+ },
+ {
+  "name": "肺燥",
+  "category": "SymMap",
+  "definition": "是指外感燥邪，肺失宣降，以干咳痰少、鼻咽口舌干燥等为主要表现的证候。",
+  "name_en": "dry lungs ",
+  "source": "symmap"
+ },
+ {
+  "name": "肺肾不足",
+  "category": "SymMap",
+  "definition": "肺肾阴虚证是指肺肾阴液亏虚，虚热内扰，以干咳、少痰、腰酸、遗精及阴虚症状为主要表现的证。",
+  "name_en": "deficiency of the lung and kidney",
+  "source": "symmap"
+ },
+ {
+  "name": "肺肾两虚",
+  "category": "SymMap",
+  "definition": "肺肾阴虚证是指肺肾阴液亏虚，虚热内扰，以干咳、少痰、腰酸、遗精及阴虚症状为主要表现的证。",
+  "name_en": "asthenia of both the lung and kidney",
+  "source": "symmap"
+ },
+ {
+  "name": "肺胃阴伤",
+  "category": "SymMap",
+  "definition": "见于温病气分后期，为邪热已退(或渐退)，而肺胃津伤未复之候，病情属虚，病位在肺胃。以干咳，口干舌燥而渴，舌光红少苔，脉细数为辨证要点。多见于风温、春温、暑温、秋燥、温毒等病末期阶段。",
+  "name_en": "imperiment of yin in lung and stomach",
+  "source": "symmap"
+ },
+ {
+  "name": "肺虚",
+  "category": "SymMap",
+  "definition": "肺气虚证是指肺气虚弱，宣肃、卫外功能减退，以咳嗽、气喘、自汗、易于感冒及气虚症状为主要表现的证。",
+  "name_en": "asthenia of lung",
+  "source": "symmap"
+ },
+ {
+  "name": "肾虚",
+  "category": "SymMap",
+  "definition": "肾气虚弱，以腰酸，耳鸣，性欲减退，头晕健忘，脉弱等为常见症的证候。",
+  "name_en": "deficiency in kidney ",
+  "source": "symmap"
+ },
+ {
+  "name": "肾阳不足",
+  "category": "SymMap",
+  "definition": "肾阳虚证是指肾阳亏虚，机体失其温煦，以腰膝酸冷、性欲减退、夜尿多及阳虚症状为主要表现的证。",
+  "name_en": "deficiency of kidney-yang",
+  "source": "symmap"
+ },
+ {
+  "name": "肾阳亏虚",
+  "category": "SymMap",
+  "definition": "肾阳虚证是指肾阳亏虚，机体失其温煦，以腰膝酸冷、性欲减退、夜尿多及阳虚症状为主要表现的证。",
+  "name_en": "deficiency of the kidney-yang",
+  "source": "symmap"
+ },
+ {
+  "name": "肾阳虚",
+  "category": "SymMap",
+  "definition": "肾阳虚证是指肾阳亏虚，机体失其温煦，以腰膝酸冷、性欲减退、夜尿多及阳虚症状为主要表现的证。",
+  "name_en": "deficiency of the kidney-yang",
+  "source": "symmap"
+ },
+ {
+  "name": "肾阳虚衰",
+  "category": "SymMap",
+  "definition": "肾阳虚证是指肾阳亏虚，机体失其温煦，以腰膝酸冷、性欲减退、夜尿多及阳虚症状为主要表现的证。",
+  "name_en": "kidney yang deficiency",
+  "source": "symmap"
+ },
+ {
+  "name": "胃寒",
+  "category": "SymMap",
+  "definition": "是指脾胃阳气虚衰，过食生冷，或寒邪直中所致阴寒凝滞胃腑的证候。",
+  "name_en": "the stomach affected by cold",
+  "source": "symmap"
+ },
+ {
+  "name": "胃火",
+  "category": "SymMap",
+  "definition": "指胃热炽盛化火的病变。",
+  "name_en": "the stomach fire",
+  "source": "symmap"
+ },
+ {
+  "name": "胃火亢盛",
+  "category": "SymMap",
+  "definition": "指胃热炽盛化火的病变。",
+  "name_en": "excessiveness of the stomach-fire",
+  "source": "symmap"
+ },
+ {
+  "name": "胃热",
+  "category": "SymMap",
+  "definition": "指胃热炽盛化火的病变。",
+  "name_en": " stomach heat",
+  "source": "symmap"
+ },
+ {
+  "name": "胃阴不足",
+  "category": "SymMap",
+  "definition": "是指因饮食不节，过食辛辣厚味，积热于内，或热病后期伤津，或情志不畅，气郁化火伤阴，致胃失和降所表现出来的恶心、呕吐或呃逆，口燥咽干，舌红少苔，脉细数一类病证。",
+  "name_en": "deficiency of the stomach-yin",
+  "source": "symmap"
+ },
+ {
+  "name": "胆火挟痰",
+  "category": "SymMap",
+  "definition": "胆郁痰扰证是指痰热内扰，胆气不宁，以胆怯易惊、心烦失眠及痰热症状为主要表现的证。",
+  "name_en": "Bile fire and phlegm",
+  "source": "symmap"
+ },
+ {
+  "name": "胆胀",
+  "category": "SymMap",
+  "definition": "胆胀是指胆腑气郁，胆失通降所引起的以右胁胀痛为主要临床表现的一种疾病。",
+  "name_en": "distending pain of the hypochondrium due to gallblsdder disorder",
+  "source": "symmap"
+ },
+ {
+  "name": "脾寒",
+  "category": "SymMap",
+  "definition": "脾胃虚寒证是由于素体脾气虚，或脾虚日久，波及脾阳，使脾阳也虚。或贪食生冷，损伤脾阳，导致脾阳虚不能温暖胃肠，寒气自内而生的病证。",
+  "name_en": "a presence of cold in the spleen",
+  "source": "symmap"
+ },
+ {
+  "name": "脾肺气虚",
+  "category": "SymMap",
+  "definition": "由于脾肺两脏气虚，出现脾失健运，肺失宣降的虚弱证候。",
+  "name_en": "asthenia of spleen and lung qi; deficiency of spleen and lung",
+  "source": "symmap"
+ },
+ {
+  "name": "脾肾虚",
+  "category": "SymMap",
+  "definition": "脾肾阳虚证是指脾肾阳气亏虚，温化失职，虚寒内生，以久泄久痢、浮肿、腰腹冷痛及阳虚症状为主要表现的证。",
+  "name_en": "splenonephric deficiency ",
+  "source": "symmap"
+ },
+ {
+  "name": "脾肾阳虚",
+  "category": "SymMap",
+  "definition": "脾肾阳虚证是指脾肾阳气亏虚，温化失职，虚寒内生，以久泄久痢、浮肿、腰腹冷痛及阳虚症状为主要表现的证。",
+  "name_en": "deficiency of the spleen-yang and kidney-yang",
+  "source": "symmap"
+ },
+ {
+  "name": "脾胃亏虚",
+  "category": "SymMap",
+  "definition": "脾胃气虚，中焦失运，以食欲不振，脘腹痞胀，食后尤甚，大便溏泻，神疲肢倦，舌淡，脉弱等为常见症的证候。",
+  "name_en": "weak spleen and stomach",
+  "source": "symmap"
+ },
+ {
+  "name": "脾胃气滞",
+  "category": "SymMap",
+  "definition": "指脾胃之气阻滞不畅。",
+  "name_en": "stagnation of gastrosplenic qi; stagnation of spleen and stomach qi",
+  "source": "symmap"
+ },
+ {
+  "name": "脾胃气虚",
+  "category": "SymMap",
+  "definition": "脾胃气虚，中焦失运，以食欲不振，脘腹痞胀，食后尤甚，大便溏泻，神疲肢倦，舌淡，脉弱等为常见症的证候。",
+  "name_en": "eficiency of qi in the spleen and stomach",
+  "source": "symmap"
+ },
+ {
+  "name": "脾胃湿阻气滞",
+  "category": "SymMap",
+  "definition": "指湿邪阻滞中焦，运化功能减弱，以脘腹满闷，肢体困重，纳食呆滞等为主要临床特征的外感病。",
+  "name_en": "Spleen and stomach dampness block",
+  "source": "symmap"
+ },
+ {
+  "name": "脾胃虚",
+  "category": "SymMap",
+  "definition": "脾胃气虚，中焦失运，以食欲不振，脘腹痞胀，食后尤甚，大便溏泻，神疲肢倦，舌淡，脉弱等为常见症的证候。",
+  "name_en": "weak spleen and stomach",
+  "source": "symmap"
+ },
+ {
+  "name": "脾胃虚寒",
+  "category": "SymMap",
+  "definition": "脾胃虚寒证是由于素体脾气虚，或脾虚日久，波及脾阳，使脾阳也虚。或贪食生冷，损伤脾阳，导致脾阳虚不能温暖胃肠，寒气自内而生的病证。",
+  "name_en": "cold syndrome of the spleen and the stomach of deficiency type",
+  "source": "symmap"
+ },
+ {
+  "name": "脾胃虚弱",
+  "category": "SymMap",
+  "definition": "脾胃气虚，中焦失运，以食欲不振，脘腹痞胀，食后尤甚，大便溏泻，神疲肢倦，舌淡，脉弱等为常见症的证候。",
+  "name_en": "weak spleen and stomach",
+  "source": "symmap"
+ },
+ {
+  "name": "脾虚",
+  "category": "SymMap",
+  "definition": "脾气虚证是指脾气不足，运化失职，以纳少、腹胀、便溏及气虚症状为主要表现的证。",
+  "name_en": "deficiency of spleen",
+  "source": "symmap"
+ },
+ {
+  "name": "膀胱虚冷",
+  "category": "SymMap",
+  "definition": "肾阳亏虚，膀胱气化失司，以畏冷肢凉，小腹冷痛，小便失禁或不利，或夜尿多、尿清长，苔白滑等为常见症的证候。",
+  "name_en": "asthenia cold of bladder",
+  "source": "symmap"
+ },
+ {
+  "name": "虚劳",
+  "category": "SymMap",
+  "definition": "是由于禀赋薄弱、后天失养及外感内伤等多种原因引起的，以脏腑功能衰退，气血阴阳亏损，日久不复为主要病机，以五脏虚证为主要临床表现的多种慢性虚弱症候的总称。",
+  "name_en": "consumptive disease ",
+  "source": "symmap"
+ },
+ {
+  "name": "虚喘",
+  "category": "SymMap",
+  "definition": "虚喘常由慢性咳嗽、肺痨等肺系病症迁延未愈，病久肺虚，气失所主，肾元亏虚，肾不纳气而短气喘促。",
+  "name_en": "dyspnea due to deficiency",
+  "source": "symmap"
+ },
+ {
+  "name": "虚寒",
+  "category": "SymMap",
+  "definition": "阳虚证是指人体阳气亏损，其温养、推动、气化等功能减退，以畏寒肢冷为主要表现的虚寒证。",
+  "name_en": "deficiency-cold",
+  "source": "symmap"
+ },
+ {
+  "name": "虚烦",
+  "category": "SymMap",
+  "definition": "是因虚而致心胸烦热者。",
+  "name_en": "fidgetiness due to deficiency",
+  "source": "symmap"
+ },
+ {
+  "name": "虚热",
+  "category": "SymMap",
+  "definition": "阴虚证是指人体阴液亏少，其滋润、濡养等功能减退，或阴不制阳，阳气偏亢，以口咽干燥、五心烦热、潮热盗汗等为主要表现的虚热证。",
+  "name_en": "asthenia-heat",
+  "source": "symmap"
+ },
+ {
+  "name": "虚痨",
+  "category": "SymMap",
+  "definition": "是由于禀赋薄弱、后天失养及外感内伤等多种原因引起的，以脏腑功能衰退，气血阴阳亏损，日久不复为主要病机，以五脏虚证为主要临床表现的多种慢性虚弱症候的总称。",
+  "name_en": "consumptive disease",
+  "source": "symmap"
+ },
+ {
+  "name": "虚脱",
+  "category": "SymMap",
+  "definition": "以面色苍白、虚汗淋漓、头昏眼花、肢冷汗出、二便失禁、神情淡漠或烦躁甚则不省人事、脉微欲绝等为特征的内科急症。",
+  "name_en": "prostration syndrome",
+  "source": "symmap"
+ },
+ {
+  "name": "虚阳上浮",
+  "category": "SymMap",
+  "definition": "指体内阳气极虚，导致阴寒之气偏盛，格阳于外，阴阳寒热格拒，表现为内真寒外假热的证候。",
+  "name_en": "floating of weak yang",
+  "source": "symmap"
+ },
+ {
+  "name": "虚风内动",
+  "category": "SymMap",
+  "definition": "是肾精肝血耗损，虚风内动之候。以手足蠕动，甚或瘛疭，舌干降为辨证要点。",
+  "name_en": "internal stirring of deficiency-wind",
+  "source": "symmap"
+ },
+ {
+  "name": "虫积",
+  "category": "SymMap",
+  "definition": "虫积肠道证是指蛔虫等寄居肠道，阻滞气机，噬耗营养，以腹痛、面黄体瘦、大便排虫及气滞症状为主要表现的证。",
+  "name_en": "abdominal pain due to parasitic infestation",
+  "source": "symmap"
+ },
+ {
+  "name": "血寒",
+  "category": "SymMap",
+  "definition": "血寒证是指寒邪客于血脉，凝滞气机，血行不畅，以拘急冷痛、形寒、肤色紫暗为主要表现的实寒证。",
+  "name_en": "blood cold",
+  "source": "symmap"
+ },
+ {
+  "name": "血热",
+  "category": "SymMap",
+  "definition": "血热证是指火热炽盛，热迫血分，以出血与实热症状为主要表现的证。",
+  "name_en": "heat in blood",
+  "source": "symmap"
+ },
+ {
+  "name": "血热有瘀",
+  "category": "SymMap",
+  "definition": "外感火热邪气，或体内阳盛化火，入舍于血，血热互结，煎灼血中津液，使血液黏稠而运行不畅；或热灼脉络，迫血妄行导致内出血，以致血液壅滞于体内某些部位而不散而成瘀血。",
+  "name_en": "heat in blood with ecchymosis",
+  "source": "symmap"
+ },
+ {
+  "name": "血热毒盛",
+  "category": "SymMap",
+  "definition": "血热证是指火热炽盛，热迫血分，以出血与实热症状为主要表现的证。",
+  "name_en": "heat invading the blood phase",
+  "source": "symmap"
+ },
+ {
+  "name": "血瘀",
+  "category": "SymMap",
+  "definition": "血瘀证是指瘀血内阻，以疼痛、肿块、出血、瘀血色脉征为主要表现的证。",
+  "name_en": "stasis of blood",
+  "source": "symmap"
+ },
+ {
+  "name": "血虚",
+  "category": "SymMap",
+  "definition": "血虚证是指血液亏虚，不能濡养脏腑、经络、组织，以面、睑、唇、舌色淡白，脉细为主要表现的证。",
+  "name_en": "deficiency of blood",
+  "source": "symmap"
+ },
+ {
+  "name": "表虚",
+  "category": "SymMap",
+  "definition": "外邪袭表，腠理不固，营卫之气不和所致的表证。",
+  "name_en": "Exteriat Syndrome of Deficiency",
+  "source": "symmap"
+ },
+ {
+  "name": "酒毒伤中",
+  "category": "SymMap",
+  "definition": null,
+  "name_en": "impairment in the body due to alcohol toxin ",
+  "source": "symmap"
+ },
+ {
+  "name": "阳亢",
+  "category": "SymMap",
+  "definition": "肝阳上亢证是指肝肾阴亏，阴不制阳，阳亢于上，以眩晕耳鸣、头目胀痛、头重脚轻、腰膝酸软等上盛下虚症状为主要表现的证。",
+  "name_en": "excess of yang",
+  "source": "symmap"
+ },
+ {
+  "name": "阳毒",
+  "category": "SymMap",
+  "definition": "邪气深重。",
+  "name_en": "yang virulence",
+  "source": "symmap"
+ },
+ {
+  "name": "阳虚",
+  "category": "SymMap",
+  "definition": "阳虚证是指人体阳气亏损，其温养、推动、气化等功能减退，以畏寒肢冷为主要表现的虚寒证。",
+  "name_en": "yang deficiency",
+  "source": "symmap"
+ },
+ {
+  "name": "阳虚外感",
+  "category": "SymMap",
+  "definition": "阳虚证是指人体阳气亏损，其温养、推动、气化等功能减退，以畏寒肢冷为主要表现的虚寒证。",
+  "name_en": "externally infection due to yang deficiency",
+  "source": "symmap"
+ },
+ {
+  "name": "阴亏",
+  "category": "SymMap",
+  "definition": "阴虚证是指人体阴液亏少，其滋润、濡养等功能减退，或阴不制阳，阳气偏亢，以口咽干燥、五心烦热、潮热盗汗等为主要表现的虚热证。",
+  "name_en": "deficiency of yin",
+  "source": "symmap"
+ },
+ {
+  "name": "阴寒",
+  "category": "SymMap",
+  "definition": "外感之寒邪或阳虚所生之内寒。",
+  "name_en": "coldness of yin",
+  "source": "symmap"
+ },
+ {
+  "name": "阴疽肿毒",
+  "category": "SymMap",
+  "definition": null,
+  "name_en": "toxic swelling due to carbuncle of yin nature",
+  "source": "symmap"
+ },
+ {
+  "name": "阴虚",
+  "category": "SymMap",
+  "definition": "阴虚证是指人体阴液亏少，其滋润、濡养等功能减退，或阴不制阳，阳气偏亢，以口咽干燥、五心烦热、潮热盗汗等为主要表现的虚热证。",
+  "name_en": "deficiency of yin",
+  "source": "symmap"
+ },
+ {
+  "name": "阴虚火旺",
+  "category": "SymMap",
+  "definition": "阴虚证是指人体阴液亏少，其滋润、濡养等功能减退，或阴不制阳，阳气偏亢，以口咽干燥、五心烦热、潮热盗汗等为主要表现的虚热证。",
+  "name_en": "flaming-up of fire due to dificiency of yin",
+  "source": "symmap"
+ },
+ {
+  "name": "阴血不足",
+  "category": "SymMap",
+  "definition": "血虚证是指血液亏虚，不能濡养脏腑、经络、组织，以面、睑、唇、舌色淡白，脉细为主要表现的证。",
+  "name_en": "insufficiency of the yin-blood",
+  "source": "symmap"
+ },
+ {
+  "name": "顽痰",
+  "category": "SymMap",
+  "definition": "指坚结胶固之痰，亦称老痰、结痰、郁痰。",
+  "name_en": "stubborn phlegm",
+  "source": "symmap"
+ },
+ {
+  "name": "顽痰胶结",
+  "category": "SymMap",
+  "definition": "指坚结胶固之痰，亦称老痰、结痰、郁痰。",
+  "name_en": "retention of stubborn phlegm",
+  "source": "symmap"
+ },
+ {
+  "name": "风寒",
+  "category": "SymMap",
+  "definition": "伤寒证是指寒邪外袭于肤表，阻遏卫阳所表现的表实寒证，又称风寒表证",
+  "name_en": "wind-cold syndrome",
+  "source": "symmap"
+ },
+ {
+  "name": "风寒挟湿",
+  "category": "SymMap",
+  "definition": "指风、寒、湿三种邪气的结合。",
+  "name_en": "wind syndromes of cold type with damp symptoms",
+  "source": "symmap"
+ },
+ {
+  "name": "风寒湿",
+  "category": "SymMap",
+  "definition": "指风、寒、湿三种邪气的结合。",
+  "name_en": "wind-cold-damp syndrome",
+  "source": "symmap"
+ },
+ {
+  "name": "风水",
+  "category": "SymMap",
+  "definition": "指风邪外袭，肺卫失宣，水湿泛溢肌肤，以突起头面浮肿及卫表症状为主要表现的证候。",
+  "name_en": "wind water",
+  "source": "symmap"
+ },
+ {
+  "name": "风温初起",
+  "category": "SymMap",
+  "definition": "风温初起，邪犯肺卫，以发热，微恶风寒，无汗或少汗，头痛，咳嗽，口微渴，舌边尖红，苔薄白，脉浮数等为常见症的风温证候。",
+  "name_en": "onset of affection due to wind-warm syndrome ",
+  "source": "symmap"
+ },
+ {
+  "name": "风湿",
+  "category": "SymMap",
+  "definition": "指风邪与湿邪的结合。",
+  "name_en": "wind-dampness",
+  "source": "symmap"
+ },
+ {
+  "name": "风热",
+  "category": "SymMap",
+  "definition": "感受风热之邪。",
+  "name_en": "wind and heat",
+  "source": "symmap"
+ },
+ {
+  "name": "风热郁肺",
+  "category": "SymMap",
+  "definition": "风热犯肺证是指由于风热侵犯，肺卫失宣，以咳嗽及风热表证症状为主要表现的证。",
+  "name_en": "retention of wind-heat in the lung",
+  "source": "symmap"
+ },
+ {
+  "name": "风痰",
+  "category": "SymMap",
+  "definition": "外风挟痰为患，或肝风痰浊内扰，以咳吐泡沫痰涎，胸闷，眩晕，头目胀痛；或喉中痰鸣，肢体麻木，口眼喎斜，苔白腻，脉弦滑等为常见症的证候。",
+  "name_en": "wind-phlegm",
+  "source": "symmap"
+ },
+ {
+  "name": "食物积滞",
+  "category": "SymMap",
+  "definition": "是指由于饮食不节，损伤脾胃而出现的证候。",
+  "name_en": "food accumulation",
+  "source": "symmap"
+ },
+ {
+  "name": "食积",
+  "category": "SymMap",
+  "definition": "是指由于饮食不节，损伤脾胃而出现的证候。",
+  "name_en": "food stagnation",
+  "source": "symmap"
+ },
+ {
+  "name": "食积不化",
+  "category": "SymMap",
+  "definition": "是指由于饮食不节，损伤脾胃而出现的证候。",
+  "name_en": "food accumulation",
+  "source": "symmap"
+ },
+ {
+  "name": "食积不消",
+  "category": "SymMap",
+  "definition": "是指由于饮食不节，损伤脾胃而出现的证候。",
+  "name_en": "indigestion with food retention",
+  "source": "symmap"
+ },
+ {
+  "name": "食积伤酒",
+  "category": "SymMap",
+  "definition": "是指由于饮酒，损伤脾胃而出现的证候。",
+  "name_en": "Dyspepsia injury wine",
+  "source": "symmap"
+ },
+ {
+  "name": "饮酒过多",
+  "category": "SymMap",
+  "definition": null,
+  "name_en": "Drinking too much",
+  "source": "symmap"
+ },
+ {
+  "name": "饮食不消",
+  "category": "SymMap",
+  "definition": "是指由于饮食不节，损伤脾胃而出现的证候。",
+  "name_en": "indigestion",
+  "source": "symmap"
+ },
+ {
+  "name": "饮食停滞",
+  "category": "SymMap",
+  "definition": "是指由于饮食不节，损伤脾胃而出现的证候。",
+  "name_en": "indigestion ",
+  "source": "symmap"
+ },
+ {
+  "name": "饮食积滞",
+  "category": "SymMap",
+  "definition": "是指由于饮食不节，损伤脾胃而出现的证候。",
+  "name_en": "food stagnation",
+  "source": "symmap"
+ }
+]

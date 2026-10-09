@@ -1,0 +1,70 @@
+# 外部知识库许可说明
+
+本目录下的文件**不是本项目原创**，而是对以下第三方开放数据源的下载、
+解析与归一化结果。**每个来源的许可各自独立，请分别遵守。**
+
+---
+
+## 1. 本草典开放数据 v1 —— CC BY-SA 4.0 ⚠️ 有传染性
+
+- 来源：https://bencaodian.org/zh/about/data/
+- 许可：**Creative Commons Attribution-ShareAlike 4.0 International**
+  法律文本：https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans
+- 本项目用到的内容：中药（功效/主治/性味/归经/剂量/禁忌/炮制/药理）、
+  方剂（含君臣佐使与方解）、证型、医案、舌象、脉象
+
+**派生文件**（均以 CC BY-SA 4.0 分发）：
+
+| 文件 | 内容 |
+|---|---|
+| `herb_dictionary.jsonl` | 462 味药材字典（多源合并） |
+| `formula_library.json` | 方剂库（含方解） |
+| `pattern_dictionary.json` | 证型字典 |
+| `symptom_vocabulary.json` | 症状词表 |
+| `safety_rules.json` | 十八反/十九畏/妊娠禁忌/药食禁忌 |
+| `zhi_action_map.json` | 治法→功效对齐表 |
+
+**署名要求**：使用上述文件时须注明来源为「本草典开放数据 v1」，
+附许可链接，并以 CC BY-SA 4.0 分发你的派生作品。
+
+> ⚠️ **ShareAlike 冲突提示**：本项目 `data/` 下自行派生的数据采用 CC BY-NC 4.0，
+> 与 CC BY-SA 4.0 **不兼容**。若你要把两者合并再分发，只能整体采用 CC BY-SA 4.0。
+> 本项目选择**分开存放、分别许可**（`data/` 与 `data/external/` 各一份 LICENSE）。
+
+---
+
+## 2. SymMap v2.0 —— 学术研究使用
+
+- 来源：http://www.symmap.org/download/
+- 本项目用到：中药性味归经、中医/西医症状、疾病、证型
+- 用于 `herb_dictionary.jsonl` 的跨源合并（功效字段以本草典为准）
+
+**该站仅提供 HTTP（非 HTTPS）下载**，且声明限学术研究使用，**不得商用**。
+请在使用前自行核对最新条款。
+
+---
+
+## 3. TCM-Prescription-Recommendation —— 未标注明确许可
+
+- 来源：GitHub 开源仓库
+- 本项目用到：疾病 343 类、方剂 900+ 条
+- ⚠️ **原仓库未附许可文件**。本项目仅将其用于内部覆盖率统计，
+  未纳入任何发布产物的必要路径。**若你要再分发，请先向原作者确认。**
+
+---
+
+## 4. PresRecST —— 学术研究使用
+
+- 来源：GitHub 开源仓库（对应论文公开数据）
+- 本项目用到：4,485 条匿名「症状→证候→治法→药」推理链
+- 用于验证推理链架构的可行性（见 `reports/reasoning_chain_report.md`）
+
+---
+
+## 合并产物的许可归属
+
+`data/external/` 下的**合并产物**（主要是 `herb_dictionary.jsonl`）
+包含本草典内容，因此**整体以 CC BY-SA 4.0 分发**，
+即使其中也混入了 SymMap 等来源的字段。
+
+各文件的内容来源与 SHA-256 校验见 `data/external/README.md`。

@@ -1,0 +1,45 @@
+# ---- 私有 / 不可发布 ----
+# 原始 Excel（含院方真实数据，绝不入库）
+# ⚠️ 不要写成 *.xlsx —— 那会误伤 data/external/ 下第三方知识库的合法 xlsx
+男科*.xlsx
+男科*.xls
+/data/*.xlsx
+# 脱敏前的数据备份（含机构名）
+data/.pre_sanitize/
+# 模型权重（单独在 ModelScope 发布，见 docs/08_模型卡.md）
+models/
+*.safetensors
+# 训练产物
+outputs/
+wandb/
+*.pt
+optimizer.pt
+scheduler.pt
+rng_state.pth
+# 外部知识库的【原始下载】——按决定只发布派生字典，不发布原始包
+# （各源许可与 SHA-256 见 data/external/README.md）
+data/external/bencaodian/
+data/external/symmap/
+data/external/PresRecST/
+data/external/TCM-Prescription-Recommendation/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---- 编辑器 / 系统 ----
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+
+# ---- 日志与临时 ----
+*.log
+/tmp/

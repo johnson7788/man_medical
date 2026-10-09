@@ -1,0 +1,39 @@
+# 数据许可 —— CC BY-NC 4.0
+
+本项目**自行派生**的数据（`data/` 下除 `data/external/` 以外的全部文件，
+包括 `all_records.jsonl`、`train*.jsonl`、`val*.jsonl`、`test*.jsonl`、
+`ref_*.jsonl`、`herb_vocab.json`）采用：
+
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**
+
+完整法律文本：https://creativecommons.org/licenses/by-nc/4.0/legalcode.zh-Hans
+
+你可以自由地共享、复制、分发、改编本数据，但必须遵守：
+
+| 条件 | 含义 |
+|---|---|
+| **署名 BY** | 必须注明来源、附上许可链接，并说明是否做了修改 |
+| **非商业性使用 NC** | **不得用于商业目的**（含商业产品内嵌、商业模型训练、付费服务） |
+
+## 建议的署名格式
+
+> 数据来源：《中医男科病历 · 辨证论治数据集》，采用 CC BY-NC 4.0 许可。
+> 原始病历已做患者标识哈希与机构名归一化；详见 `docs/01_数据说明.md`。
+
+## ⚠️ 重要：本许可**不覆盖** `data/external/`
+
+`data/external/` 下的文件派生自第三方知识库，各自许可见
+**`data/external/LICENSE`**。其中「本草典开放数据」为 **CC BY-SA 4.0**，
+其 ShareAlike 条款要求派生作品以相同许可分发 —— 与这里的 NC 限制**不兼容**，
+因此必须分开遵守，不能把 `data/external/` 也标成 CC BY-NC 4.0。
+
+## 合规提示
+
+本项目的数据派生自真实临床病历。虽然已做患者标识哈希与机构名归一化，
+**但并未经过伦理审查（IRB）或患者知情同意流程**（见 `docs/07_开源前必读.md`）。
+使用者应自行确认其使用场景符合当地法规与伦理要求。
+
+## 免责声明
+
+本数据与基于其训练的任何模型**仅供研究与教学使用，不构成医疗建议**，
+不得用于临床诊断、处方决策或任何直接影响患者诊疗的用途。

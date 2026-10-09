@@ -1,0 +1,6603 @@
+[
+ {
+  "id": "si_jun_zi_tang",
+  "name": "四君子汤",
+  "category": "补益剂",
+  "subcategory": "补气",
+  "treatment_principle": "益气健脾",
+  "composition": [
+   {
+    "herb": "ren_shen",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "大补元气，健脾养胃，为君药",
+    "herb_zh": "人参"
+   },
+   {
+    "herb": "bai_zhu",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "健脾燥湿，加强人参补气健脾之力",
+    "herb_zh": "白术"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "健脾渗湿，与白术相配，健脾祛湿之功更强",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "益气和中，调和诸药；用炙甘草",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 4,
+  "source_text": "tai_ping_hui_min_he_ji_ju_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "bu_zhong_yi_qi_tang",
+  "name": "补中益气汤",
+  "category": "补益剂",
+  "subcategory": "补气",
+  "treatment_principle": "补中益气，升阳举陷",
+  "composition": [
+   {
+    "herb": "huang_qi",
+    "role": "jun",
+    "dosage": "18g",
+    "explanation_zh": "补中益气，升阳固表，为君药",
+    "herb_zh": "黄芪"
+   },
+   {
+    "herb": "ren_shen",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "大补元气，与黄芪相辅",
+    "herb_zh": "人参"
+   },
+   {
+    "herb": "bai_zhu",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "健脾益气",
+    "herb_zh": "白术"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "养血和营",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "chen_pi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "理气和胃，使补而不滞",
+    "herb_zh": "陈皮"
+   },
+   {
+    "herb": "sheng_ma",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "升阳举陷",
+    "herb_zh": "升麻"
+   },
+   {
+    "herb": "chai_hu",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "升阳举陷，与升麻相伍助黄芪升举清阳",
+    "herb_zh": "柴胡"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "9g",
+    "explanation_zh": "调和诸药；用炙甘草",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 8,
+  "source_text": "pi_wei_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "si_wu_tang",
+  "name": "四物汤",
+  "category": "补益剂",
+  "subcategory": "补血",
+  "treatment_principle": "补血调血",
+  "composition": [
+   {
+    "herb": "dang_gui",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "补血活血，调经止痛，为君药",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "shu_di_huang",
+    "role": "chen",
+    "dosage": "12g",
+    "explanation_zh": "滋阴养血，为补血之要药",
+    "herb_zh": "熟地黄"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "养血敛阴",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "chuan_xiong",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "活血行气，畅达气血",
+    "herb_zh": "川芎"
+   }
+  ],
+  "n_herbs": 4,
+  "source_text": "tai_ping_hui_min_he_ji_ju_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "gui_zhi_tang",
+  "name": "桂枝汤",
+  "category": "解表剂",
+  "subcategory": "辛温解表",
+  "treatment_principle": "解肌发表，调和营卫",
+  "composition": [
+   {
+    "herb": "gui_zhi",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "辛温通阳，解肌发表",
+    "herb_zh": "桂枝"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "酸寒敛阴，与桂枝一散一收，调和营卫",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "辛温助桂枝发散风寒，温胃止呕",
+    "herb_zh": "生姜"
+   },
+   {
+    "herb": "da_zao",
+    "role": "shi",
+    "dosage": "12g",
+    "explanation_zh": "甘温益气补中，与生姜相伍调和营卫",
+    "herb_zh": "大枣"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "益气和中",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 5,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "ma_huang_tang",
+  "name": "麻黄汤",
+  "category": "解表剂",
+  "subcategory": "辛温解表",
+  "treatment_principle": "发汗解表，宣肺平喘",
+  "composition": [
+   {
+    "herb": "ma_huang",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "发汗解表，宣肺平喘",
+    "herb_zh": "麻黄"
+   },
+   {
+    "herb": "gui_zhi",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "温通经脉，助麻黄发汗",
+    "herb_zh": "桂枝"
+   },
+   {
+    "herb": "xing_ren",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "降利肺气，与麻黄相配宣降相因",
+    "herb_zh": "杏仁"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "调和诸药；用炙甘草",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 4,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "xiao_chai_hu_tang",
+  "name": "小柴胡汤",
+  "category": "和解剂",
+  "subcategory": "和解少阳",
+  "treatment_principle": "和解少阳",
+  "composition": [
+   {
+    "herb": "chai_hu",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "和解少阳，疏肝解郁",
+    "herb_zh": "柴胡"
+   },
+   {
+    "herb": "huang_qin",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "清泄少阳之热，与柴胡一升一降",
+    "herb_zh": "黄芩"
+   },
+   {
+    "herb": "ren_shen",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "扶正祛邪",
+    "herb_zh": "人参"
+   },
+   {
+    "herb": "ban_xia",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "和胃降逆止呕",
+    "herb_zh": "半夏"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "助半夏和胃止呕，并散表邪",
+    "herb_zh": "生姜"
+   },
+   {
+    "herb": "da_zao",
+    "role": "shi",
+    "dosage": "12g",
+    "explanation_zh": "与生姜调和营卫，益气和中",
+    "herb_zh": "大枣"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 7,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "xiao_yao_san",
+  "name": "逍遥散",
+  "category": "和解剂",
+  "subcategory": "调和肝脾",
+  "treatment_principle": "疏肝解郁，养血健脾",
+  "composition": [
+   {
+    "herb": "chai_hu",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "疏肝解郁",
+    "herb_zh": "柴胡"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "养血和血",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "养血柔肝",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "bai_zhu",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "健脾燥湿",
+    "herb_zh": "白术"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "健脾渗湿",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "4.5g",
+    "explanation_zh": "调和诸药",
+    "herb_zh": "甘草"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "zuo",
+    "dosage": "3片",
+    "explanation_zh": "温胃和中，助散郁结",
+    "herb_zh": "生姜"
+   },
+   {
+    "herb": "bo_he",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "疏散郁热，助柴胡疏肝",
+    "herb_zh": "薄荷"
+   }
+  ],
+  "n_herbs": 8,
+  "source_text": "tai_ping_hui_min_he_ji_ju_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "si_ni_tang",
+  "name": "四逆汤",
+  "category": "温里剂",
+  "subcategory": "回阳救逆",
+  "treatment_principle": "回阳救逆",
+  "composition": [
+   {
+    "herb": "fu_zi",
+    "role": "jun",
+    "dosage": "15g",
+    "explanation_zh": "大辛大热，回阳救逆；先煎",
+    "herb_zh": "附子"
+   },
+   {
+    "herb": "gan_jiang",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "温中散寒，与附子相须为用，回阳救逆之力倍增",
+    "herb_zh": "干姜"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "益气固脱，并制附子之毒",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 3,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "er_chen_tang",
+  "name": "二陈汤",
+  "category": "祛痰剂",
+  "subcategory": "燥湿化痰",
+  "treatment_principle": "燥湿化痰，理气和中",
+  "composition": [
+   {
+    "herb": "ban_xia",
+    "role": "jun",
+    "dosage": "15g",
+    "explanation_zh": "燥湿化痰，降逆止呕，为君药",
+    "herb_zh": "半夏"
+   },
+   {
+    "herb": "chen_pi",
+    "role": "chen",
+    "dosage": "15g",
+    "explanation_zh": "理气燥湿，与半夏相须为用",
+    "herb_zh": "陈皮"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "健脾渗湿，使湿无所聚则痰无由生",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "5g",
+    "explanation_zh": "调和诸药，润肺和中",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 4,
+  "source_text": "tai_ping_hui_min_he_ji_ju_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "tao_hong_si_wu_tang",
+  "name": "桃红四物汤",
+  "category": "理血剂",
+  "subcategory": "活血祛瘀",
+  "treatment_principle": "养血活血，逐瘀通经",
+  "composition": [
+   {
+    "herb": "shu_di_huang",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "滋阴养血",
+    "herb_zh": "熟地黄"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "补血活血，调经止痛",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "养血敛阴",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "chuan_xiong",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "活血行气",
+    "herb_zh": "川芎"
+   },
+   {
+    "herb": "tao_ren",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "活血祛瘀",
+    "herb_zh": "桃仁"
+   },
+   {
+    "herb": "hong_hua",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "活血通经，与桃仁相须为用",
+    "herb_zh": "红花"
+   }
+  ],
+  "n_herbs": 6,
+  "source_text": "tai_ping_hui_min_he_ji_ju_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "bai_hu_tang",
+  "name": "白虎汤",
+  "category": "清热剂",
+  "subcategory": "清气分热",
+  "treatment_principle": "清热生津",
+  "composition": [
+   {
+    "herb": "shi_gao",
+    "role": "jun",
+    "dosage": "30g",
+    "explanation_zh": "辛甘大寒，清泄气分大热",
+    "herb_zh": "石膏"
+   },
+   {
+    "herb": "zhi_mu",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "苦寒质润，清热滋阴",
+    "herb_zh": "知母"
+   },
+   {
+    "herb": "geng_mi",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "甘平益胃生津，护胃气、防石膏知母之大寒伤中，并助化生津液",
+    "herb_zh": "粳米"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "调和诸药，益胃护津",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 4,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "liu_wei_di_huang_wan",
+  "name": "六味地黄丸",
+  "category": "补益剂",
+  "subcategory": "补阴",
+  "treatment_principle": "滋补肝肾",
+  "composition": [
+   {
+    "herb": "shu_di_huang",
+    "role": "jun",
+    "dosage": "24g",
+    "explanation_zh": "滋阴补肾，填精益髓，为君药",
+    "herb_zh": "熟地黄"
+   },
+   {
+    "herb": "shan_zhu_yu",
+    "role": "chen",
+    "dosage": "12g",
+    "explanation_zh": "补养肝肾，并能涩精",
+    "herb_zh": "山茱萸"
+   },
+   {
+    "herb": "shan_yao",
+    "role": "chen",
+    "dosage": "12g",
+    "explanation_zh": "补益脾阴，亦能固肾",
+    "herb_zh": "山药"
+   },
+   {
+    "herb": "ze_xie",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "利湿泄浊，并制熟地之滋腻",
+    "herb_zh": "泽泻"
+   },
+   {
+    "herb": "mu_dan_pi",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "清泄肝火，制山茱萸之温",
+    "herb_zh": "牡丹皮"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "淡渗脾湿，助山药之健运",
+    "herb_zh": "茯苓"
+   }
+  ],
+  "n_herbs": 6,
+  "source_text": "xiao_er_yao_zheng_zhi_jue",
+  "source": "bencaodian"
+ },
+ {
+  "id": "da_cheng_qi_tang",
+  "name": "大承气汤",
+  "category": "泻下剂",
+  "subcategory": "寒下",
+  "treatment_principle": "峻下热结",
+  "composition": [
+   {
+    "herb": "da_huang",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "苦寒泻下，荡涤肠胃实热积滞",
+    "herb_zh": "大黄"
+   },
+   {
+    "herb": "mang_xiao",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "咸寒润燥软坚，与大黄相须为用",
+    "herb_zh": "芒硝"
+   },
+   {
+    "herb": "hou_po",
+    "role": "zuo",
+    "dosage": "15g",
+    "explanation_zh": "下气除满",
+    "herb_zh": "厚朴"
+   },
+   {
+    "herb": "zhi_shi",
+    "role": "zuo",
+    "dosage": "12g",
+    "explanation_zh": "破气消痞",
+    "herb_zh": "枳实"
+   }
+  ],
+  "n_herbs": 4,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "dang_gui_bu_xue_tang",
+  "name": "当归补血汤",
+  "category": "补益剂",
+  "subcategory": "补血",
+  "treatment_principle": "补气生血",
+  "composition": [
+   {
+    "herb": "huang_qi",
+    "role": "jun",
+    "dosage": "30g",
+    "explanation_zh": "重用以大补脾肺之气，旺气以生血",
+    "herb_zh": "黄芪"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "养血和营，与黄芪相伍气血双补",
+    "herb_zh": "当归"
+   }
+  ],
+  "n_herbs": 2,
+  "source_text": "pi_wei_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "ba_zhen_tang",
+  "name": "八珍汤",
+  "category": "补益剂",
+  "subcategory": "气血双补",
+  "treatment_principle": "益气补血",
+  "composition": [
+   {
+    "herb": "ren_shen",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "大补元气",
+    "herb_zh": "人参"
+   },
+   {
+    "herb": "shu_di_huang",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "滋阴养血",
+    "herb_zh": "熟地黄"
+   },
+   {
+    "herb": "bai_zhu",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "健脾燥湿",
+    "herb_zh": "白术"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "健脾渗湿",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "养血活血",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "养血敛阴",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "chuan_xiong",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "活血行气",
+    "herb_zh": "川芎"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "5g",
+    "explanation_zh": "调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 8,
+  "source_text": "yi_fang_ji_jie",
+  "source": "bencaodian"
+ },
+ {
+  "id": "ban_xia_hou_po_tang",
+  "name": "半夏厚朴汤",
+  "category": "理气剂",
+  "subcategory": "行气",
+  "treatment_principle": "行气散结，降逆化痰",
+  "composition": [
+   {
+    "herb": "ban_xia",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "化痰散结，降逆和胃",
+    "herb_zh": "半夏"
+   },
+   {
+    "herb": "hou_po",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "下气除满",
+    "herb_zh": "厚朴"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "zuo",
+    "dosage": "12g",
+    "explanation_zh": "渗湿健脾，使湿无所聚",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "zuo",
+    "dosage": "15g",
+    "explanation_zh": "和胃止呕，并制半夏之毒",
+    "herb_zh": "生姜"
+   },
+   {
+    "herb": "zi_su_ye",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "芳香疏散，宣通郁结",
+    "herb_zh": "紫苏叶"
+   }
+  ],
+  "n_herbs": 5,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "yu_ping_feng_san",
+  "name": "玉屏风散",
+  "category": "补益剂",
+  "subcategory": "补气",
+  "treatment_principle": "益气固表止汗",
+  "composition": [
+   {
+    "herb": "huang_qi",
+    "role": "jun",
+    "dosage": "18g",
+    "explanation_zh": "补益脾肺之气，固表止汗",
+    "herb_zh": "黄芪"
+   },
+   {
+    "herb": "bai_zhu",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "健脾益气，助黄芪固表",
+    "herb_zh": "白术"
+   },
+   {
+    "herb": "fang_feng",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "走表祛风，与黄芪相配，散中有收，不致留邪",
+    "herb_zh": "防风"
+   }
+  ],
+  "n_herbs": 3,
+  "source_text": "yi_fang_ji_jie",
+  "source": "bencaodian"
+ },
+ {
+  "id": "ping_wei_san",
+  "name": "平胃散",
+  "category": "祛湿剂",
+  "subcategory": "燥湿和胃",
+  "treatment_principle": "燥湿运脾，行气和胃",
+  "composition": [
+   {
+    "herb": "cang_zhu",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "苦温燥湿，健脾运中",
+    "herb_zh": "苍术"
+   },
+   {
+    "herb": "hou_po",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "行气除满，助苍术化湿",
+    "herb_zh": "厚朴"
+   },
+   {
+    "herb": "chen_pi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "理气化湿，醒脾和胃",
+    "herb_zh": "陈皮"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 4,
+  "source_text": "tai_ping_hui_min_he_ji_ju_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "yin_qiao_san",
+  "name": "银翘散",
+  "category": "解表剂",
+  "subcategory": "辛凉解表",
+  "treatment_principle": "辛凉透表，清热解毒",
+  "composition": [
+   {
+    "herb": "jin_yin_hua",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "辛凉透表，清热解毒，与连翘相须为用，共为君药",
+    "herb_zh": "金银花"
+   },
+   {
+    "herb": "lian_qiao",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "清热解毒，透表散邪，与金银花共为君",
+    "herb_zh": "连翘"
+   },
+   {
+    "herb": "bo_he",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "辛凉疏风，清利头目，透发表邪",
+    "herb_zh": "薄荷"
+   },
+   {
+    "herb": "niu_bang_zi",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "疏散风热，解毒利咽",
+    "herb_zh": "牛蒡子"
+   },
+   {
+    "herb": "jing_jie",
+    "role": "zuo",
+    "dosage": "5g",
+    "explanation_zh": "性虽微温而透表力强，助君臣透邪外出，于辛凉方中反佐以增透散之功",
+    "herb_zh": "荆芥"
+   },
+   {
+    "herb": "dan_dou_chi",
+    "role": "zuo",
+    "dosage": "5g",
+    "explanation_zh": "辛凉解表，宣散表邪，与荆芥协同透邪外出",
+    "herb_zh": "淡豆豉"
+   },
+   {
+    "herb": "dan_zhu_ye",
+    "role": "zuo",
+    "dosage": "4g",
+    "explanation_zh": "甘淡渗利，清心除烦，使邪热从小便而出",
+    "herb_zh": "淡竹叶"
+   },
+   {
+    "herb": "jie_geng",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "宣肺利咽，载药上行",
+    "herb_zh": "桔梗"
+   },
+   {
+    "herb": "lu_gen",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "清热生津，除烦止渴",
+    "herb_zh": "芦根"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "5g",
+    "explanation_zh": "清热解毒，调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 10,
+  "source_text": "wen_bing_tiao_bian",
+  "source": "bencaodian"
+ },
+ {
+  "id": "sang_ju_yin",
+  "name": "桑菊饮",
+  "category": "解表剂",
+  "subcategory": "辛凉解表",
+  "treatment_principle": "疏风清热，宣肺止咳",
+  "composition": [
+   {
+    "herb": "sang_ye",
+    "role": "jun",
+    "dosage": "7.5g",
+    "explanation_zh": "甘苦而凉，轻清疏散，清透肺络之热，为君药",
+    "herb_zh": "桑叶"
+   },
+   {
+    "herb": "ju_hua",
+    "role": "jun",
+    "dosage": "3g",
+    "explanation_zh": "疏散风热，清利头目，与桑叶相须",
+    "herb_zh": "菊花"
+   },
+   {
+    "herb": "xing_ren",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "苦降肺气，止咳平喘",
+    "herb_zh": "杏仁"
+   },
+   {
+    "herb": "jie_geng",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "宣肺利咽，与杏仁一升一降，调畅肺气",
+    "herb_zh": "桔梗"
+   },
+   {
+    "herb": "lian_qiao",
+    "role": "zuo",
+    "dosage": "5g",
+    "explanation_zh": "透邪解毒，助君药清透风热",
+    "herb_zh": "连翘"
+   },
+   {
+    "herb": "bo_he",
+    "role": "zuo",
+    "dosage": "2.5g",
+    "explanation_zh": "辛凉透表，助疏散风热",
+    "herb_zh": "薄荷"
+   },
+   {
+    "herb": "lu_gen",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "清热生津，止渴除烦",
+    "herb_zh": "芦根"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "2.5g",
+    "explanation_zh": "调和诸药，配桔梗利咽",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 8,
+  "source_text": "wen_bing_tiao_bian",
+  "source": "bencaodian"
+ },
+ {
+  "id": "xiao_qing_long_tang",
+  "name": "小青龙汤",
+  "category": "解表剂",
+  "subcategory": "辛温解表",
+  "treatment_principle": "解表散寒，温肺化饮",
+  "composition": [
+   {
+    "herb": "ma_huang",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "发汗解表，宣肺平喘，为君药",
+    "herb_zh": "麻黄"
+   },
+   {
+    "herb": "gui_zhi",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "发汗解肌，温通经脉，助麻黄解表散寒",
+    "herb_zh": "桂枝"
+   },
+   {
+    "herb": "gan_jiang",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "温肺化饮，与细辛同为治内停寒饮之要药",
+    "herb_zh": "干姜"
+   },
+   {
+    "herb": "xi_xin",
+    "role": "chen",
+    "dosage": "3g",
+    "explanation_zh": "温肺散寒，助干姜温化痰饮",
+    "herb_zh": "细辛"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "养血敛阴，防辛散太过耗伤阴液",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "wu_wei_zi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "敛肺止咳，与干姜、细辛一散一收，散不伤正",
+    "herb_zh": "五味子"
+   },
+   {
+    "herb": "ban_xia",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "燥湿化痰，和胃降逆",
+    "herb_zh": "半夏"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "益气和中，调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 8,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "da_qing_long_tang",
+  "name": "大青龙汤",
+  "category": "解表剂",
+  "subcategory": "辛温解表",
+  "treatment_principle": "发汗解表，兼清里热",
+  "composition": [
+   {
+    "herb": "ma_huang",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "重用发汗解表，宣肺平喘，为君药",
+    "herb_zh": "麻黄"
+   },
+   {
+    "herb": "gui_zhi",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "解肌发表，助麻黄散寒解表",
+    "herb_zh": "桂枝"
+   },
+   {
+    "herb": "xing_ren",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "降气平喘，助麻黄宣降肺气",
+    "herb_zh": "杏仁"
+   },
+   {
+    "herb": "shi_gao",
+    "role": "zuo",
+    "dosage": "18g",
+    "explanation_zh": "辛甘大寒，清泻里热，除烦躁",
+    "herb_zh": "石膏"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "助麻桂解表散寒，和胃止呕",
+    "herb_zh": "生姜"
+   },
+   {
+    "herb": "da_zao",
+    "role": "zuo",
+    "dosage": "10g",
+    "explanation_zh": "益气养血，与生姜相配调和营卫",
+    "herb_zh": "大枣"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "调和诸药，缓麻黄石膏峻烈之性",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 7,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "ma_xing_shi_gan_tang",
+  "name": "麻杏甘石汤",
+  "category": "解表剂",
+  "subcategory": "辛凉宣肺",
+  "treatment_principle": "辛凉宣泄，清肺平喘",
+  "composition": [
+   {
+    "herb": "ma_huang",
+    "role": "jun",
+    "dosage": "5g",
+    "explanation_zh": "宣肺平喘，发散外邪，为君药",
+    "herb_zh": "麻黄"
+   },
+   {
+    "herb": "shi_gao",
+    "role": "jun",
+    "dosage": "18g",
+    "explanation_zh": "辛甘大寒，清泄肺热，制约麻黄之温，与麻黄相配辛凉宣泄",
+    "herb_zh": "石膏"
+   },
+   {
+    "herb": "xing_ren",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "降气止咳平喘，与麻黄一宣一降",
+    "herb_zh": "杏仁"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "益气和中，调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 4,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "ma_zi_ren_wan",
+  "name": "麻子仁丸",
+  "category": "泻下剂",
+  "subcategory": "润下",
+  "treatment_principle": "润肠泄热，行气通便",
+  "composition": [
+   {
+    "herb": "huo_ma_ren",
+    "role": "jun",
+    "dosage": "20g",
+    "explanation_zh": "质润多脂，润肠通便，为君药",
+    "herb_zh": "火麻仁"
+   },
+   {
+    "herb": "xing_ren",
+    "role": "chen",
+    "dosage": "10g",
+    "explanation_zh": "降气润肠，助麻仁通便",
+    "herb_zh": "杏仁"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "养阴柔肝，与麻仁、杏仁共润燥",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "da_huang",
+    "role": "zuo",
+    "dosage": "12g",
+    "explanation_zh": "泄热通便，荡涤肠胃",
+    "herb_zh": "大黄"
+   },
+   {
+    "herb": "zhi_shi",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "破气消积，助通便之力",
+    "herb_zh": "枳实"
+   },
+   {
+    "herb": "hou_po",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "下气除满，与枳实助大黄推荡积滞",
+    "herb_zh": "厚朴"
+   }
+  ],
+  "n_herbs": 6,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "ban_xia_xie_xin_tang",
+  "name": "半夏泻心汤",
+  "category": "和解剂",
+  "subcategory": "调和肠胃",
+  "treatment_principle": "寒热平调，消痞散结",
+  "composition": [
+   {
+    "herb": "ban_xia",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "辛开散结，降逆止呕，为君药",
+    "herb_zh": "半夏"
+   },
+   {
+    "herb": "gan_jiang",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "辛温散寒，与半夏同辛开",
+    "herb_zh": "干姜"
+   },
+   {
+    "herb": "huang_qin",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "苦寒清热，与黄连同苦降",
+    "herb_zh": "黄芩"
+   },
+   {
+    "herb": "huang_lian",
+    "role": "chen",
+    "dosage": "3g",
+    "explanation_zh": "苦寒泻火，清中焦湿热",
+    "herb_zh": "黄连"
+   },
+   {
+    "herb": "ren_shen",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "补益中气，扶正以助祛邪",
+    "herb_zh": "人参"
+   },
+   {
+    "herb": "da_zao",
+    "role": "zuo",
+    "dosage": "4枚",
+    "explanation_zh": "益气养血，与人参、甘草共补脾胃",
+    "herb_zh": "大枣"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "9g",
+    "explanation_zh": "甘缓和中，调和诸药；用炙甘草",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 7,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "pu_ji_xiao_du_yin",
+  "name": "普济消毒饮",
+  "category": "清热剂",
+  "subcategory": "清热解毒",
+  "treatment_principle": "清热解毒，疏风散邪",
+  "composition": [
+   {
+    "herb": "huang_qin",
+    "role": "jun",
+    "dosage": "15g",
+    "explanation_zh": "酒炒，清上焦热毒，为君药",
+    "herb_zh": "黄芩"
+   },
+   {
+    "herb": "huang_lian",
+    "role": "jun",
+    "dosage": "15g",
+    "explanation_zh": "酒炒，清心胃之火，与黄芩相须",
+    "herb_zh": "黄连"
+   },
+   {
+    "herb": "niu_bang_zi",
+    "role": "chen",
+    "dosage": "3g",
+    "explanation_zh": "疏散风热，解毒利咽",
+    "herb_zh": "牛蒡子"
+   },
+   {
+    "herb": "lian_qiao",
+    "role": "chen",
+    "dosage": "3g",
+    "explanation_zh": "清热解毒，消肿散结",
+    "herb_zh": "连翘"
+   },
+   {
+    "herb": "bo_he",
+    "role": "chen",
+    "dosage": "2g",
+    "explanation_zh": "辛凉疏风，清利头目咽喉",
+    "herb_zh": "薄荷"
+   },
+   {
+    "herb": "jiang_can",
+    "role": "chen",
+    "dosage": "2g",
+    "explanation_zh": "疏散风热，化痰散结",
+    "herb_zh": "僵蚕"
+   },
+   {
+    "herb": "xuan_shen",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "清热凉血解毒，滋阴降火",
+    "herb_zh": "玄参"
+   },
+   {
+    "herb": "ban_lan_gen",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "清热解毒，凉血利咽",
+    "herb_zh": "板蓝根"
+   },
+   {
+    "herb": "jie_geng",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "宣肺利咽，载药上行",
+    "herb_zh": "桔梗"
+   },
+   {
+    "herb": "chen_pi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "理气疏壅，防苦寒凝滞",
+    "herb_zh": "陈皮"
+   },
+   {
+    "herb": "chai_hu",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "疏散少阳之邪，引药上行头面",
+    "herb_zh": "柴胡"
+   },
+   {
+    "herb": "sheng_ma",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "升阳解毒，与柴胡同引药上行，兼散头面风热",
+    "herb_zh": "升麻"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "清热解毒，调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 13,
+  "source_text": "pi_wei_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "qing_ying_tang",
+  "name": "清营汤",
+  "category": "清热剂",
+  "subcategory": "清营凉血",
+  "treatment_principle": "清营解毒，透热养阴",
+  "composition": [
+   {
+    "herb": "sheng_di_huang",
+    "role": "jun",
+    "dosage": "15g",
+    "explanation_zh": "清营凉血，养阴生津，为君药之一（本方原以犀角为君，现以生地黄与清热药合用代之）",
+    "herb_zh": "生地黄"
+   },
+   {
+    "herb": "xuan_shen",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "咸寒清热凉血，养阴润燥",
+    "herb_zh": "玄参"
+   },
+   {
+    "herb": "mai_dong",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "养阴生津，清心除烦",
+    "herb_zh": "麦冬"
+   },
+   {
+    "herb": "jin_yin_hua",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "清热解毒，轻清透达，透热于营分之外",
+    "herb_zh": "金银花"
+   },
+   {
+    "herb": "lian_qiao",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "清心解毒，与金银花同用透热转气",
+    "herb_zh": "连翘"
+   },
+   {
+    "herb": "huang_lian",
+    "role": "zuo",
+    "dosage": "5g",
+    "explanation_zh": "苦寒清心火，直折营分热毒",
+    "herb_zh": "黄连"
+   },
+   {
+    "herb": "mu_dan_pi",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "清热凉血，活血散瘀",
+    "herb_zh": "牡丹皮"
+   },
+   {
+    "herb": "dan_shen",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "清心凉血，活血散瘀，防营热煎熬成瘀",
+    "herb_zh": "丹参"
+   }
+  ],
+  "n_herbs": 8,
+  "source_text": "wen_bing_tiao_bian",
+  "source": "bencaodian"
+ },
+ {
+  "id": "huang_lian_jie_du_tang",
+  "name": "黄连解毒汤",
+  "category": "清热剂",
+  "subcategory": "清热泻火解毒",
+  "treatment_principle": "泻火解毒",
+  "composition": [
+   {
+    "herb": "huang_lian",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "大苦大寒，直折心胃之火，为君",
+    "herb_zh": "黄连"
+   },
+   {
+    "herb": "huang_qin",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "清上焦肺火",
+    "herb_zh": "黄芩"
+   },
+   {
+    "herb": "huang_bai",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "泻下焦肾与膀胱之火",
+    "herb_zh": "黄柏"
+   },
+   {
+    "herb": "zhi_zi",
+    "role": "shi",
+    "dosage": "9g",
+    "explanation_zh": "通泻三焦之火，导热下行从小便出",
+    "herb_zh": "栀子"
+   }
+  ],
+  "n_herbs": 4,
+  "source_text": "yi_fang_ji_jie",
+  "source": "bencaodian"
+ },
+ {
+  "id": "long_dan_xie_gan_tang",
+  "name": "龙胆泻肝汤",
+  "category": "清热剂",
+  "subcategory": "清脏腑热",
+  "treatment_principle": "清肝胆实火，泻下焦湿热",
+  "composition": [
+   {
+    "herb": "long_dan_cao",
+    "role": "jun",
+    "dosage": "6g",
+    "explanation_zh": "大苦大寒，上泻肝胆实火，下清下焦湿热，为君",
+    "herb_zh": "龙胆草"
+   },
+   {
+    "herb": "huang_qin",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "清肝胆湿热，助龙胆草泻火",
+    "herb_zh": "黄芩"
+   },
+   {
+    "herb": "zhi_zi",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "清三焦火，导热下行",
+    "herb_zh": "栀子"
+   },
+   {
+    "herb": "ze_xie",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "渗湿泄热",
+    "herb_zh": "泽泻"
+   },
+   {
+    "herb": "che_qian_zi",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "清热利水，使湿热从小便出",
+    "herb_zh": "车前子"
+   },
+   {
+    "herb": "sheng_di_huang",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "凉血滋阴，防苦寒渗利伤阴",
+    "herb_zh": "生地黄"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "养血柔肝，与生地配合防苦燥伤血",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "chai_hu",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "疏畅肝胆气机，并引诸药入肝经",
+    "herb_zh": "柴胡"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "调和诸药，缓苦寒之性",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 9,
+  "source_text": "yi_fang_ji_jie",
+  "source": "bencaodian"
+ },
+ {
+  "id": "qing_hao_bie_jia_tang",
+  "name": "青蒿鳖甲汤",
+  "category": "清热剂",
+  "subcategory": "清虚热",
+  "treatment_principle": "养阴透热",
+  "composition": [
+   {
+    "herb": "qing_hao",
+    "role": "jun",
+    "dosage": "6g",
+    "explanation_zh": "辛香透达，引阴分伏热外出，与鳖甲相须为用共为君，取「领之而出」之意",
+    "herb_zh": "青蒿"
+   },
+   {
+    "herb": "bie_jia",
+    "role": "jun",
+    "dosage": "15g",
+    "explanation_zh": "咸寒入阴，滋阴清热，搜剔阴分伏邪，与青蒿相须为君，为「先入」阴分之要药，须打碎先煎",
+    "herb_zh": "鳖甲"
+   },
+   {
+    "herb": "sheng_di_huang",
+    "role": "chen",
+    "dosage": "12g",
+    "explanation_zh": "甘寒滋阴凉血，滋补真阴，为臣",
+    "herb_zh": "生地黄"
+   },
+   {
+    "herb": "zhi_mu",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "苦寒滋润，助青蒿清透阴分伏热",
+    "herb_zh": "知母"
+   },
+   {
+    "herb": "mu_dan_pi",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "辛寒凉血退虚热，透热外出",
+    "herb_zh": "牡丹皮"
+   }
+  ],
+  "n_herbs": 5,
+  "source_text": "wen_bing_tiao_bian",
+  "source": "bencaodian"
+ },
+ {
+  "id": "li_zhong_tang",
+  "name": "理中汤",
+  "category": "温里剂",
+  "subcategory": "温中祛寒",
+  "treatment_principle": "温中祛寒，补气健脾",
+  "composition": [
+   {
+    "herb": "gan_jiang",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "辛热温中阳，祛脾胃寒邪，为君",
+    "herb_zh": "干姜"
+   },
+   {
+    "herb": "ren_shen",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "大补元气，健脾益胃，助干姜复中阳",
+    "herb_zh": "人参"
+   },
+   {
+    "herb": "bai_zhu",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "健脾燥湿，助运化",
+    "herb_zh": "白术"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "9g",
+    "explanation_zh": "甘温益气，调和诸药；用炙甘草",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 4,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "xiao_jian_zhong_tang",
+  "name": "小建中汤",
+  "category": "温里剂",
+  "subcategory": "温中补虚",
+  "treatment_principle": "温中补虚，和里缓急",
+  "composition": [
+   {
+    "herb": "yi_tang",
+    "role": "jun",
+    "dosage": "30g",
+    "explanation_zh": "甘温质润为君，温补脾胃、缓急止痛，为建中之本；烊化服",
+    "herb_zh": "饴糖"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "chen",
+    "dosage": "18g",
+    "explanation_zh": "酸甘敛阴，柔肝缓急止痛，与饴糖甘缓相合，建中缓急",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "gui_zhi",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "辛温通阳，温中散寒，与芍药配合一散一收",
+    "herb_zh": "桂枝"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "温胃散寒，助桂枝温中",
+    "herb_zh": "生姜"
+   },
+   {
+    "herb": "da_zao",
+    "role": "zuo",
+    "dosage": "6枚",
+    "explanation_zh": "甘温补脾，与生姜调和营卫",
+    "herb_zh": "大枣"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "甘温益气，调和诸药；用炙甘草",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 6,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "wu_zhu_yu_tang",
+  "name": "吴茱萸汤",
+  "category": "温里剂",
+  "subcategory": "温中补虚",
+  "treatment_principle": "温中补虚，降逆止呕",
+  "composition": [
+   {
+    "herb": "wu_zhu_yu",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "辛苦大热，温肝胃、散寒降逆，为君",
+    "herb_zh": "吴茱萸"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "chen",
+    "dosage": "18g",
+    "explanation_zh": "重用生姜温胃散寒，降逆止呕，助吴茱萸之力",
+    "herb_zh": "生姜"
+   },
+   {
+    "herb": "ren_shen",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "补益脾胃虚气，防辛热伤正",
+    "herb_zh": "人参"
+   },
+   {
+    "herb": "da_zao",
+    "role": "shi",
+    "dosage": "4枚",
+    "explanation_zh": "甘温益气，调和脾胃，和中缓急",
+    "herb_zh": "大枣"
+   }
+  ],
+  "n_herbs": 4,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "zhen_wu_tang",
+  "name": "真武汤",
+  "category": "温里剂",
+  "subcategory": "温阳利水",
+  "treatment_principle": "温阳利水",
+  "composition": [
+   {
+    "herb": "fu_zi",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "大辛大热，温补肾阳，化气行水，为君。用炮附子",
+    "herb_zh": "附子"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "健脾渗湿利水",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "bai_zhu",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "健脾燥湿，助茯苓化水湿",
+    "herb_zh": "白术"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "温散水气，助附子温阳化饮",
+    "herb_zh": "生姜"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "利小便，缓急止腹痛，并制附子辛燥之偏",
+    "herb_zh": "白芍"
+   }
+  ],
+  "n_herbs": 5,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "dang_gui_si_ni_tang",
+  "name": "当归四逆汤",
+  "category": "温里剂",
+  "subcategory": "回阳救逆/温经散寒",
+  "treatment_principle": "温经散寒，养血通脉",
+  "composition": [
+   {
+    "herb": "dang_gui",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "养血和营，活血通脉，为君",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "gui_zhi",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "温经散寒，温通血脉",
+    "herb_zh": "桂枝"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "养血和营，与当归同补营血",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "xi_xin",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "辛温散寒，通达阳气，助桂枝温散血分寒邪",
+    "herb_zh": "细辛"
+   },
+   {
+    "herb": "da_zao",
+    "role": "zuo",
+    "dosage": "8枚",
+    "explanation_zh": "甘温益气养血，与甘草同补脾气以助生血",
+    "herb_zh": "大枣"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "益气补中，调和诸药；用炙甘草",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 6,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "gui_pi_tang",
+  "name": "归脾汤",
+  "category": "补益剂",
+  "subcategory": "气血双补",
+  "treatment_principle": "益气补血，健脾养心",
+  "composition": [
+   {
+    "herb": "huang_qi",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "补中益气，与人参相须以补脾气，为君药",
+    "herb_zh": "黄芪"
+   },
+   {
+    "herb": "ren_shen",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "大补元气，健脾养心，与黄芪共为君",
+    "herb_zh": "人参"
+   },
+   {
+    "herb": "bai_zhu",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "健脾燥湿，助参芪益气补脾",
+    "herb_zh": "白术"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "补血养心，与黄芪相伍即当归补血汤意",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "健脾渗湿，宁心安神（茯神更佳）",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "suan_zao_ren",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "养心安神，与龙眼肉相伍补益心血",
+    "herb_zh": "酸枣仁"
+   },
+   {
+    "herb": "long_yan_rou",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "补心脾，益气血，养心安神",
+    "herb_zh": "龙眼肉"
+   },
+   {
+    "herb": "yuan_zhi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "宁心安神，交通心肾",
+    "herb_zh": "远志"
+   },
+   {
+    "herb": "mu_xiang",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "行气醒脾，使补而不滞",
+    "herb_zh": "木香"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "和胃调中",
+    "herb_zh": "生姜"
+   },
+   {
+    "herb": "da_zao",
+    "role": "shi",
+    "dosage": "3 枚",
+    "explanation_zh": "益气补中，与生姜调和营卫",
+    "herb_zh": "大枣"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "益气和中，调和诸药；用炙甘草",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 12,
+  "source_text": "yi_fang_ji_jie",
+  "source": "bencaodian"
+ },
+ {
+  "id": "shen_ling_bai_zhu_san",
+  "name": "参苓白术散",
+  "category": "补益剂",
+  "subcategory": "补气",
+  "treatment_principle": "益气健脾，渗湿止泻",
+  "composition": [
+   {
+    "herb": "ren_shen",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "大补元气，健脾养胃，为君",
+    "herb_zh": "人参"
+   },
+   {
+    "herb": "bai_zhu",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "健脾燥湿，与人参共建中气",
+    "herb_zh": "白术"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "健脾渗湿，与术、参合为四君之意",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "shan_yao",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "补脾益肺，固肠止泻",
+    "herb_zh": "山药"
+   },
+   {
+    "herb": "yi_yi_ren",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "健脾渗湿，助茯苓止泻",
+    "herb_zh": "薏苡仁"
+   },
+   {
+    "herb": "sha_ren",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "化湿醒脾，行气温中",
+    "herb_zh": "砂仁"
+   },
+   {
+    "herb": "jie_geng",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "宣肺利气，载药上行，培土生金",
+    "herb_zh": "桔梗"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "调和诸药，益气和中；用炙甘草",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 8,
+  "source_text": "tai_ping_hui_min_he_ji_ju_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "zhi_gan_cao_tang",
+  "name": "炙甘草汤",
+  "category": "补益剂",
+  "subcategory": "气血阴阳并补",
+  "treatment_principle": "益气滋阴，通阳复脉",
+  "composition": [
+   {
+    "herb": "gan_cao",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "益气补中，通经脉、利血气，为君；必用炙甘草",
+    "herb_zh": "甘草"
+   },
+   {
+    "herb": "ren_shen",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "大补元气，补益心气，助甘草益气复脉",
+    "herb_zh": "人参"
+   },
+   {
+    "herb": "sheng_di_huang",
+    "role": "chen",
+    "dosage": "30g",
+    "explanation_zh": "滋阴养血，填补营血，与麦冬相须",
+    "herb_zh": "生地黄"
+   },
+   {
+    "herb": "mai_dong",
+    "role": "chen",
+    "dosage": "10g",
+    "explanation_zh": "养阴润肺，清心除烦",
+    "herb_zh": "麦冬"
+   },
+   {
+    "herb": "e_jiao",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "滋阴补血止血，烊化兑服",
+    "herb_zh": "阿胶"
+   },
+   {
+    "herb": "huo_ma_ren",
+    "role": "zuo",
+    "dosage": "10g",
+    "explanation_zh": "润肠养血，助滋阴养血之功",
+    "herb_zh": "火麻仁"
+   },
+   {
+    "herb": "gui_zhi",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "温通心阳，与炙甘草相伍温阳复脉",
+    "herb_zh": "桂枝"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "shi",
+    "dosage": "9g",
+    "explanation_zh": "温胃和中，助桂枝通阳",
+    "herb_zh": "生姜"
+   },
+   {
+    "herb": "da_zao",
+    "role": "shi",
+    "dosage": "10 枚",
+    "explanation_zh": "益气补中，滋脾生津",
+    "herb_zh": "大枣"
+   }
+  ],
+  "n_herbs": 9,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "sheng_mai_san",
+  "name": "生脉散",
+  "category": "补益剂",
+  "subcategory": "气阴双补",
+  "treatment_principle": "益气养阴，生津止渴，敛阴止汗",
+  "composition": [
+   {
+    "herb": "ren_shen",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "大补元气，补肺气生津，为君药",
+    "herb_zh": "人参"
+   },
+   {
+    "herb": "mai_dong",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "养阴润肺，清心生津",
+    "herb_zh": "麦冬"
+   },
+   {
+    "herb": "wu_wei_zi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "敛肺止汗，生津止渴，宁心安神",
+    "herb_zh": "五味子"
+   }
+  ],
+  "n_herbs": 3,
+  "source_text": "pi_wei_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "jin_gui_shen_qi_wan",
+  "name": "金匮肾气丸",
+  "category": "补益剂",
+  "subcategory": "补阳",
+  "treatment_principle": "补肾助阳，温化水气",
+  "composition": [
+   {
+    "herb": "shu_di_huang",
+    "role": "jun",
+    "dosage": "24g",
+    "explanation_zh": "滋阴补肾填精，于阴中求阳，为君",
+    "herb_zh": "熟地黄"
+   },
+   {
+    "herb": "shan_zhu_yu",
+    "role": "chen",
+    "dosage": "12g",
+    "explanation_zh": "补肝肾，固精气",
+    "herb_zh": "山茱萸"
+   },
+   {
+    "herb": "shan_yao",
+    "role": "chen",
+    "dosage": "12g",
+    "explanation_zh": "补脾益肾，固精缩尿",
+    "herb_zh": "山药"
+   },
+   {
+    "herb": "fu_zi",
+    "role": "chen",
+    "dosage": "3g",
+    "explanation_zh": "温补肾阳，少火生气；炮附子入丸剂",
+    "herb_zh": "附子"
+   },
+   {
+    "herb": "gui_zhi",
+    "role": "chen",
+    "dosage": "3g",
+    "explanation_zh": "温通阳气，助附子化气行水；后世多易肉桂",
+    "herb_zh": "桂枝"
+   },
+   {
+    "herb": "ze_xie",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "利水渗湿，泻肾浊，制熟地之腻",
+    "herb_zh": "泽泻"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "健脾渗湿，助泽泻利水",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "mu_dan_pi",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "清泻肝肾相火，制山茱萸之温涩",
+    "herb_zh": "牡丹皮"
+   }
+  ],
+  "n_herbs": 8,
+  "source_text": "jin_gui_yao_lue",
+  "source": "bencaodian"
+ },
+ {
+  "id": "suan_zao_ren_tang",
+  "name": "酸枣仁汤",
+  "category": "安神剂",
+  "subcategory": "滋养安神",
+  "treatment_principle": "养血安神，清热除烦",
+  "composition": [
+   {
+    "herb": "suan_zao_ren",
+    "role": "jun",
+    "dosage": "15g",
+    "explanation_zh": "养心益肝安神，为君药；宜炒用",
+    "herb_zh": "酸枣仁"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "宁心安神，健脾渗湿（原方当为茯神）",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "zhi_mu",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "滋阴清热除烦",
+    "herb_zh": "知母"
+   },
+   {
+    "herb": "chuan_xiong",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "调血疏肝，与酸枣仁相伍，酸收辛散相配",
+    "herb_zh": "川芎"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "调和诸药，益气和中",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 5,
+  "source_text": "jin_gui_yao_lue",
+  "source": "bencaodian"
+ },
+ {
+  "id": "an_gong_niu_huang_wan",
+  "name": "安宫牛黄丸",
+  "category": "开窍剂",
+  "subcategory": "凉开",
+  "treatment_principle": "清热开窍，豁痰解毒",
+  "composition": [
+   {
+    "herb": "huang_lian",
+    "role": "jun",
+    "dosage": "30g",
+    "explanation_zh": "苦寒清心泻火解毒；代替原方牛黄作为君药核心",
+    "herb_zh": "黄连"
+   },
+   {
+    "herb": "huang_qin",
+    "role": "chen",
+    "dosage": "30g",
+    "explanation_zh": "清上焦热毒，助黄连清心火",
+    "herb_zh": "黄芩"
+   },
+   {
+    "herb": "zhi_zi",
+    "role": "chen",
+    "dosage": "30g",
+    "explanation_zh": "清三焦火，泻心除烦",
+    "herb_zh": "栀子"
+   },
+   {
+    "herb": "yu_jin",
+    "role": "zuo",
+    "dosage": "30g",
+    "explanation_zh": "行气解郁，凉血清心，化痰开窍（代麝香通窍之部分作用）",
+    "herb_zh": "郁金"
+   },
+   {
+    "herb": "bing_pian",
+    "role": "zuo",
+    "dosage": "7.5g",
+    "explanation_zh": "芳香开窍醒神，清热止痛",
+    "herb_zh": "冰片"
+   }
+  ],
+  "n_herbs": 5,
+  "source_text": "wen_bing_tiao_bian",
+  "source": "bencaodian"
+ },
+ {
+  "id": "zi_xue_dan",
+  "name": "紫雪丹",
+  "category": "开窍剂",
+  "subcategory": "凉开",
+  "treatment_principle": "清热开窍，止痉安神",
+  "composition": [
+   {
+    "herb": "shi_gao",
+    "role": "jun",
+    "dosage": "48g",
+    "explanation_zh": "大寒清气分实热，为君；与知母相伍清热除烦",
+    "herb_zh": "石膏"
+   },
+   {
+    "herb": "zhi_mu",
+    "role": "chen",
+    "dosage": "16g",
+    "explanation_zh": "清热泻火，滋阴润燥",
+    "herb_zh": "知母"
+   },
+   {
+    "herb": "huang_lian",
+    "role": "chen",
+    "dosage": "12g",
+    "explanation_zh": "清心泻火解毒",
+    "herb_zh": "黄连"
+   },
+   {
+    "herb": "xuan_shen",
+    "role": "chen",
+    "dosage": "16g",
+    "explanation_zh": "清热凉血，滋阴解毒",
+    "herb_zh": "玄参"
+   },
+   {
+    "herb": "sheng_di_huang",
+    "role": "zuo",
+    "dosage": "16g",
+    "explanation_zh": "清热凉血，养阴生津",
+    "herb_zh": "生地黄"
+   },
+   {
+    "herb": "mang_xiao",
+    "role": "zuo",
+    "dosage": "48g",
+    "explanation_zh": "咸寒泻热通腑，釜底抽薪",
+    "herb_zh": "芒硝"
+   },
+   {
+    "herb": "mu_xiang",
+    "role": "zuo",
+    "dosage": "15g",
+    "explanation_zh": "行气开郁，防诸寒凉药凝滞气机",
+    "herb_zh": "木香"
+   },
+   {
+    "herb": "bing_pian",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "芳香开窍，醒神止痉",
+    "herb_zh": "冰片"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "8g",
+    "explanation_zh": "调和诸药，解毒",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 9,
+  "source_text": "tai_ping_hui_min_he_ji_ju_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "xue_fu_zhu_yu_tang",
+  "name": "血府逐瘀汤",
+  "category": "理血剂",
+  "subcategory": "活血祛瘀",
+  "treatment_principle": "活血化瘀，行气止痛",
+  "composition": [
+   {
+    "herb": "tao_ren",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "破血祛瘀，为君药",
+    "herb_zh": "桃仁"
+   },
+   {
+    "herb": "hong_hua",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "活血祛瘀，与桃仁相须为用，共为君药",
+    "herb_zh": "红花"
+   },
+   {
+    "herb": "chi_shao",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "凉血活血，助君祛瘀",
+    "herb_zh": "赤芍"
+   },
+   {
+    "herb": "chuan_xiong",
+    "role": "chen",
+    "dosage": "5g",
+    "explanation_zh": "活血行气，为血中之气药",
+    "herb_zh": "川芎"
+   },
+   {
+    "herb": "niu_xi",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "活血通经，引血下行",
+    "herb_zh": "牛膝"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "养血活血，祛瘀而不伤血",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "sheng_di_huang",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "凉血清热，合当归养血润燥",
+    "herb_zh": "生地黄"
+   },
+   {
+    "herb": "chai_hu",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "疏肝解郁，升达清阳",
+    "herb_zh": "柴胡"
+   },
+   {
+    "herb": "zhi_shi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "原方用枳壳，此以枳实代之；破气行滞，与柴胡一升一降，调畅气机",
+    "herb_zh": "枳实"
+   },
+   {
+    "herb": "jie_geng",
+    "role": "zuo",
+    "dosage": "5g",
+    "explanation_zh": "宣肺利气，载药上行，开胸膈之气",
+    "herb_zh": "桔梗"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 11,
+  "source_text": "yi_lin_gai_cuo",
+  "source": "bencaodian"
+ },
+ {
+  "id": "sheng_hua_tang",
+  "name": "生化汤",
+  "category": "理血剂",
+  "subcategory": "活血祛瘀",
+  "treatment_principle": "养血活血，温经止痛",
+  "composition": [
+   {
+    "herb": "dang_gui",
+    "role": "jun",
+    "dosage": "24g",
+    "explanation_zh": "重用以补血活血，化瘀生新，为君药",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "chuan_xiong",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "活血行气，助当归化瘀生新",
+    "herb_zh": "川芎"
+   },
+   {
+    "herb": "tao_ren",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "活血祛瘀",
+    "herb_zh": "桃仁"
+   },
+   {
+    "herb": "gan_jiang",
+    "role": "zuo",
+    "dosage": "2g",
+    "explanation_zh": "原方用炮姜，此库以干姜代之；温经散寒，入血分而止痛",
+    "herb_zh": "干姜"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "2g",
+    "explanation_zh": "调和诸药；炙甘草",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 5,
+  "source_text": "yi_lin_gai_cuo",
+  "source": "bencaodian"
+ },
+ {
+  "id": "xiao_ji_yin_zi",
+  "name": "小蓟饮子",
+  "category": "理血剂",
+  "subcategory": "止血",
+  "treatment_principle": "凉血止血，利水通淋",
+  "composition": [
+   {
+    "herb": "sheng_di_huang",
+    "role": "jun",
+    "dosage": "30g",
+    "explanation_zh": "重用凉血止血、养阴清热，为君药",
+    "herb_zh": "生地黄"
+   },
+   {
+    "herb": "pu_huang",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "凉血止血，化瘀利尿",
+    "herb_zh": "蒲黄"
+   },
+   {
+    "herb": "zhi_zi",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "清三焦之火，导热下行",
+    "herb_zh": "栀子"
+   },
+   {
+    "herb": "hua_shi",
+    "role": "zuo",
+    "dosage": "15g",
+    "explanation_zh": "利水通淋，清热泄湿",
+    "herb_zh": "滑石"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "养血和血，使凉血止血而不留瘀",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "调和诸药，缓急止痛；炙甘草",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 6,
+  "source_text": "yi_fang_ji_jie",
+  "source": "bencaodian"
+ },
+ {
+  "id": "sang_xing_tang",
+  "name": "桑杏汤",
+  "category": "治燥剂",
+  "subcategory": "轻宣润燥",
+  "treatment_principle": "轻宣温燥，润肺止咳",
+  "composition": [
+   {
+    "herb": "sang_ye",
+    "role": "jun",
+    "dosage": "3g",
+    "explanation_zh": "清宣肺中温燥之邪，为君药",
+    "herb_zh": "桑叶"
+   },
+   {
+    "herb": "xing_ren",
+    "role": "chen",
+    "dosage": "5g",
+    "explanation_zh": "宣降肺气，润燥止咳",
+    "herb_zh": "杏仁"
+   },
+   {
+    "herb": "sha_shen",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "养阴润肺，清热生津",
+    "herb_zh": "北沙参"
+   },
+   {
+    "herb": "zhe_bei_mu",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "清热化痰，润肺止咳",
+    "herb_zh": "浙贝母"
+   },
+   {
+    "herb": "zhi_zi",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "清泄肺热",
+    "herb_zh": "栀子"
+   }
+  ],
+  "n_herbs": 5,
+  "source_text": "wen_bing_tiao_bian",
+  "source": "bencaodian"
+ },
+ {
+  "id": "mai_men_dong_tang",
+  "name": "麦门冬汤",
+  "category": "治燥剂",
+  "subcategory": "滋阴润燥",
+  "treatment_principle": "清养肺胃，降逆下气",
+  "composition": [
+   {
+    "herb": "mai_dong",
+    "role": "jun",
+    "dosage": "60g",
+    "explanation_zh": "重用以清养肺胃之阴，润燥降逆，为君药",
+    "herb_zh": "麦冬"
+   },
+   {
+    "herb": "ban_xia",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "降逆化痰，与麦冬大量相伍，降逆而不燥，滋润而不腻",
+    "herb_zh": "半夏"
+   },
+   {
+    "herb": "ren_shen",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "益气生津",
+    "herb_zh": "人参"
+   },
+   {
+    "herb": "da_zao",
+    "role": "zuo",
+    "dosage": "12 pieces",
+    "explanation_zh": "补脾益气，养胃生津",
+    "herb_zh": "大枣"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "4g",
+    "explanation_zh": "益气和中，调和诸药；炙甘草",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 5,
+  "source_text": "jin_gui_yao_lue",
+  "source": "bencaodian"
+ },
+ {
+  "id": "bao_he_wan",
+  "name": "保和丸",
+  "category": "消食剂",
+  "subcategory": "消食化滞",
+  "treatment_principle": "消食和胃",
+  "composition": [
+   {
+    "herb": "shan_zha",
+    "role": "jun",
+    "dosage": "18g",
+    "explanation_zh": "善消肉食油腻之积，为君药",
+    "herb_zh": "山楂"
+   },
+   {
+    "herb": "lai_fu_zi",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "下气消食，长于消谷面之积",
+    "herb_zh": "莱菔子"
+   },
+   {
+    "herb": "ban_xia",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "燥湿化痰，和胃降逆",
+    "herb_zh": "半夏"
+   },
+   {
+    "herb": "chen_pi",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "理气和胃，化湿醒脾",
+    "herb_zh": "陈皮"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "健脾渗湿，和中止泻",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "lian_qiao",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "食积易郁而化热，连翘清其郁热",
+    "herb_zh": "连翘"
+   }
+  ],
+  "n_herbs": 6,
+  "source_text": "pi_wei_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "wu_mei_wan",
+  "name": "乌梅丸",
+  "category": "驱虫剂",
+  "subcategory": "安蛔止痛",
+  "treatment_principle": "温脏安蛔",
+  "composition": [
+   {
+    "herb": "wu_mei",
+    "role": "jun",
+    "dosage": "300 pieces",
+    "explanation_zh": "味极酸，蛔得酸则静，为君药",
+    "herb_zh": "乌梅"
+   },
+   {
+    "herb": "xi_xin",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "辛温散寒，蛔得辛则伏",
+    "herb_zh": "细辛"
+   },
+   {
+    "herb": "gan_jiang",
+    "role": "chen",
+    "dosage": "10g",
+    "explanation_zh": "温中散寒，温脏以安蛔",
+    "herb_zh": "干姜"
+   },
+   {
+    "herb": "fu_zi",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "温肾暖脾，助干姜温脏",
+    "herb_zh": "附子"
+   },
+   {
+    "herb": "gui_zhi",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "通阳散寒，温经通脉",
+    "herb_zh": "桂枝"
+   },
+   {
+    "herb": "huang_lian",
+    "role": "zuo",
+    "dosage": "16g",
+    "explanation_zh": "苦寒清热，蛔得苦则下",
+    "herb_zh": "黄连"
+   },
+   {
+    "herb": "huang_bai",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "苦寒清热燥湿，与黄连同泄上热",
+    "herb_zh": "黄柏"
+   },
+   {
+    "herb": "ren_shen",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "大补元气，以复下虚",
+    "herb_zh": "人参"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "zuo",
+    "dosage": "4g",
+    "explanation_zh": "养血和血，合人参补气养血",
+    "herb_zh": "当归"
+   }
+  ],
+  "n_herbs": 9,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "mu_li_san",
+  "name": "牡蛎散",
+  "category": "固涩剂",
+  "subcategory": "固表止汗",
+  "treatment_principle": "益气固表，敛阴止汗",
+  "composition": [
+   {
+    "herb": "ma_huang_gen",
+    "role": "jun",
+    "dosage": "30g",
+    "explanation_zh": "甘涩平，专入肺经，固表止汗，为君；与麻黄茎发汗作用相反",
+    "herb_zh": "麻黄根"
+   },
+   {
+    "herb": "mu_li",
+    "role": "chen",
+    "dosage": "30g",
+    "explanation_zh": "咸涩微寒，敛阴潜阳，固涩止汗，与麻黄根相须为用",
+    "herb_zh": "牡蛎"
+   },
+   {
+    "herb": "huang_qi",
+    "role": "chen",
+    "dosage": "30g",
+    "explanation_zh": "益气固表，补卫气之虚",
+    "herb_zh": "黄芪"
+   }
+  ],
+  "n_herbs": 3,
+  "source_text": "tai_ping_hui_min_he_ji_ju_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "yu_nu_jian",
+  "name": "玉女煎",
+  "category": "清热剂",
+  "subcategory": "清脏腑热",
+  "treatment_principle": "清胃热，滋肾阴",
+  "composition": [
+   {
+    "herb": "shi_gao",
+    "role": "jun",
+    "dosage": "15g",
+    "explanation_zh": "辛甘大寒，清阳明有余之火，为君药",
+    "herb_zh": "石膏"
+   },
+   {
+    "herb": "shu_di_huang",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "滋肾水之不足，壮水以制火，为臣药",
+    "herb_zh": "熟地黄"
+   },
+   {
+    "herb": "zhi_mu",
+    "role": "zuo",
+    "dosage": "5g",
+    "explanation_zh": "苦寒质润，助石膏清胃火，又助熟地滋肾阴",
+    "herb_zh": "知母"
+   },
+   {
+    "herb": "mai_dong",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "养阴清热，润肺生津",
+    "herb_zh": "麦冬"
+   },
+   {
+    "herb": "niu_xi",
+    "role": "shi",
+    "dosage": "5g",
+    "explanation_zh": "引热下行，兼补肝肾，使上炎之火循经下降",
+    "herb_zh": "牛膝"
+   }
+  ],
+  "n_herbs": 5,
+  "source_text": "yi_fang_ji_jie",
+  "source": "bencaodian"
+ },
+ {
+  "id": "wu_ling_san",
+  "name": "五苓散",
+  "category": "祛湿剂",
+  "subcategory": "利水渗湿",
+  "treatment_principle": "利水渗湿，温阳化气",
+  "composition": [
+   {
+    "herb": "zhu_ling",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "甘淡渗利膀胱水湿，与泽泻相须为用共为君药，专司利水消肿",
+    "herb_zh": "猪苓"
+   },
+   {
+    "herb": "ze_xie",
+    "role": "jun",
+    "dosage": "15g",
+    "explanation_zh": "甘淡渗湿，直达膀胱，利水作用最强，为君药",
+    "herb_zh": "泽泻"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "健脾渗湿，助泽泻利水消肿",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "bai_zhu",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "健脾燥湿，助脾运化水湿",
+    "herb_zh": "白术"
+   },
+   {
+    "herb": "gui_zhi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "温阳化气，解太阳之表，使膀胱气化复常而水湿得行",
+    "herb_zh": "桂枝"
+   }
+  ],
+  "n_herbs": 5,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "zhu_ling_tang",
+  "name": "猪苓汤",
+  "category": "祛湿剂",
+  "subcategory": "利水渗湿",
+  "treatment_principle": "利水养阴清热",
+  "composition": [
+   {
+    "herb": "zhu_ling",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "甘淡渗利膀胱水湿，为利水专品而不伤正，是本方同名君药",
+    "herb_zh": "猪苓"
+   },
+   {
+    "herb": "ze_xie",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "甘淡利水渗湿，助猪苓利小便、导水热下行",
+    "herb_zh": "泽泻"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "健脾渗湿，助利水之功",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "hua_shi",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "清热利湿，通淋止渴",
+    "herb_zh": "滑石"
+   },
+   {
+    "herb": "e_jiao",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "滋阴润燥止血，使利水而不伤阴，为本方关键之佐药",
+    "herb_zh": "阿胶"
+   }
+  ],
+  "n_herbs": 5,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "yin_chen_hao_tang",
+  "name": "茵陈蒿汤",
+  "category": "祛湿剂",
+  "subcategory": "清热祛湿",
+  "treatment_principle": "清热利湿退黄",
+  "composition": [
+   {
+    "herb": "yin_chen",
+    "role": "jun",
+    "dosage": "18g",
+    "explanation_zh": "苦微寒，清利湿热，为治黄疸之要药，为君",
+    "herb_zh": "茵陈"
+   },
+   {
+    "herb": "zhi_zi",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "清利三焦湿热，导湿热从小便而去",
+    "herb_zh": "栀子"
+   },
+   {
+    "herb": "da_huang",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "泻热通便，使瘀热从大便而下",
+    "herb_zh": "大黄"
+   }
+  ],
+  "n_herbs": 3,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "san_ren_tang",
+  "name": "三仁汤",
+  "category": "祛湿剂",
+  "subcategory": "清热祛湿",
+  "treatment_principle": "宣畅气机，清利湿热",
+  "composition": [
+   {
+    "herb": "xing_ren",
+    "role": "jun",
+    "dosage": "15g",
+    "explanation_zh": "苦辛宣降上焦肺气，气化则湿亦化，为上仁",
+    "herb_zh": "杏仁"
+   },
+   {
+    "herb": "bai_dou_kou",
+    "role": "jun",
+    "dosage": "6g",
+    "explanation_zh": "辛温芳香，化湿行气醒脾，畅中焦气机，为中仁，与杏仁、薏苡仁共成三仁之制",
+    "herb_zh": "白豆蔻"
+   },
+   {
+    "herb": "yi_yi_ren",
+    "role": "jun",
+    "dosage": "18g",
+    "explanation_zh": "甘淡渗利下焦湿热，为下仁",
+    "herb_zh": "薏苡仁"
+   },
+   {
+    "herb": "hua_shi",
+    "role": "chen",
+    "dosage": "18g",
+    "explanation_zh": "清热利湿，使湿热从小便而去",
+    "herb_zh": "滑石"
+   },
+   {
+    "herb": "ban_xia",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "燥湿化痰降逆，助畅中焦",
+    "herb_zh": "半夏"
+   },
+   {
+    "herb": "hou_po",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "行气化湿除满",
+    "herb_zh": "厚朴"
+   },
+   {
+    "herb": "tong_cao",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "甘淡渗湿，通利小便，导湿热从小便而出",
+    "herb_zh": "通草"
+   },
+   {
+    "herb": "dan_zhu_ye",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "甘淡微寒，清心除烦，利尿通淋，助滑石、通草清利湿热",
+    "herb_zh": "淡竹叶"
+   }
+  ],
+  "n_herbs": 8,
+  "source_text": "wen_bing_tiao_bian",
+  "source": "bencaodian"
+ },
+ {
+  "id": "huo_xiang_zheng_qi_san",
+  "name": "藿香正气散",
+  "category": "祛湿剂",
+  "subcategory": "化湿和胃",
+  "treatment_principle": "解表化湿，理气和中",
+  "composition": [
+   {
+    "herb": "huo_xiang",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "芳香化湿，解表和中，辟秽止呕，为君",
+    "herb_zh": "藿香"
+   },
+   {
+    "herb": "zi_su_ye",
+    "role": "chen",
+    "dosage": "3g",
+    "explanation_zh": "发散风寒，助藿香解表散寒",
+    "herb_zh": "紫苏叶"
+   },
+   {
+    "herb": "bai_zhi",
+    "role": "chen",
+    "dosage": "3g",
+    "explanation_zh": "发散风寒，兼能燥湿",
+    "herb_zh": "白芷"
+   },
+   {
+    "herb": "ban_xia",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "燥湿化痰，降逆止呕（代半夏曲）",
+    "herb_zh": "半夏"
+   },
+   {
+    "herb": "chen_pi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "理气燥湿，助化湿和胃",
+    "herb_zh": "陈皮"
+   },
+   {
+    "herb": "hou_po",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "行气燥湿除满",
+    "herb_zh": "厚朴"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "健脾渗湿，助运化",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "bai_zhu",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "健脾燥湿和中",
+    "herb_zh": "白术"
+   },
+   {
+    "herb": "jie_geng",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "宣肺利膈，助藿香苏叶宣散表邪",
+    "herb_zh": "桔梗"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "调和诸药，益气和中",
+    "herb_zh": "甘草"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "shi",
+    "dosage": "3片",
+    "explanation_zh": "和胃止呕，助解表",
+    "herb_zh": "生姜"
+   },
+   {
+    "herb": "da_zao",
+    "role": "shi",
+    "dosage": "1枚",
+    "explanation_zh": "和中益气，与生姜相配调和营卫",
+    "herb_zh": "大枣"
+   }
+  ],
+  "n_herbs": 12,
+  "source_text": "tai_ping_hui_min_he_ji_ju_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "du_huo_ji_sheng_tang",
+  "name": "独活寄生汤",
+  "category": "祛湿剂",
+  "subcategory": "祛风胜湿",
+  "treatment_principle": "祛风湿，止痹痛，补肝肾，益气血",
+  "composition": [
+   {
+    "herb": "du_huo",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "辛温通达，善祛下焦及筋骨间风寒湿邪，为君",
+    "herb_zh": "独活"
+   },
+   {
+    "herb": "sang_ji_sheng",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "祛风湿，补肝肾，强筋骨",
+    "herb_zh": "桑寄生"
+   },
+   {
+    "herb": "du_zhong",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "补肝肾，强筋骨",
+    "herb_zh": "杜仲"
+   },
+   {
+    "herb": "niu_xi",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "补肝肾，强筋骨，引药下行",
+    "herb_zh": "牛膝"
+   },
+   {
+    "herb": "xi_xin",
+    "role": "chen",
+    "dosage": "3g",
+    "explanation_zh": "搜剔筋骨之风寒湿邪，通络止痛",
+    "herb_zh": "细辛"
+   },
+   {
+    "herb": "qin_jiao",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "祛风湿，舒筋络，清虚热",
+    "herb_zh": "秦艽"
+   },
+   {
+    "herb": "fang_feng",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "祛风胜湿，为风药之润剂",
+    "herb_zh": "防风"
+   },
+   {
+    "herb": "rou_gui",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "温经散寒止痛，助祛寒湿",
+    "herb_zh": "肉桂"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "养血活血",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "chuan_xiong",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "活血行气止痛",
+    "herb_zh": "川芎"
+   },
+   {
+    "herb": "shu_di_huang",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "滋补肝肾，养血填精",
+    "herb_zh": "熟地黄"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "养血和营，柔肝止痛",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "ren_shen",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "大补元气，益气健脾",
+    "herb_zh": "人参"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "健脾渗湿",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "调和诸药，益气和中",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 15,
+  "source_text": "yi_fang_ji_jie",
+  "source": "bencaodian"
+ },
+ {
+  "id": "wen_dan_tang",
+  "name": "温胆汤",
+  "category": "祛痰剂",
+  "subcategory": "燥湿化痰",
+  "treatment_principle": "理气化痰，和胃利胆",
+  "composition": [
+   {
+    "herb": "ban_xia",
+    "role": "jun",
+    "dosage": "6g",
+    "explanation_zh": "燥湿化痰，降逆和胃，为君",
+    "herb_zh": "半夏"
+   },
+   {
+    "herb": "zhu_ru",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "清热化痰，除烦止呕",
+    "herb_zh": "竹茹"
+   },
+   {
+    "herb": "zhi_shi",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "行气消痰，使痰随气下",
+    "herb_zh": "枳实"
+   },
+   {
+    "herb": "chen_pi",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "理气燥湿，助化痰和胃",
+    "herb_zh": "陈皮"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "zuo",
+    "dosage": "4.5g",
+    "explanation_zh": "健脾渗湿，杜生痰之源",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "调和诸药，益气和中",
+    "herb_zh": "甘草"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "shi",
+    "dosage": "5片",
+    "explanation_zh": "和胃降逆，助化痰止呕",
+    "herb_zh": "生姜"
+   },
+   {
+    "herb": "da_zao",
+    "role": "shi",
+    "dosage": "1枚",
+    "explanation_zh": "益气和中，调和诸药",
+    "herb_zh": "大枣"
+   }
+  ],
+  "n_herbs": 8,
+  "source_text": "yi_fang_ji_jie",
+  "source": "bencaodian"
+ },
+ {
+  "id": "bei_mu_gua_lou_san",
+  "name": "贝母瓜蒌散",
+  "category": "祛痰剂",
+  "subcategory": "润燥化痰",
+  "treatment_principle": "润肺清热，理气化痰",
+  "composition": [
+   {
+    "herb": "chuan_bei_mu",
+    "role": "jun",
+    "dosage": "4.5g",
+    "explanation_zh": "润肺清热化痰，善治燥痰，为君",
+    "herb_zh": "川贝母"
+   },
+   {
+    "herb": "gua_lou",
+    "role": "chen",
+    "dosage": "3g",
+    "explanation_zh": "清热润燥，涤痰散结",
+    "herb_zh": "瓜蒌"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "zuo",
+    "dosage": "2.4g",
+    "explanation_zh": "健脾渗湿以杜生痰之源",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "chen_pi",
+    "role": "zuo",
+    "dosage": "1.5g",
+    "explanation_zh": "理气化痰（代橘红）",
+    "herb_zh": "陈皮"
+   },
+   {
+    "herb": "jie_geng",
+    "role": "zuo",
+    "dosage": "2.4g",
+    "explanation_zh": "宣肺祛痰，载药上行",
+    "herb_zh": "桔梗"
+   }
+  ],
+  "n_herbs": 5,
+  "source_text": "yi_fang_ji_jie",
+  "source": "bencaodian"
+ },
+ {
+  "id": "ban_xia_bai_zhu_tian_ma_tang",
+  "name": "半夏白术天麻汤",
+  "category": "祛痰剂",
+  "subcategory": "化痰熄风",
+  "treatment_principle": "化痰熄风，健脾祛湿",
+  "composition": [
+   {
+    "herb": "ban_xia",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "燥湿化痰，降逆和胃",
+    "herb_zh": "半夏"
+   },
+   {
+    "herb": "tian_ma",
+    "role": "jun",
+    "dosage": "6g",
+    "explanation_zh": "平肝熄风，为治风痰眩晕头痛之要药",
+    "herb_zh": "天麻"
+   },
+   {
+    "herb": "bai_zhu",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "健脾燥湿，治生痰之源",
+    "herb_zh": "白术"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "健脾渗湿",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "chen_pi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "理气化痰，使气顺痰消",
+    "herb_zh": "陈皮"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "调和诸药，益气和中",
+    "herb_zh": "甘草"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "shi",
+    "dosage": "2片",
+    "explanation_zh": "和胃降逆，助化痰",
+    "herb_zh": "生姜"
+   },
+   {
+    "herb": "da_zao",
+    "role": "shi",
+    "dosage": "3枚",
+    "explanation_zh": "益气和中，调和营卫",
+    "herb_zh": "大枣"
+   }
+  ],
+  "n_herbs": 8,
+  "source_text": "yi_fang_ji_jie",
+  "source": "bencaodian"
+ },
+ {
+  "id": "jiu_wei_qiang_huo_tang",
+  "name": "九味羌活汤",
+  "category": "解表剂",
+  "subcategory": "辛温解表",
+  "treatment_principle": "发汗祛湿，兼清里热",
+  "composition": [
+   {
+    "herb": "qiang_huo",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "发散风寒，祛湿止痛，为君药",
+    "herb_zh": "羌活"
+   },
+   {
+    "herb": "fang_feng",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "祛风胜湿，散寒止痛",
+    "herb_zh": "防风"
+   },
+   {
+    "herb": "cang_zhu",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "发汗祛湿，助羌活散寒除湿",
+    "herb_zh": "苍术"
+   },
+   {
+    "herb": "xi_xin",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "祛风散寒，宣通鼻窍",
+    "herb_zh": "细辛"
+   },
+   {
+    "herb": "bai_zhi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "祛风散寒，燥湿止痛",
+    "herb_zh": "白芷"
+   },
+   {
+    "herb": "chuan_xiong",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "活血祛风，行气止痛",
+    "herb_zh": "川芎"
+   },
+   {
+    "herb": "sheng_di_huang",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "清热凉血，防诸辛温药过于温燥",
+    "herb_zh": "生地黄"
+   },
+   {
+    "herb": "huang_qin",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "清泄里热",
+    "herb_zh": "黄芩"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 9,
+  "source_text": "ci_shi_nan_zhi",
+  "source": "bencaodian"
+ },
+ {
+  "id": "ren_shen_bai_du_san",
+  "name": "人参败毒散",
+  "category": "解表剂",
+  "subcategory": "辛温解表",
+  "treatment_principle": "散寒祛湿，益气解表",
+  "composition": [
+   {
+    "herb": "qiang_huo",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "祛风散寒，除湿止痛",
+    "herb_zh": "羌活"
+   },
+   {
+    "herb": "du_huo",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "祛风湿，止痹痛",
+    "herb_zh": "独活"
+   },
+   {
+    "herb": "chai_hu",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "解肌透表，疏散退热",
+    "herb_zh": "柴胡"
+   },
+   {
+    "herb": "bo_he",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "疏散风热，清利头目",
+    "herb_zh": "薄荷"
+   },
+   {
+    "herb": "chuan_xiong",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "活血行气，祛风止痛",
+    "herb_zh": "川芎"
+   },
+   {
+    "herb": "jie_geng",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "宣肺利咽，载药上行",
+    "herb_zh": "桔梗"
+   },
+   {
+    "herb": "zhi_shi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "枳壳理气宽胸",
+    "herb_zh": "枳实"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "健脾渗湿",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "ren_shen",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "益气扶正，鼓邪外出，为\"逆流挽舟\"之用",
+    "herb_zh": "人参"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 10,
+  "source_text": "tai_ping_hui_min_he_ji_ju_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "chai_ge_jie_ji_tang",
+  "name": "柴葛解肌汤",
+  "category": "解表剂",
+  "subcategory": "辛凉解表",
+  "treatment_principle": "辛凉解肌，兼清里热",
+  "composition": [
+   {
+    "herb": "chai_hu",
+    "role": "jun",
+    "dosage": "6g",
+    "explanation_zh": "解肌透邪，疏泄少阳之热",
+    "herb_zh": "柴胡"
+   },
+   {
+    "herb": "ge_gen",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "解肌退热，生津舒筋",
+    "herb_zh": "葛根"
+   },
+   {
+    "herb": "huang_qin",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "清泄里热",
+    "herb_zh": "黄芩"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "养血敛阴",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "qiang_huo",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "散太阳经风寒",
+    "herb_zh": "羌活"
+   },
+   {
+    "herb": "bai_zhi",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "散阳明经风寒",
+    "herb_zh": "白芷"
+   },
+   {
+    "herb": "shi_gao",
+    "role": "zuo",
+    "dosage": "5g",
+    "explanation_zh": "清泄阳明之热",
+    "herb_zh": "石膏"
+   },
+   {
+    "herb": "jie_geng",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "宣肺利咽",
+    "herb_zh": "桔梗"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "调和诸药",
+    "herb_zh": "甘草"
+   },
+   {
+    "herb": "da_zao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "调和营卫",
+    "herb_zh": "大枣"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "解表散寒",
+    "herb_zh": "生姜"
+   }
+  ],
+  "n_herbs": 11,
+  "source_text": "shang_han_liu_shu",
+  "source": "bencaodian"
+ },
+ {
+  "id": "xi_jiao_di_huang_tang",
+  "name": "犀角地黄汤",
+  "category": "清热剂",
+  "subcategory": "清热凉血",
+  "treatment_principle": "清热解毒，凉血散瘀",
+  "composition": [
+   {
+    "herb": "shui_niu_jiao",
+    "role": "jun",
+    "dosage": "30g",
+    "explanation_zh": "清热凉血，解毒消斑，为君药（代犀角）",
+    "herb_zh": "水牛角"
+   },
+   {
+    "herb": "sheng_di_huang",
+    "role": "chen",
+    "dosage": "30g",
+    "explanation_zh": "清热凉血，养阴生津",
+    "herb_zh": "生地黄"
+   },
+   {
+    "herb": "chi_shao",
+    "role": "zuo",
+    "dosage": "12g",
+    "explanation_zh": "清热凉血，活血散瘀",
+    "herb_zh": "赤芍"
+   },
+   {
+    "herb": "mu_dan_pi",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "清热凉血，活血散瘀",
+    "herb_zh": "牡丹皮"
+   }
+  ],
+  "n_herbs": 4,
+  "source_text": "bei_ji_qian_jin_yao_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "dao_chi_san",
+  "name": "导赤散",
+  "category": "清热剂",
+  "subcategory": "清脏腑热",
+  "treatment_principle": "清心养阴，利水通淋",
+  "composition": [
+   {
+    "herb": "sheng_di_huang",
+    "role": "jun",
+    "dosage": "15g",
+    "explanation_zh": "清热凉血，养阴生津，为君药",
+    "herb_zh": "生地黄"
+   },
+   {
+    "herb": "mu_tong",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "清心降火，利水通淋",
+    "herb_zh": "木通"
+   },
+   {
+    "herb": "dan_zhu_ye",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "清心除烦，淡渗利水",
+    "herb_zh": "淡竹叶"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "清热和中，调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 4,
+  "source_text": "xiao_er_yao_zheng_zhi_jue",
+  "source": "bencaodian"
+ },
+ {
+  "id": "qing_wei_san",
+  "name": "清胃散",
+  "category": "清热剂",
+  "subcategory": "清脏腑热",
+  "treatment_principle": "清胃凉血",
+  "composition": [
+   {
+    "herb": "huang_lian",
+    "role": "jun",
+    "dosage": "6g",
+    "explanation_zh": "清泻胃火，为君药",
+    "herb_zh": "黄连"
+   },
+   {
+    "herb": "sheng_ma",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "清热解毒，升散郁火",
+    "herb_zh": "升麻"
+   },
+   {
+    "herb": "sheng_di_huang",
+    "role": "zuo",
+    "dosage": "12g",
+    "explanation_zh": "清热凉血，滋阴养液",
+    "herb_zh": "生地黄"
+   },
+   {
+    "herb": "mu_dan_pi",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "清热凉血，散血中伏火",
+    "herb_zh": "牡丹皮"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "养血活血，消肿止痛",
+    "herb_zh": "当归"
+   }
+  ],
+  "n_herbs": 5,
+  "source_text": "lan_shi_mi_cang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "shao_yao_tang",
+  "name": "芍药汤",
+  "category": "清热剂",
+  "subcategory": "清热凉血",
+  "treatment_principle": "清热燥湿，调气和血",
+  "composition": [
+   {
+    "herb": "bai_shao",
+    "role": "jun",
+    "dosage": "15g",
+    "explanation_zh": "养血和营，缓急止痛，为君药",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "huang_lian",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "清热燥湿",
+    "herb_zh": "黄连"
+   },
+   {
+    "herb": "huang_qin",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "清热燥湿",
+    "herb_zh": "黄芩"
+   },
+   {
+    "herb": "da_huang",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "泻热除积，活血行滞",
+    "herb_zh": "大黄"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "养血活血",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "rou_gui",
+    "role": "zuo",
+    "dosage": "2g",
+    "explanation_zh": "温通血脉，防苦寒伤中",
+    "herb_zh": "肉桂"
+   },
+   {
+    "herb": "mu_xiang",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "行气导滞",
+    "herb_zh": "木香"
+   },
+   {
+    "herb": "bing_lang",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "行气导滞",
+    "herb_zh": "槟榔"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "调和诸药，缓急止痛",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 9,
+  "source_text": "su_wen_bing_ji_qi_yi_bao_ming_ji",
+  "source": "bencaodian"
+ },
+ {
+  "id": "bai_tou_weng_tang",
+  "name": "白头翁汤",
+  "category": "清热剂",
+  "subcategory": "清热凉血",
+  "treatment_principle": "清热解毒，凉血止痢",
+  "composition": [
+   {
+    "herb": "bai_tou_weng",
+    "role": "jun",
+    "dosage": "15g",
+    "explanation_zh": "清热解毒，凉血止痢，为君药",
+    "herb_zh": "白头翁"
+   },
+   {
+    "herb": "huang_lian",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "清热燥湿，厚肠止痢",
+    "herb_zh": "黄连"
+   },
+   {
+    "herb": "huang_bai",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "清热燥湿，泻火解毒",
+    "herb_zh": "黄柏"
+   },
+   {
+    "herb": "qin_pi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "清热燥湿，收涩止痢",
+    "herb_zh": "秦皮"
+   }
+  ],
+  "n_herbs": 4,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "xian_fang_huo_ming_yin",
+  "name": "仙方活命饮",
+  "category": "清热剂",
+  "subcategory": "清热解毒",
+  "treatment_principle": "清热解毒，消肿溃坚，活血止痛",
+  "composition": [
+   {
+    "herb": "jin_yin_hua",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "清热解毒，消痈散结，为君药",
+    "herb_zh": "金银花"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "活血散瘀，消肿止痛",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "chi_shao",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "清热凉血，散瘀止痛",
+    "herb_zh": "赤芍"
+   },
+   {
+    "herb": "ru_xiang",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "活血行气，消肿止痛",
+    "herb_zh": "乳香"
+   },
+   {
+    "herb": "mo_yao",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "活血散瘀，消肿止痛",
+    "herb_zh": "没药"
+   },
+   {
+    "herb": "chen_pi",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "理气行滞",
+    "herb_zh": "陈皮"
+   },
+   {
+    "herb": "fang_feng",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "祛风散邪",
+    "herb_zh": "防风"
+   },
+   {
+    "herb": "bai_zhi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "消肿排脓",
+    "herb_zh": "白芷"
+   },
+   {
+    "herb": "zhe_bei_mu",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "清热散结",
+    "herb_zh": "浙贝母"
+   },
+   {
+    "herb": "tian_hua_fen",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "清热消肿排脓",
+    "herb_zh": "天花粉"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "清热解毒，调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 11,
+  "source_text": "jiao_zhu_fu_ren_liang_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "xiao_cheng_qi_tang",
+  "name": "小承气汤",
+  "category": "泻下剂",
+  "subcategory": "寒下",
+  "treatment_principle": "轻下热结",
+  "composition": [
+   {
+    "herb": "da_huang",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "泻热通便，荡涤肠胃实热积滞，为君药",
+    "herb_zh": "大黄"
+   },
+   {
+    "herb": "hou_po",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "行气消满",
+    "herb_zh": "厚朴"
+   },
+   {
+    "herb": "zhi_shi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "破气消积",
+    "herb_zh": "枳实"
+   }
+  ],
+  "n_herbs": 3,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "tiao_wei_cheng_qi_tang",
+  "name": "调胃承气汤",
+  "category": "泻下剂",
+  "subcategory": "寒下",
+  "treatment_principle": "缓下热结",
+  "composition": [
+   {
+    "herb": "da_huang",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "泻热通便，为君药",
+    "herb_zh": "大黄"
+   },
+   {
+    "herb": "mang_xiao",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "软坚润燥，助大黄泻下通便",
+    "herb_zh": "芒硝"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "缓和大黄、芒硝泻下之力",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 3,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "wen_pi_tang",
+  "name": "温脾汤",
+  "category": "泻下剂",
+  "subcategory": "温下",
+  "treatment_principle": "攻下冷积，温补脾阳",
+  "composition": [
+   {
+    "herb": "da_huang",
+    "role": "jun",
+    "dosage": "15g",
+    "explanation_zh": "荡涤积滞，泻下通便，为君药",
+    "herb_zh": "大黄"
+   },
+   {
+    "herb": "fu_zi",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "温阳祛寒，合大黄温下冷积",
+    "herb_zh": "附子"
+   },
+   {
+    "herb": "gan_jiang",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "温中散寒，助附子温阳",
+    "herb_zh": "干姜"
+   },
+   {
+    "herb": "ren_shen",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "补气健脾，防攻下伤正",
+    "herb_zh": "人参"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 5,
+  "source_text": "bei_ji_qian_jin_yao_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "shi_zao_tang",
+  "name": "十枣汤",
+  "category": "泻下剂",
+  "subcategory": "逐水",
+  "treatment_principle": "攻逐水饮",
+  "composition": [
+   {
+    "herb": "yuan_hua",
+    "role": "jun",
+    "dosage": "1.5g",
+    "explanation_zh": "泻水逐饮，为君药",
+    "herb_zh": "芫花"
+   },
+   {
+    "herb": "gan_sui",
+    "role": "jun",
+    "dosage": "1g",
+    "explanation_zh": "泻水逐饮",
+    "herb_zh": "甘遂"
+   },
+   {
+    "herb": "da_ji",
+    "role": "jun",
+    "dosage": "1.5g",
+    "explanation_zh": "泻水逐饮",
+    "herb_zh": "大蓟"
+   },
+   {
+    "herb": "da_zao",
+    "role": "shi",
+    "dosage": "10枚",
+    "explanation_zh": "益气护胃，缓和诸药峻烈之性",
+    "herb_zh": "大枣"
+   }
+  ],
+  "n_herbs": 4,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "da_chai_hu_tang",
+  "name": "大柴胡汤",
+  "category": "和解剂",
+  "subcategory": "和解少阳",
+  "treatment_principle": "和解少阳，内泻热结",
+  "composition": [
+   {
+    "herb": "chai_hu",
+    "role": "jun",
+    "dosage": "15g",
+    "explanation_zh": "和解少阳，透泄邪热，为君药",
+    "herb_zh": "柴胡"
+   },
+   {
+    "herb": "huang_qin",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "清泄少阳之热",
+    "herb_zh": "黄芩"
+   },
+   {
+    "herb": "da_huang",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "泻阳明热结",
+    "herb_zh": "大黄"
+   },
+   {
+    "herb": "zhi_shi",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "行气消痞",
+    "herb_zh": "枳实"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "养血柔肝，缓急止痛",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "ban_xia",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "和胃降逆止呕",
+    "herb_zh": "半夏"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "shi",
+    "dosage": "15g",
+    "explanation_zh": "助半夏和胃止呕",
+    "herb_zh": "生姜"
+   },
+   {
+    "herb": "da_zao",
+    "role": "shi",
+    "dosage": "12g",
+    "explanation_zh": "益气和中",
+    "herb_zh": "大枣"
+   }
+  ],
+  "n_herbs": 8,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "si_ni_san",
+  "name": "四逆散",
+  "category": "和解剂",
+  "subcategory": "调和肝脾",
+  "treatment_principle": "透邪解郁，疏肝理脾",
+  "composition": [
+   {
+    "herb": "chai_hu",
+    "role": "jun",
+    "dosage": "6g",
+    "explanation_zh": "透邪解郁，疏肝升阳，为君药",
+    "herb_zh": "柴胡"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "养血柔肝，敛阴和营",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "zhi_shi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "理气解郁，泻脾气之壅",
+    "herb_zh": "枳实"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 4,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "hao_qin_qing_dan_tang",
+  "name": "蒿芩清胆汤",
+  "category": "和解剂",
+  "subcategory": "和解少阳",
+  "treatment_principle": "清胆利湿，和胃化痰",
+  "composition": [
+   {
+    "herb": "qing_hao",
+    "role": "jun",
+    "dosage": "6g",
+    "explanation_zh": "清透少阳邪热，为君药",
+    "herb_zh": "青蒿"
+   },
+   {
+    "herb": "huang_qin",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "清泄胆腑之热",
+    "herb_zh": "黄芩"
+   },
+   {
+    "herb": "ban_xia",
+    "role": "chen",
+    "dosage": "5g",
+    "explanation_zh": "和胃降逆，化痰开结",
+    "herb_zh": "半夏"
+   },
+   {
+    "herb": "chen_pi",
+    "role": "chen",
+    "dosage": "5g",
+    "explanation_zh": "理气化痰",
+    "herb_zh": "陈皮"
+   },
+   {
+    "herb": "zhu_ru",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "清热化痰，除烦止呕",
+    "herb_zh": "竹茹"
+   },
+   {
+    "herb": "zhi_shi",
+    "role": "zuo",
+    "dosage": "5g",
+    "explanation_zh": "行气消痞",
+    "herb_zh": "枳实"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "健脾渗湿",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "hua_shi",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "清热利湿",
+    "herb_zh": "滑石"
+   }
+  ],
+  "n_herbs": 8,
+  "source_text": "chong_ding_tong_su_shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "jia_wei_xiao_yao_san",
+  "name": "加味逍遥散",
+  "category": "和解剂",
+  "subcategory": "调和肝脾",
+  "treatment_principle": "疏肝健脾，清热和血",
+  "composition": [
+   {
+    "herb": "chai_hu",
+    "role": "jun",
+    "dosage": "6g",
+    "explanation_zh": "疏肝解郁，为君药",
+    "herb_zh": "柴胡"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "养血和血",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "养血柔肝",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "bai_zhu",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "健脾燥湿",
+    "herb_zh": "白术"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "健脾渗湿",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "mu_dan_pi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "清热凉血",
+    "herb_zh": "牡丹皮"
+   },
+   {
+    "herb": "zhi_zi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "清热泻火",
+    "herb_zh": "栀子"
+   },
+   {
+    "herb": "bo_he",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "疏散郁热",
+    "herb_zh": "薄荷"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "温中和胃",
+    "herb_zh": "生姜"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "益气和中，调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 10,
+  "source_text": "nei_ke_zhai_yao",
+  "source": "bencaodian"
+ },
+ {
+  "id": "tong_xie_yao_fang",
+  "name": "痛泻要方",
+  "category": "和解剂",
+  "subcategory": "调和肝脾",
+  "treatment_principle": "补脾柔肝，祛湿止泻",
+  "composition": [
+   {
+    "herb": "bai_zhu",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "健脾燥湿止泻，为君药",
+    "herb_zh": "白术"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "养血柔肝，缓急止痛",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "chen_pi",
+    "role": "zuo",
+    "dosage": "5g",
+    "explanation_zh": "理气醒脾，防白术壅滞",
+    "herb_zh": "陈皮"
+   },
+   {
+    "herb": "fang_feng",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "祛风胜湿止泻，且疏肝舒脾",
+    "herb_zh": "防风"
+   }
+  ],
+  "n_herbs": 4,
+  "source_text": "jing_yue_quan_shu",
+  "source": "bencaodian"
+ },
+ {
+  "id": "ba_zheng_san",
+  "name": "八正散",
+  "category": "祛湿剂",
+  "subcategory": "清热祛湿",
+  "treatment_principle": "清热泻火，利水通淋",
+  "composition": [
+   {
+    "herb": "hua_shi",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "清热利水通淋，为君药",
+    "herb_zh": "滑石"
+   },
+   {
+    "herb": "mu_tong",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "清心火，利小肠，通淋",
+    "herb_zh": "木通"
+   },
+   {
+    "herb": "che_qian_zi",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "清热利水通淋",
+    "herb_zh": "车前子"
+   },
+   {
+    "herb": "qu_mai",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "清热利水通淋",
+    "herb_zh": "瞿麦"
+   },
+   {
+    "herb": "bian_xu",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "清热利水通淋",
+    "herb_zh": "萹蓄"
+   },
+   {
+    "herb": "zhi_zi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "清热泻火，清三焦之热",
+    "herb_zh": "栀子"
+   },
+   {
+    "herb": "da_huang",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "泻热通便，导湿热从大便出",
+    "herb_zh": "大黄"
+   },
+   {
+    "herb": "deng_xin_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "清心降火，利水通淋",
+    "herb_zh": "灯心草"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 9,
+  "source_text": "tai_ping_hui_min_he_ji_ju_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "gan_lu_xiao_du_dan",
+  "name": "甘露消毒丹",
+  "category": "祛湿剂",
+  "subcategory": "清热祛湿",
+  "treatment_principle": "利湿化浊，清热解毒",
+  "composition": [
+   {
+    "herb": "hua_shi",
+    "role": "jun",
+    "dosage": "15g",
+    "explanation_zh": "清热利湿",
+    "herb_zh": "滑石"
+   },
+   {
+    "herb": "yin_chen",
+    "role": "jun",
+    "dosage": "11g",
+    "explanation_zh": "清利湿热，利胆退黄",
+    "herb_zh": "茵陈"
+   },
+   {
+    "herb": "huang_qin",
+    "role": "jun",
+    "dosage": "10g",
+    "explanation_zh": "清热燥湿",
+    "herb_zh": "黄芩"
+   },
+   {
+    "herb": "shi_chang_pu",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "芳香化湿开窍",
+    "herb_zh": "石菖蒲"
+   },
+   {
+    "herb": "huo_xiang",
+    "role": "chen",
+    "dosage": "4g",
+    "explanation_zh": "芳香化湿",
+    "herb_zh": "藿香"
+   },
+   {
+    "herb": "bai_dou_kou",
+    "role": "chen",
+    "dosage": "4g",
+    "explanation_zh": "芳香化湿，行气宽中",
+    "herb_zh": "白豆蔻"
+   },
+   {
+    "herb": "mu_tong",
+    "role": "zuo",
+    "dosage": "5g",
+    "explanation_zh": "清热利水",
+    "herb_zh": "木通"
+   },
+   {
+    "herb": "lian_qiao",
+    "role": "zuo",
+    "dosage": "10g",
+    "explanation_zh": "清热解毒，散结消肿",
+    "herb_zh": "连翘"
+   },
+   {
+    "herb": "bo_he",
+    "role": "zuo",
+    "dosage": "4g",
+    "explanation_zh": "疏散风热",
+    "herb_zh": "薄荷"
+   },
+   {
+    "herb": "she_gan",
+    "role": "zuo",
+    "dosage": "4g",
+    "explanation_zh": "清热利咽",
+    "herb_zh": "射干"
+   },
+   {
+    "herb": "chuan_bei_mu",
+    "role": "zuo",
+    "dosage": "5g",
+    "explanation_zh": "清热化痰散结",
+    "herb_zh": "川贝母"
+   }
+  ],
+  "n_herbs": 11,
+  "source_text": "wen_re_jing_wei",
+  "source": "bencaodian"
+ },
+ {
+  "id": "er_miao_san",
+  "name": "二妙散",
+  "category": "祛湿剂",
+  "subcategory": "清热祛湿",
+  "treatment_principle": "清热燥湿",
+  "composition": [
+   {
+    "herb": "huang_bai",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "清热燥湿，泻下焦之火，为君药",
+    "herb_zh": "黄柏"
+   },
+   {
+    "herb": "cang_zhu",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "健脾燥湿",
+    "herb_zh": "苍术"
+   }
+  ],
+  "n_herbs": 2,
+  "source_text": "dan_xi_xin_fa",
+  "source": "bencaodian"
+ },
+ {
+  "id": "fang_ji_huang_qi_tang",
+  "name": "防己黄芪汤",
+  "category": "祛湿剂",
+  "subcategory": "利水渗湿",
+  "treatment_principle": "益气祛风，健脾利水",
+  "composition": [
+   {
+    "herb": "fang_ji",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "祛风利水，为君药",
+    "herb_zh": "防己"
+   },
+   {
+    "herb": "huang_qi",
+    "role": "jun",
+    "dosage": "15g",
+    "explanation_zh": "益气固表，利水消肿",
+    "herb_zh": "黄芪"
+   },
+   {
+    "herb": "bai_zhu",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "健脾燥湿",
+    "herb_zh": "白术"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "shi",
+    "dosage": "9g",
+    "explanation_zh": "解表散水",
+    "herb_zh": "生姜"
+   },
+   {
+    "herb": "da_zao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "益气和中",
+    "herb_zh": "大枣"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 6,
+  "source_text": "jin_gui_yao_lue",
+  "source": "bencaodian"
+ },
+ {
+  "id": "shi_pi_san",
+  "name": "实脾散",
+  "category": "祛湿剂",
+  "subcategory": "温化水湿",
+  "treatment_principle": "温阳健脾，行气利水",
+  "composition": [
+   {
+    "herb": "fu_zi",
+    "role": "jun",
+    "dosage": "6g",
+    "explanation_zh": "温肾暖脾，助阳化水，为君药",
+    "herb_zh": "附子"
+   },
+   {
+    "herb": "gan_jiang",
+    "role": "jun",
+    "dosage": "6g",
+    "explanation_zh": "温中散寒，助脾运化",
+    "herb_zh": "干姜"
+   },
+   {
+    "herb": "bai_zhu",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "健脾燥湿",
+    "herb_zh": "白术"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "健脾利水",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "mu_xiang",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "行气醒脾",
+    "herb_zh": "木香"
+   },
+   {
+    "herb": "hou_po",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "行气除满",
+    "herb_zh": "厚朴"
+   },
+   {
+    "herb": "mu_gua",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "化湿和胃",
+    "herb_zh": "木瓜"
+   },
+   {
+    "herb": "da_zao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "益气和中",
+    "herb_zh": "大枣"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "温中散水",
+    "herb_zh": "生姜"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 10,
+  "source_text": "ji_sheng_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "huang_qi_gui_zhi_wu_wu_tang",
+  "name": "黄芪桂枝五物汤",
+  "category": "温里剂",
+  "subcategory": "温经散寒",
+  "treatment_principle": "益气温经，和血通痹",
+  "composition": [
+   {
+    "herb": "huang_qi",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "益气固表，为君药",
+    "herb_zh": "黄芪"
+   },
+   {
+    "herb": "gui_zhi",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "温经通阳，散寒通痹",
+    "herb_zh": "桂枝"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "养血和营",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "shi",
+    "dosage": "18g",
+    "explanation_zh": "温中散寒，助桂枝通阳",
+    "herb_zh": "生姜"
+   },
+   {
+    "herb": "da_zao",
+    "role": "shi",
+    "dosage": "12g",
+    "explanation_zh": "益气和营",
+    "herb_zh": "大枣"
+   }
+  ],
+  "n_herbs": 5,
+  "source_text": "jin_gui_yao_lue",
+  "source": "bencaodian"
+ },
+ {
+  "id": "yang_he_tang",
+  "name": "阳和汤",
+  "category": "温里剂",
+  "subcategory": "温经散寒",
+  "treatment_principle": "温阳补血，散寒通滞",
+  "composition": [
+   {
+    "herb": "shu_di_huang",
+    "role": "jun",
+    "dosage": "30g",
+    "explanation_zh": "滋补精血，填髓养阴，为君药",
+    "herb_zh": "熟地黄"
+   },
+   {
+    "herb": "rou_gui",
+    "role": "chen",
+    "dosage": "3g",
+    "explanation_zh": "温阳散寒，通行血脉",
+    "herb_zh": "肉桂"
+   },
+   {
+    "herb": "lu_jiao_jiao",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "温补肾阳，生精养血",
+    "herb_zh": "鹿角胶"
+   },
+   {
+    "herb": "ma_huang",
+    "role": "zuo",
+    "dosage": "2g",
+    "explanation_zh": "开腠理，散寒凝，引药达表",
+    "herb_zh": "麻黄"
+   },
+   {
+    "herb": "bai_jie_zi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "温化痰湿，消肿散结",
+    "herb_zh": "白芥子"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "温散寒邪",
+    "herb_zh": "生姜"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 7,
+  "source_text": "wai_ke_zheng_zhi_quan_sheng_ji",
+  "source": "bencaodian"
+ },
+ {
+  "id": "ge_xia_zhu_yu_tang",
+  "name": "膈下逐瘀汤",
+  "category": "温里剂",
+  "subcategory": "活血祛瘀",
+  "treatment_principle": "活血祛瘀，行气止痛",
+  "composition": [
+   {
+    "herb": "dang_gui",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "活血养血，为君药",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "chuan_xiong",
+    "role": "jun",
+    "dosage": "6g",
+    "explanation_zh": "活血行气，祛瘀止痛",
+    "herb_zh": "川芎"
+   },
+   {
+    "herb": "chi_shao",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "清热凉血，活血祛瘀",
+    "herb_zh": "赤芍"
+   },
+   {
+    "herb": "tao_ren",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "活血祛瘀",
+    "herb_zh": "桃仁"
+   },
+   {
+    "herb": "hong_hua",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "活血祛瘀",
+    "herb_zh": "红花"
+   },
+   {
+    "herb": "mu_dan_pi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "清热凉血，活血散瘀",
+    "herb_zh": "牡丹皮"
+   },
+   {
+    "herb": "wu_yao",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "行气止痛",
+    "herb_zh": "乌药"
+   },
+   {
+    "herb": "yan_hu_suo",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "活血行气止痛",
+    "herb_zh": "延胡索"
+   },
+   {
+    "herb": "xiang_fu",
+    "role": "zuo",
+    "dosage": "5g",
+    "explanation_zh": "疏肝理气",
+    "herb_zh": "香附"
+   },
+   {
+    "herb": "zhi_shi",
+    "role": "zuo",
+    "dosage": "5g",
+    "explanation_zh": "破气消积",
+    "herb_zh": "枳实"
+   },
+   {
+    "herb": "wu_ling_zhi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "活血散瘀止痛",
+    "herb_zh": "五灵脂"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 12,
+  "source_text": "yi_lin_gai_cuo",
+  "source": "bencaodian"
+ },
+ {
+  "id": "you_gui_wan",
+  "name": "右归丸",
+  "category": "补益剂",
+  "subcategory": "补阳",
+  "treatment_principle": "温补肾阳，填精益髓",
+  "composition": [
+   {
+    "herb": "shu_di_huang",
+    "role": "jun",
+    "dosage": "24g",
+    "explanation_zh": "滋肾填精，为补肾阴之要药，阴中求阳",
+    "herb_zh": "熟地黄"
+   },
+   {
+    "herb": "shan_yao",
+    "role": "chen",
+    "dosage": "12g",
+    "explanation_zh": "补脾益肾，固精止遗",
+    "herb_zh": "山药"
+   },
+   {
+    "herb": "shan_zhu_yu",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "补益肝肾，涩精固脱",
+    "herb_zh": "山茱萸"
+   },
+   {
+    "herb": "gou_qi_zi",
+    "role": "chen",
+    "dosage": "12g",
+    "explanation_zh": "补肾益精，养肝明目",
+    "herb_zh": "枸杞子"
+   },
+   {
+    "herb": "lu_jiao_jiao",
+    "role": "chen",
+    "dosage": "12g",
+    "explanation_zh": "温补肾阳，益精养血",
+    "herb_zh": "鹿角胶"
+   },
+   {
+    "herb": "tu_si_zi",
+    "role": "zuo",
+    "dosage": "12g",
+    "explanation_zh": "补肾益精，固摄缩尿",
+    "herb_zh": "菟丝子"
+   },
+   {
+    "herb": "du_zhong",
+    "role": "zuo",
+    "dosage": "12g",
+    "explanation_zh": "补肝肾，强筋骨",
+    "herb_zh": "杜仲"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "养血和血，助精血互生",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "rou_gui",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "温补命门之火，助肾阳",
+    "herb_zh": "肉桂"
+   },
+   {
+    "herb": "fu_zi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "大补肾阳，温通经脉",
+    "herb_zh": "附子"
+   }
+  ],
+  "n_herbs": 10,
+  "source_text": "jing_yue_quan_shu",
+  "source": "bencaodian"
+ },
+ {
+  "id": "zuo_gui_wan",
+  "name": "左归丸",
+  "category": "补益剂",
+  "subcategory": "补阴",
+  "treatment_principle": "滋阴补肾，填精益髓",
+  "composition": [
+   {
+    "herb": "shu_di_huang",
+    "role": "jun",
+    "dosage": "24g",
+    "explanation_zh": "滋肾填精，为滋补肾阴之主药",
+    "herb_zh": "熟地黄"
+   },
+   {
+    "herb": "shan_yao",
+    "role": "chen",
+    "dosage": "12g",
+    "explanation_zh": "补脾固肾，助后天以养先天",
+    "herb_zh": "山药"
+   },
+   {
+    "herb": "shan_zhu_yu",
+    "role": "chen",
+    "dosage": "12g",
+    "explanation_zh": "养肝滋肾，涩精敛汗",
+    "herb_zh": "山茱萸"
+   },
+   {
+    "herb": "gou_qi_zi",
+    "role": "chen",
+    "dosage": "12g",
+    "explanation_zh": "补肾益精，养肝明目",
+    "herb_zh": "枸杞子"
+   },
+   {
+    "herb": "lu_jiao_jiao",
+    "role": "zuo",
+    "dosage": "12g",
+    "explanation_zh": "补肾阳益精血，阳中求阴",
+    "herb_zh": "鹿角胶"
+   },
+   {
+    "herb": "gui_ban_jiao",
+    "role": "zuo",
+    "dosage": "12g",
+    "explanation_zh": "滋阴潜阳，益肾健骨",
+    "herb_zh": "龟甲胶"
+   },
+   {
+    "herb": "tu_si_zi",
+    "role": "zuo",
+    "dosage": "12g",
+    "explanation_zh": "补肾益精，性平不燥",
+    "herb_zh": "菟丝子"
+   },
+   {
+    "herb": "niu_xi",
+    "role": "shi",
+    "dosage": "9g",
+    "explanation_zh": "补肝肾，强筋骨，引药下行",
+    "herb_zh": "牛膝"
+   }
+  ],
+  "n_herbs": 8,
+  "source_text": "jing_yue_quan_shu",
+  "source": "bencaodian"
+ },
+ {
+  "id": "yi_guan_jian",
+  "name": "一贯煎",
+  "category": "补益剂",
+  "subcategory": "补阴",
+  "treatment_principle": "滋阴疏肝",
+  "composition": [
+   {
+    "herb": "sheng_di_huang",
+    "role": "jun",
+    "dosage": "30g",
+    "explanation_zh": "滋阴养血，补肝肾之阴",
+    "herb_zh": "生地黄"
+   },
+   {
+    "herb": "sha_shen",
+    "role": "chen",
+    "dosage": "10g",
+    "explanation_zh": "养阴清肺，益胃生津",
+    "herb_zh": "北沙参"
+   },
+   {
+    "herb": "mai_dong",
+    "role": "chen",
+    "dosage": "10g",
+    "explanation_zh": "养阴润肺，益胃生津",
+    "herb_zh": "麦冬"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "chen",
+    "dosage": "10g",
+    "explanation_zh": "养血柔肝，补阴血之不足",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "gou_qi_zi",
+    "role": "chen",
+    "dosage": "12g",
+    "explanation_zh": "滋补肝肾之阴",
+    "herb_zh": "枸杞子"
+   },
+   {
+    "herb": "chuan_lian_zi",
+    "role": "zuo",
+    "dosage": "5g",
+    "explanation_zh": "疏肝泄热，理气止痛，为方中唯一疏泄之品",
+    "herb_zh": "川楝子"
+   }
+  ],
+  "n_herbs": 6,
+  "source_text": "xu_ming_yi_lei_an",
+  "source": "bencaodian"
+ },
+ {
+  "id": "da_bu_yin_wan",
+  "name": "大补阴丸",
+  "category": "补益剂",
+  "subcategory": "补阴",
+  "treatment_principle": "滋阴降火",
+  "composition": [
+   {
+    "herb": "shu_di_huang",
+    "role": "jun",
+    "dosage": "18g",
+    "explanation_zh": "滋阴填精，补肾水之不足",
+    "herb_zh": "熟地黄"
+   },
+   {
+    "herb": "gui_ban_jiao",
+    "role": "jun",
+    "dosage": "18g",
+    "explanation_zh": "滋阴潜阳，壮水以制火",
+    "herb_zh": "龟甲胶"
+   },
+   {
+    "herb": "huang_bai",
+    "role": "chen",
+    "dosage": "12g",
+    "explanation_zh": "泻相火，清下焦湿热",
+    "herb_zh": "黄柏"
+   },
+   {
+    "herb": "zhi_mu",
+    "role": "chen",
+    "dosage": "12g",
+    "explanation_zh": "滋阴清热，助黄柏泻火",
+    "herb_zh": "知母"
+   }
+  ],
+  "n_herbs": 4,
+  "source_text": "dan_xi_xin_fa",
+  "source": "bencaodian"
+ },
+ {
+  "id": "shi_quan_da_bu_tang",
+  "name": "十全大补汤",
+  "category": "补益剂",
+  "subcategory": "气血双补",
+  "treatment_principle": "温补气血",
+  "composition": [
+   {
+    "herb": "ren_shen",
+    "role": "jun",
+    "dosage": "6g",
+    "explanation_zh": "大补元气，为补气之主药",
+    "herb_zh": "人参"
+   },
+   {
+    "herb": "huang_qi",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "补气升阳，固表止汗，与人参共为君药",
+    "herb_zh": "黄芪"
+   },
+   {
+    "herb": "shu_di_huang",
+    "role": "chen",
+    "dosage": "12g",
+    "explanation_zh": "滋阴养血填精",
+    "herb_zh": "熟地黄"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "补血活血",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "养血敛阴，柔肝止痛",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "chuan_xiong",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "活血行气，使补而不滞",
+    "herb_zh": "川芎"
+   },
+   {
+    "herb": "bai_zhu",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "健脾燥湿，助运化",
+    "herb_zh": "白术"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "健脾渗湿",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "rou_gui",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "温阳散寒，鼓舞气血生长",
+    "herb_zh": "肉桂"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "益气和中，调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 10,
+  "source_text": "tai_ping_hui_min_he_ji_ju_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "yue_ju_wan",
+  "name": "越鞠丸",
+  "category": "理气剂",
+  "subcategory": "行气",
+  "treatment_principle": "行气解郁",
+  "composition": [
+   {
+    "herb": "xiang_fu",
+    "role": "jun",
+    "dosage": "10g",
+    "explanation_zh": "行气解郁，治气郁，为方中主药",
+    "herb_zh": "香附"
+   },
+   {
+    "herb": "chuan_xiong",
+    "role": "chen",
+    "dosage": "10g",
+    "explanation_zh": "活血行气，治血郁",
+    "herb_zh": "川芎"
+   },
+   {
+    "herb": "cang_zhu",
+    "role": "chen",
+    "dosage": "10g",
+    "explanation_zh": "燥湿运脾，治湿郁",
+    "herb_zh": "苍术"
+   },
+   {
+    "herb": "zhi_zi",
+    "role": "zuo",
+    "dosage": "10g",
+    "explanation_zh": "清热泻火，治火郁",
+    "herb_zh": "栀子"
+   },
+   {
+    "herb": "lai_fu_zi",
+    "role": "zuo",
+    "dosage": "10g",
+    "explanation_zh": "消食化积，治食郁",
+    "herb_zh": "莱菔子"
+   }
+  ],
+  "n_herbs": 5,
+  "source_text": "dan_xi_xin_fa",
+  "source": "bencaodian"
+ },
+ {
+  "id": "jin_ling_zi_san",
+  "name": "金铃子散",
+  "category": "理气剂",
+  "subcategory": "行气",
+  "treatment_principle": "疏肝泄热，活血止痛",
+  "composition": [
+   {
+    "herb": "chuan_lian_zi",
+    "role": "jun",
+    "dosage": "10g",
+    "explanation_zh": "疏肝理气，泄热止痛",
+    "herb_zh": "川楝子"
+   },
+   {
+    "herb": "yan_hu_suo",
+    "role": "chen",
+    "dosage": "10g",
+    "explanation_zh": "活血行气止痛，为止痛要药",
+    "herb_zh": "延胡索"
+   }
+  ],
+  "n_herbs": 2,
+  "source_text": "su_wen_bing_ji_qi_yi_bao_ming_ji",
+  "source": "bencaodian"
+ },
+ {
+  "id": "su_zi_jiang_qi_tang",
+  "name": "苏子降气汤",
+  "category": "理气剂",
+  "subcategory": "降气",
+  "treatment_principle": "降气平喘，祛痰止咳",
+  "composition": [
+   {
+    "herb": "zi_su_zi",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "降气平喘，祛痰止咳",
+    "herb_zh": "苏子"
+   },
+   {
+    "herb": "ban_xia",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "燥湿化痰，降逆止咳",
+    "herb_zh": "半夏"
+   },
+   {
+    "herb": "hou_po",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "宽胸理气，下气除满",
+    "herb_zh": "厚朴"
+   },
+   {
+    "herb": "chen_pi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "理气燥湿化痰",
+    "herb_zh": "陈皮"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "养血润燥，取治喘不离血之意",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "rou_gui",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "温肾纳气",
+    "herb_zh": "肉桂"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "散寒化饮",
+    "herb_zh": "生姜"
+   },
+   {
+    "herb": "da_zao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "益气和中",
+    "herb_zh": "大枣"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 9,
+  "source_text": "tai_ping_hui_min_he_ji_ju_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "ding_chuan_tang",
+  "name": "定喘汤",
+  "category": "理气剂",
+  "subcategory": "降气",
+  "treatment_principle": "宣降肺气，清热化痰",
+  "composition": [
+   {
+    "herb": "ma_huang",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "宣肺散邪，平喘止咳",
+    "herb_zh": "麻黄"
+   },
+   {
+    "herb": "bai_guo",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "敛肺定喘，与麻黄一散一收，相制为用",
+    "herb_zh": "白果"
+   },
+   {
+    "herb": "xing_ren",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "降气平喘，助麻黄宣肺",
+    "herb_zh": "杏仁"
+   },
+   {
+    "herb": "huang_qin",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "清肺泄热，止咳平喘",
+    "herb_zh": "黄芩"
+   },
+   {
+    "herb": "sang_bai_pi",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "泻肺平喘，利水消肿",
+    "herb_zh": "桑白皮"
+   },
+   {
+    "herb": "ban_xia",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "燥湿化痰，降逆止咳",
+    "herb_zh": "半夏"
+   },
+   {
+    "herb": "kuan_dong_hua",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "润肺止咳化痰",
+    "herb_zh": "款冬花"
+   },
+   {
+    "herb": "zi_su_zi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "降气化痰",
+    "herb_zh": "苏子"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 9,
+  "source_text": "she_sheng_zhong_miao_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "xuan_fu_dai_zhe_tang",
+  "name": "旋覆代赭汤",
+  "category": "理气剂",
+  "subcategory": "降气",
+  "treatment_principle": "降逆化痰，益气和胃",
+  "composition": [
+   {
+    "herb": "xuan_fu_hua",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "消痰行水，降气止噫",
+    "herb_zh": "旋覆花"
+   },
+   {
+    "herb": "dai_zhe_shi",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "质重沉降，镇逆降气",
+    "herb_zh": "代赭石"
+   },
+   {
+    "herb": "ban_xia",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "化痰散结，降逆止呕",
+    "herb_zh": "半夏"
+   },
+   {
+    "herb": "ren_shen",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "补气扶正，防金石重坠伤正",
+    "herb_zh": "人参"
+   },
+   {
+    "herb": "sheng_jiang",
+    "role": "zuo",
+    "dosage": "12g",
+    "explanation_zh": "温胃散寒止呕，用量独重",
+    "herb_zh": "生姜"
+   },
+   {
+    "herb": "da_zao",
+    "role": "shi",
+    "dosage": "12g",
+    "explanation_zh": "补脾和胃",
+    "herb_zh": "大枣"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "益气和中，调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 7,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "bu_yang_huan_wu_tang",
+  "name": "补阳还五汤",
+  "category": "理血剂",
+  "subcategory": "活血祛瘀",
+  "treatment_principle": "补气活血通络",
+  "composition": [
+   {
+    "herb": "huang_qi",
+    "role": "jun",
+    "dosage": "120g",
+    "explanation_zh": "重用黄芪，大补元气，气旺则血行，瘀去络通",
+    "herb_zh": "黄芪"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "养血活血，化瘀而不伤血",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "chi_shao",
+    "role": "zuo",
+    "dosage": "5g",
+    "explanation_zh": "活血祛瘀",
+    "herb_zh": "赤芍"
+   },
+   {
+    "herb": "chuan_xiong",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "活血行气，通达气血",
+    "herb_zh": "川芎"
+   },
+   {
+    "herb": "tao_ren",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "活血破瘀",
+    "herb_zh": "桃仁"
+   },
+   {
+    "herb": "hong_hua",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "活血祛瘀通络",
+    "herb_zh": "红花"
+   },
+   {
+    "herb": "di_long",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "通经活络",
+    "herb_zh": "地龙"
+   }
+  ],
+  "n_herbs": 7,
+  "source_text": "yi_lin_gai_cuo",
+  "source": "bencaodian"
+ },
+ {
+  "id": "tao_he_cheng_qi_tang",
+  "name": "桃核承气汤",
+  "category": "理血剂",
+  "subcategory": "活血祛瘀",
+  "treatment_principle": "破血下瘀",
+  "composition": [
+   {
+    "herb": "tao_ren",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "破血行瘀，润肠通便",
+    "herb_zh": "桃仁"
+   },
+   {
+    "herb": "da_huang",
+    "role": "chen",
+    "dosage": "12g",
+    "explanation_zh": "荡涤瘀热，通便泄热",
+    "herb_zh": "大黄"
+   },
+   {
+    "herb": "mang_xiao",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "泻热软坚，助大黄荡涤瘀热",
+    "herb_zh": "芒硝"
+   },
+   {
+    "herb": "gui_zhi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "通行血脉，助桃仁活血祛瘀",
+    "herb_zh": "桂枝"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "缓急和中，调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 5,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "si_sheng_wan",
+  "name": "四生丸",
+  "category": "理血剂",
+  "subcategory": "止血",
+  "treatment_principle": "凉血止血",
+  "composition": [
+   {
+    "herb": "sheng_di_huang",
+    "role": "jun",
+    "dosage": "30g",
+    "explanation_zh": "凉血止血，养阴生津",
+    "herb_zh": "生地黄"
+   },
+   {
+    "herb": "ce_bai_ye",
+    "role": "chen",
+    "dosage": "30g",
+    "explanation_zh": "凉血止血，为止血之要药",
+    "herb_zh": "侧柏叶"
+   },
+   {
+    "herb": "he_ye",
+    "role": "zuo",
+    "dosage": "15g",
+    "explanation_zh": "清热散瘀止血",
+    "herb_zh": "荷叶"
+   },
+   {
+    "herb": "ai_ye",
+    "role": "zuo",
+    "dosage": "10g",
+    "explanation_zh": "温经止血，引血归经",
+    "herb_zh": "艾叶"
+   }
+  ],
+  "n_herbs": 4,
+  "source_text": "fu_ren_da_quan_liang_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "huai_hua_san",
+  "name": "槐花散",
+  "category": "理血剂",
+  "subcategory": "止血",
+  "treatment_principle": "清肠止血，疏风行气",
+  "composition": [
+   {
+    "herb": "huai_hua",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "凉血止血，清泻大肠湿热",
+    "herb_zh": "槐花"
+   },
+   {
+    "herb": "ce_bai_ye",
+    "role": "chen",
+    "dosage": "12g",
+    "explanation_zh": "凉血止血，助君药止血之力",
+    "herb_zh": "侧柏叶"
+   },
+   {
+    "herb": "jing_jie",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "疏风理血，炒炭止血",
+    "herb_zh": "荆芥"
+   },
+   {
+    "herb": "zhi_shi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "行气导滞，宽肠下气",
+    "herb_zh": "枳实"
+   }
+  ],
+  "n_herbs": 4,
+  "source_text": "pu_ji_ben_shi_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "chuan_xiong_cha_tiao_san",
+  "name": "川芎茶调散",
+  "category": "治风剂",
+  "subcategory": "疏散外风",
+  "treatment_principle": "疏风止痛",
+  "composition": [
+   {
+    "herb": "chuan_xiong",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "活血行气，祛风止痛，善治头痛",
+    "herb_zh": "川芎"
+   },
+   {
+    "herb": "bai_zhi",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "祛风止痛，善治阳明经头痛（前额）",
+    "herb_zh": "白芷"
+   },
+   {
+    "herb": "qiang_huo",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "散寒祛风止痛，善治太阳经头痛（后头）",
+    "herb_zh": "羌活"
+   },
+   {
+    "herb": "xi_xin",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "祛风散寒，善治少阴经头痛",
+    "herb_zh": "细辛"
+   },
+   {
+    "herb": "fang_feng",
+    "role": "zuo",
+    "dosage": "5g",
+    "explanation_zh": "祛风解表，为风药中之润剂",
+    "herb_zh": "防风"
+   },
+   {
+    "herb": "jing_jie",
+    "role": "zuo",
+    "dosage": "12g",
+    "explanation_zh": "祛风解表，清利头目",
+    "herb_zh": "荆芥"
+   },
+   {
+    "herb": "bo_he",
+    "role": "zuo",
+    "dosage": "12g",
+    "explanation_zh": "疏散风热，清利头目",
+    "herb_zh": "薄荷"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 8,
+  "source_text": "tai_ping_hui_min_he_ji_ju_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "xiao_feng_san",
+  "name": "消风散",
+  "category": "治风剂",
+  "subcategory": "疏散外风",
+  "treatment_principle": "疏风养血，清热除湿",
+  "composition": [
+   {
+    "herb": "jing_jie",
+    "role": "jun",
+    "dosage": "6g",
+    "explanation_zh": "祛风解表止痒",
+    "herb_zh": "荆芥"
+   },
+   {
+    "herb": "fang_feng",
+    "role": "jun",
+    "dosage": "6g",
+    "explanation_zh": "祛风胜湿止痒",
+    "herb_zh": "防风"
+   },
+   {
+    "herb": "chan_tui",
+    "role": "chen",
+    "dosage": "3g",
+    "explanation_zh": "疏散风热，止痒透疹",
+    "herb_zh": "蝉蜕"
+   },
+   {
+    "herb": "niu_bang_zi",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "疏散风热，透疹止痒",
+    "herb_zh": "牛蒡子"
+   },
+   {
+    "herb": "cang_zhu",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "祛风燥湿",
+    "herb_zh": "苍术"
+   },
+   {
+    "herb": "ku_shen",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "清热燥湿止痒",
+    "herb_zh": "苦参"
+   },
+   {
+    "herb": "shi_gao",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "清热泻火",
+    "herb_zh": "石膏"
+   },
+   {
+    "herb": "zhi_mu",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "清热泻火，滋阴润燥",
+    "herb_zh": "知母"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "养血活血，治风先治血，血行风自灭",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "sheng_di_huang",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "清热凉血，养阴生津",
+    "herb_zh": "生地黄"
+   },
+   {
+    "herb": "huo_ma_ren",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "养血润燥，祛风止痒",
+    "herb_zh": "火麻仁"
+   },
+   {
+    "herb": "mu_tong",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "清热利湿，导湿热从小便出",
+    "herb_zh": "木通"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 13,
+  "source_text": "wai_ke_zheng_zong",
+  "source": "bencaodian"
+ },
+ {
+  "id": "zhen_gan_xi_feng_tang",
+  "name": "镇肝熄风汤",
+  "category": "治风剂",
+  "subcategory": "平熄内风",
+  "treatment_principle": "镇肝熄风，滋阴潜阳",
+  "composition": [
+   {
+    "herb": "niu_xi",
+    "role": "jun",
+    "dosage": "30g",
+    "explanation_zh": "引血下行，补肝肾，为方中主药",
+    "herb_zh": "牛膝"
+   },
+   {
+    "herb": "dai_zhe_shi",
+    "role": "chen",
+    "dosage": "30g",
+    "explanation_zh": "质重镇逆，降气平肝",
+    "herb_zh": "代赭石"
+   },
+   {
+    "herb": "long_gu",
+    "role": "chen",
+    "dosage": "15g",
+    "explanation_zh": "平肝潜阳，镇惊安神",
+    "herb_zh": "龙骨"
+   },
+   {
+    "herb": "mu_li",
+    "role": "chen",
+    "dosage": "15g",
+    "explanation_zh": "平肝潜阳，与龙骨相须为用",
+    "herb_zh": "牡蛎"
+   },
+   {
+    "herb": "gui_ban_jiao",
+    "role": "zuo",
+    "dosage": "15g",
+    "explanation_zh": "滋阴潜阳，育阴以涵阳",
+    "herb_zh": "龟甲胶"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "zuo",
+    "dosage": "15g",
+    "explanation_zh": "养血柔肝，敛阴平肝",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "xuan_shen",
+    "role": "zuo",
+    "dosage": "15g",
+    "explanation_zh": "滋阴降火，清浮越之热",
+    "herb_zh": "玄参"
+   },
+   {
+    "herb": "tian_dong",
+    "role": "zuo",
+    "dosage": "15g",
+    "explanation_zh": "滋阴清热",
+    "herb_zh": "天冬"
+   },
+   {
+    "herb": "yin_chen",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "清肝热，疏肝郁",
+    "herb_zh": "茵陈"
+   },
+   {
+    "herb": "chuan_lian_zi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "清泄肝热，疏肝理气",
+    "herb_zh": "川楝子"
+   },
+   {
+    "herb": "mai_ya",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "疏肝理气，防金石药碍胃",
+    "herb_zh": "麦芽"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "5g",
+    "explanation_zh": "调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 12,
+  "source_text": "yi_xue_zhong_zhong_can_xi_lu",
+  "source": "bencaodian"
+ },
+ {
+  "id": "tian_ma_gou_teng_yin",
+  "name": "天麻钩藤饮",
+  "category": "治风剂",
+  "subcategory": "平熄内风",
+  "treatment_principle": "平肝熄风，清热活血，补益肝肾",
+  "composition": [
+   {
+    "herb": "tian_ma",
+    "role": "jun",
+    "dosage": "9g",
+    "explanation_zh": "平肝熄风，善治头痛眩晕",
+    "herb_zh": "天麻"
+   },
+   {
+    "herb": "gou_teng",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "清热平肝，熄风定惊",
+    "herb_zh": "钩藤"
+   },
+   {
+    "herb": "shi_jue_ming",
+    "role": "chen",
+    "dosage": "18g",
+    "explanation_zh": "平肝潜阳，清肝明目",
+    "herb_zh": "石决明"
+   },
+   {
+    "herb": "zhi_zi",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "清泻肝火",
+    "herb_zh": "栀子"
+   },
+   {
+    "herb": "huang_qin",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "清热泻火，助栀子清肝",
+    "herb_zh": "黄芩"
+   },
+   {
+    "herb": "niu_xi",
+    "role": "zuo",
+    "dosage": "12g",
+    "explanation_zh": "引血下行，补益肝肾",
+    "herb_zh": "牛膝"
+   },
+   {
+    "herb": "du_zhong",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "补益肝肾",
+    "herb_zh": "杜仲"
+   },
+   {
+    "herb": "sang_ji_sheng",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "补肝肾，强筋骨",
+    "herb_zh": "桑寄生"
+   },
+   {
+    "herb": "yi_mu_cao",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "活血利水",
+    "herb_zh": "益母草"
+   },
+   {
+    "herb": "ye_jiao_teng",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "养心安神",
+    "herb_zh": "夜交藤"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "shi",
+    "dosage": "9g",
+    "explanation_zh": "宁心安神，健脾渗湿",
+    "herb_zh": "茯苓"
+   }
+  ],
+  "n_herbs": 11,
+  "source_text": "za_bing_zheng_zhi_xin_yi",
+  "source": "bencaodian"
+ },
+ {
+  "id": "ling_jiao_gou_teng_tang",
+  "name": "羚角钩藤汤",
+  "category": "治风剂",
+  "subcategory": "平熄内风",
+  "treatment_principle": "凉肝熄风，增液舒筋",
+  "composition": [
+   {
+    "herb": "ling_yang_jiao",
+    "role": "jun",
+    "dosage": "5g",
+    "explanation_zh": "凉肝熄风，清热镇痉",
+    "herb_zh": "羚羊角"
+   },
+   {
+    "herb": "gou_teng",
+    "role": "chen",
+    "dosage": "9g",
+    "explanation_zh": "清热平肝，熄风止痉",
+    "herb_zh": "钩藤"
+   },
+   {
+    "herb": "sang_ye",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "清肝泄热，平肝明目",
+    "herb_zh": "桑叶"
+   },
+   {
+    "herb": "ju_hua",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "清热平肝明目",
+    "herb_zh": "菊花"
+   },
+   {
+    "herb": "sheng_di_huang",
+    "role": "zuo",
+    "dosage": "15g",
+    "explanation_zh": "凉血滋阴，养肝增液",
+    "herb_zh": "生地黄"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "养血柔肝，缓急舒筋",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "chuan_bei_mu",
+    "role": "zuo",
+    "dosage": "12g",
+    "explanation_zh": "清热化痰",
+    "herb_zh": "川贝母"
+   },
+   {
+    "herb": "zhu_ru",
+    "role": "zuo",
+    "dosage": "15g",
+    "explanation_zh": "清热化痰，除烦止呕",
+    "herb_zh": "竹茹"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "shi",
+    "dosage": "15g",
+    "explanation_zh": "宁心安神",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "调和诸药，缓急止痉",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 10,
+  "source_text": "tong_su_shang_han_lun",
+  "source": "bencaodian"
+ },
+ {
+  "id": "zhen_ren_yang_zang_tang",
+  "name": "真人养脏汤",
+  "category": "固涩剂",
+  "subcategory": "涩肠固脱",
+  "treatment_principle": "涩肠固脱，温补脾肾",
+  "composition": [
+   {
+    "herb": "ying_su_ke",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "涩肠止泻，为收涩之主药",
+    "herb_zh": "罂粟壳"
+   },
+   {
+    "herb": "rou_dou_kou",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "温中涩肠止泻",
+    "herb_zh": "肉豆蔻"
+   },
+   {
+    "herb": "he_zi",
+    "role": "chen",
+    "dosage": "12g",
+    "explanation_zh": "涩肠止泻",
+    "herb_zh": "诃子"
+   },
+   {
+    "herb": "ren_shen",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "大补元气，健脾益气",
+    "herb_zh": "人参"
+   },
+   {
+    "herb": "bai_zhu",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "健脾燥湿",
+    "herb_zh": "白术"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "养血和血，行血中之滞",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "养血和营，缓急止痛",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "mu_xiang",
+    "role": "zuo",
+    "dosage": "5g",
+    "explanation_zh": "行气导滞，使涩而不滞",
+    "herb_zh": "木香"
+   },
+   {
+    "herb": "rou_gui",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "温肾暖脾",
+    "herb_zh": "肉桂"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "益气和中，调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 10,
+  "source_text": "tai_ping_hui_min_he_ji_ju_fang",
+  "source": "bencaodian"
+ },
+ {
+  "id": "si_shen_wan",
+  "name": "四神丸",
+  "category": "固涩剂",
+  "subcategory": "涩肠固脱",
+  "treatment_principle": "温肾暖脾，涩肠止泻",
+  "composition": [
+   {
+    "herb": "bu_gu_zhi",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "温肾暖脾，固精止泻",
+    "herb_zh": "补骨脂"
+   },
+   {
+    "herb": "rou_dou_kou",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "温中涩肠止泻",
+    "herb_zh": "肉豆蔻"
+   },
+   {
+    "herb": "wu_zhu_yu",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "温中散寒，助补骨脂暖脾温肾",
+    "herb_zh": "吴茱萸"
+   },
+   {
+    "herb": "wu_wei_zi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "酸涩收敛，固涩止泻",
+    "herb_zh": "五味子"
+   }
+  ],
+  "n_herbs": 4,
+  "source_text": "nei_ke_zhai_yao",
+  "source": "bencaodian"
+ },
+ {
+  "id": "sang_piao_xiao_san",
+  "name": "桑螵蛸散",
+  "category": "固涩剂",
+  "subcategory": "固精缩尿止带",
+  "treatment_principle": "调补心肾，涩精止遗",
+  "composition": [
+   {
+    "herb": "sang_piao_xiao",
+    "role": "jun",
+    "dosage": "12g",
+    "explanation_zh": "补肾固精，缩尿止遗",
+    "herb_zh": "桑螵蛸"
+   },
+   {
+    "herb": "long_gu",
+    "role": "chen",
+    "dosage": "10g",
+    "explanation_zh": "收涩固脱，镇惊安神",
+    "herb_zh": "龙骨"
+   },
+   {
+    "herb": "gui_ban_jiao",
+    "role": "chen",
+    "dosage": "10g",
+    "explanation_zh": "滋阴潜阳，补肾固精",
+    "herb_zh": "龟甲胶"
+   },
+   {
+    "herb": "ren_shen",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "补心益气，交通心肾",
+    "herb_zh": "人参"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "zuo",
+    "dosage": "10g",
+    "explanation_zh": "宁心安神，健脾渗湿",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "dang_gui",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "养血补心",
+    "herb_zh": "当归"
+   },
+   {
+    "herb": "yuan_zhi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "安神定志，交通心肾",
+    "herb_zh": "远志"
+   },
+   {
+    "herb": "shi_chang_pu",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "开窍宁神，与远志相配增强安神之力",
+    "herb_zh": "石菖蒲"
+   }
+  ],
+  "n_herbs": 8,
+  "source_text": "ben_cao_yan_yi",
+  "source": "bencaodian"
+ },
+ {
+  "id": "wan_dai_tang",
+  "name": "完带汤",
+  "category": "固涩剂",
+  "subcategory": "固精缩尿止带",
+  "treatment_principle": "补脾疏肝，化湿止带",
+  "composition": [
+   {
+    "herb": "bai_zhu",
+    "role": "jun",
+    "dosage": "30g",
+    "explanation_zh": "健脾燥湿，重用为君",
+    "herb_zh": "白术"
+   },
+   {
+    "herb": "shan_yao",
+    "role": "jun",
+    "dosage": "30g",
+    "explanation_zh": "补脾固肾止带，与白术共为君药",
+    "herb_zh": "山药"
+   },
+   {
+    "herb": "ren_shen",
+    "role": "chen",
+    "dosage": "6g",
+    "explanation_zh": "益气补脾",
+    "herb_zh": "人参"
+   },
+   {
+    "herb": "bai_shao",
+    "role": "chen",
+    "dosage": "15g",
+    "explanation_zh": "养血柔肝，使肝木不克脾土",
+    "herb_zh": "白芍"
+   },
+   {
+    "herb": "cang_zhu",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "燥湿运脾",
+    "herb_zh": "苍术"
+   },
+   {
+    "herb": "che_qian_zi",
+    "role": "zuo",
+    "dosage": "9g",
+    "explanation_zh": "利水渗湿，使湿从下出",
+    "herb_zh": "车前子"
+   },
+   {
+    "herb": "chen_pi",
+    "role": "zuo",
+    "dosage": "3g",
+    "explanation_zh": "理气健脾，使补而不滞",
+    "herb_zh": "陈皮"
+   },
+   {
+    "herb": "chai_hu",
+    "role": "zuo",
+    "dosage": "2g",
+    "explanation_zh": "疏肝升阳，少量升举清气",
+    "herb_zh": "柴胡"
+   },
+   {
+    "herb": "jing_jie",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "祛风胜湿，入血分之风药",
+    "herb_zh": "荆芥"
+   },
+   {
+    "herb": "gan_cao",
+    "role": "shi",
+    "dosage": "3g",
+    "explanation_zh": "益气和中，调和诸药",
+    "herb_zh": "甘草"
+   }
+  ],
+  "n_herbs": 10,
+  "source_text": "fu_qing_zhu_nv_ke",
+  "source": "bencaodian"
+ },
+ {
+  "id": "qing_qi_hua_tan_wan",
+  "name": "清气化痰丸",
+  "category": "祛痰剂",
+  "subcategory": "清热化痰",
+  "treatment_principle": "清热化痰，理气止咳",
+  "composition": [
+   {
+    "herb": "tian_nan_xing",
+    "role": "jun",
+    "dosage": "5g",
+    "explanation_zh": "胆南星（天南星胆汁制）。清热化痰，为治痰热之要药。",
+    "herb_zh": "天南星"
+   },
+   {
+    "herb": "huang_qin",
+    "role": "chen",
+    "dosage": "10g",
+    "explanation_zh": "清肺泻火，使火消则痰自消",
+    "herb_zh": "黄芩"
+   },
+   {
+    "herb": "gua_lou",
+    "role": "chen",
+    "dosage": "10g",
+    "explanation_zh": "清热化痰，宽胸散结",
+    "herb_zh": "瓜蒌"
+   },
+   {
+    "herb": "ban_xia",
+    "role": "zuo",
+    "dosage": "10g",
+    "explanation_zh": "燥湿化痰，降逆止咳",
+    "herb_zh": "半夏"
+   },
+   {
+    "herb": "chen_pi",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "理气化痰",
+    "herb_zh": "陈皮"
+   },
+   {
+    "herb": "fu_ling",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "健脾渗湿，绝生痰之源",
+    "herb_zh": "茯苓"
+   },
+   {
+    "herb": "xing_ren",
+    "role": "zuo",
+    "dosage": "6g",
+    "explanation_zh": "宣降肺气，止咳化痰",
+    "herb_zh": "杏仁"
+   },
+   {
+    "herb": "zhi_shi",
+    "role": "shi",
+    "dosage": "6g",
+    "explanation_zh": "行气消痰",
+    "herb_zh": "枳实"
+   }
+  ],
+  "n_herbs": 8,
+  "source_text": "yi_fang_kao",
+  "source": "bencaodian"
+ },
+ {
+  "id": "xiao_xian_xiong_tang",
+  "name": "小陷胸汤",
+  "category": "祛痰剂",
+  "subcategory": "清热化痰",
+  "treatment_principle": "清热化痰，宽胸散结",
+  "composition": [
+   {
+    "herb": "huang_lian",
+    "role": "jun",
+    "dosage": "6g",
+    "explanation_zh": "清热泻火，除心下之热",
+    "herb_zh": "黄连"
+   },
+   {
+    "herb": "gua_lou",
+    "role": "chen",
+    "dosage": "20g",
+    "explanation_zh": "清热化痰，宽胸散结",
+    "herb_zh": "瓜蒌"
+   },
+   {
+    "herb": "ban_xia",
+    "role": "zuo",
+    "dosage": "12g",
+    "explanation_zh": "化痰散结，降逆消痞",
+    "herb_zh": "半夏"
+   }
+  ],
+  "n_herbs": 3,
+  "source_text": "shang_han_lun",
+  "source": "bencaodian"
+ }
+]
