@@ -210,13 +210,32 @@ python3 src/app_model.py --base models/MiMo-V2.6-Distill-Qwen-9B \
 
 ## 已发布资源
 
-| 资源 | 地址 |
-|---|---|
-| **代码与文档** | https://github.com/johnson7788/man_medical |
-| **模型**（MiMo-9B + LoRA，193MB） | https://huggingface.co/johnson/MiMo-9B-TCM-Andrology-LoRA |
-| **数据集**（67,073 条记录，167MB） | https://huggingface.co/datasets/johnson/TCM-Andrology-EMR |
+### 代码与文档
 
-模型可直接使用（`adapter_config.json` 的 `base_model` 指向 HF 仓库 id，无需手动改路径）：
+| 平台 | 地址 |
+|---|---|
+| **GitHub**（主仓库） | https://github.com/johnson7788/man_medical |
+
+### 模型（MiMo-9B + LoRA，193 MB）
+
+| 平台 | 地址 |
+|---|---|
+| **HuggingFace** | https://huggingface.co/johnson/MiMo-9B-TCM-Andrology-LoRA |
+| **ModelScope（魔搭）** | https://www.modelscope.cn/models/InfoxmedModel/MiMo-9B-TCM-Andrology-LoRA |
+
+### 数据集（67,073 条记录，167 MB）
+
+| 平台 | 地址 |
+|---|---|
+| **HuggingFace** | https://huggingface.co/datasets/johnson/TCM-Andrology-EMR |
+| **ModelScope（魔搭）** | https://www.modelscope.cn/datasets/InfoxmedModel/TCM-Andrology-EMR |
+
+> 数据集同时包含在本仓库的 `data/` 下（见 [`docs/01_数据说明.md`](docs/01_数据说明.md)）。
+> 两处内容一致，均为**已脱敏**版本（患者 ID 哈希 + 机构名归一化）。
+
+### 加载模型
+
+`adapter_config.json` 中的 `base_model` 指向 HF 仓库 id，**无需手动改路径**：
 
 ```python
 from transformers import AutoModelForImageTextToText, AutoTokenizer
@@ -224,11 +243,20 @@ from peft import PeftModel
 import torch
 
 BASE = "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B"
+ADAPTER = "johnson/MiMo-9B-TCM-Andrology-LoRA"   # 国内可用 InfoxmedModel/MiMo-9B-TCM-Andrology-LoRA
+
 tok = AutoTokenizer.from_pretrained(BASE, trust_remote_code=True)
 model = AutoModelForImageTextToText.from_pretrained(
     BASE, dtype=torch.bfloat16, device_map={"": 0}, trust_remote_code=True)
-model = PeftModel.from_pretrained(model, "johnson/MiMo-9B-TCM-Andrology-LoRA")
+model = PeftModel.from_pretrained(model, ADAPTER)
 tok.padding_side = "left"      # ★ decoder-only 生成必须 left padding
+```
+
+国内网络访问 ModelScope 更快：
+
+```python
+from modelscope import snapshot_download
+ADAPTER = snapshot_download("InfoxmedModel/MiMo-9B-TCM-Andrology-LoRA")
 ```
 
 ---
