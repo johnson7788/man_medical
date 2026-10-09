@@ -208,6 +208,31 @@ python3 src/app_model.py --base models/MiMo-V2.6-Distill-Qwen-9B \
 
 ---
 
+## 已发布资源
+
+| 资源 | 地址 |
+|---|---|
+| **代码与文档** | https://github.com/johnson7788/man_medical |
+| **模型**（MiMo-9B + LoRA，193MB） | https://huggingface.co/johnson/MiMo-9B-TCM-Andrology-LoRA |
+| **数据集**（67,073 条记录，167MB） | https://huggingface.co/datasets/johnson/TCM-Andrology-EMR |
+
+模型可直接使用（`adapter_config.json` 的 `base_model` 指向 HF 仓库 id，无需手动改路径）：
+
+```python
+from transformers import AutoModelForImageTextToText, AutoTokenizer
+from peft import PeftModel
+import torch
+
+BASE = "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B"
+tok = AutoTokenizer.from_pretrained(BASE, trust_remote_code=True)
+model = AutoModelForImageTextToText.from_pretrained(
+    BASE, dtype=torch.bfloat16, device_map={"": 0}, trust_remote_code=True)
+model = PeftModel.from_pretrained(model, "johnson/MiMo-9B-TCM-Andrology-LoRA")
+tok.padding_side = "left"      # ★ decoder-only 生成必须 left padding
+```
+
+---
+
 ## 引用
 
 ```bibtex
@@ -215,7 +240,7 @@ python3 src/app_model.py --base models/MiMo-V2.6-Distill-Qwen-9B \
   title  = {中医男科病历 · 辨证论治模型},
   year   = {2026},
   note   = {数据 CC BY-NC 4.0，代码 Apache-2.0},
-  url    = {https://github.com/your-org/man_medical}
+  url    = {https://github.com/johnson7788/man_medical}
 }
 ```
 

@@ -10,8 +10,8 @@ message: "如果本项目的代码、数据或模型对你的研究有帮助，�
 version: 1.0.0
 date-released: "2026-10-09"
 license: Apache-2.0
-license-url: "https://github.com/your-org/man_medical/blob/main/LICENSE"
-repository-code: "https://github.com/your-org/man_medical"
+license-url: "https://github.com/johnson7788/man_medical/blob/main/LICENSE"
+repository-code: "https://github.com/johnson7788/man_medical"
 keywords:
   - 中医
   - 男科
@@ -23,7 +23,7 @@ keywords:
   - Traditional Chinese Medicine
   - prescription recommendation
 authors:
-  - name: "TODO: 填写作者/机构"
+  - name: "johnson7788"   # TODO: 换成你的真实姓名/机构
 type: software
 preferred-citation:
   type: dataset
