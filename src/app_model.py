@@ -348,6 +348,9 @@ def main() -> None:
     ap.add_argument("--port", type=int, default=7860)
     ap.add_argument("--share", action="store_true")
     ap.add_argument("--smoke", action="store_true", help="只构建界面并退出（CI 用）")
+    ap.add_argument("--auth", default=None, metavar="USER:PASS",
+                    help="启用基础认证。公网暴露时强烈建议开启，"
+                         "否则任何人都能白用你的 GPU。本地使用不必开。")
     args = ap.parse_args()
 
     be = Backend(None if args.no_model else args.base,
@@ -356,8 +359,15 @@ def main() -> None:
     if args.smoke:
         print(f"✅ 界面构建成功：{len(app.blocks)} 个组件；模型就绪={be.ready}")
         return
+    auth = None
+    if args.auth:
+        if ":" not in args.auth:
+            raise SystemExit("--auth 格式应为 USER:PASS")
+        u, pw = args.auth.split(":", 1)
+        auth = (u, pw)
+        print(f"已启用基础认证（用户 {u}）")
     app.launch(server_name=args.host, server_port=args.port, share=args.share,
-               show_error=True)
+               auth=auth, show_error=True)
 
 
 if __name__ == "__main__":
