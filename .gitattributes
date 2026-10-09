@@ -1,0 +1,14 @@
+# 大体积数据文件：标记为二进制，避免 GitHub 按文本做 diff/统计行数
+*.jsonl  -diff -merge linguist-generated
+*.safetensors binary
+*.xlsx   binary
+
+# 保证脚本换行符稳定（跨平台协作）
+*.sh text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+
+# 语言统计：数据与报告不计入"代码占比"，避免仓库看起来像纯数据仓
+data/**     linguist-vendored
+reports/**  linguist-documentation
+docs/**     linguist-documentation
